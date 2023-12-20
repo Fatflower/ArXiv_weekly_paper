@@ -10,48 +10,48 @@
 9. [Clinical Text Deduplication Practices for Efficient Pretraining and Improved Clinical Tasks](https://arxiv.org/abs/2312.09469)
 10. [Adaptive Integration of Partial Label Learning and Negative Learning for Enhanced Noisy Label Learning](https://arxiv.org/abs/2312.09505)
 11. [SQA-SAM: Segmentation Quality Assessment for Medical Images Utilizing the Segment Anything Model](https://arxiv.org/abs/2312.09899)
-12. []()
-13. []()
-14. []()
-15. []()
-16. []()
-17. []()
-18. []()
-19. []()
-20. []()
-21. []()
-22. []()
-23. []()
-24. []()
-25. []()
-26. []()
-27. []()
-28. []()
-29. []()
-30. []()
-31. []()
-32. []()
-33. []()
-34. []()
-35. []()
-36. []()
-37. []()
-38. []()
-39. []()
-40. []()
-41. []()
-42. []()
-43. []()
-44. []()
-45. []()
-46. []()
-47. []()
-48. []()
-49. []()
-50. []()
-51. []()
-52. []()
-53. []()
+12. [Tuning LayerNorm in Attention: Towards Efficient Multi-Modal LLM Finetuning](https://arxiv.org/abs/2312.11420)
+13. [Leveraging Normalization Layer in Adapters With Progressive Learning and Adaptive Distillation for Cross-Domain Few-Shot Learning](https://arxiv.org/abs/2312.11260)
+14. [UniDCP: Unifying Multiple Medical Vision-language Tasks via Dynamic Cross-modal Learnable Prompts](https://arxiv.org/abs/2312.11171)
+15. [Re-parameterized Low-rank Prompt: Generalize a Vision-Language Model within 0.5K Parameters](https://arxiv.org/abs/2312.10813)
+16. [Addressing Sample Inefficiency in Multi-View Representation Learning](https://arxiv.org/abs/2312.10725)
+17. [Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion](https://arxiv.org/abs/2312.10692)
+18. [Out-of-Distribution Detection in Long-Tailed Recognition with Calibrated Outlier Class Learning](https://arxiv.org/abs/2312.10686)
+19. [Silkie: Preference Distillation for Large Visual Language Models](https://arxiv.org/abs/2312.10665)
+20. [An Evaluation of GPT-4V and Gemini in Online VQA](https://arxiv.org/abs/2312.10637)
+21. [Cut your annotation cost: An empirical study on the use of weak, noisy, and SAM-generated annotations for segmentation network training](https://arxiv.org/abs/2312.10600)
+22. [Simple Image-level Classification Improves Open-vocabulary Object Detection](https://arxiv.org/abs/2312.10439)
+23. [RetailKLIP : Finetuning OpenCLIP backbone using metric learning on a single GPU for Zero-shot retail product image classification](https://arxiv.org/abs/2312.10282)
+24. [GPT-doctor: Customizing Large Language Models for Medical Consultation](https://arxiv.org/abs/2312.10225)
+25. [Towards the Unification of Generative and Discriminative Visual Foundation Model: A Survey](https://arxiv.org/abs/2312.10163)
+26. [FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models](https://arxiv.org/abs/2312.10114)
+27. [Deep Metric Learning for Computer Vision: A Brief Overview](https://arxiv.org/abs/2312.10046)
+28. [UniDCP: Unifying Multiple Medical Vision-language Tasks via Dynamic Cross-modal Learnable Prompts](https://arxiv.org/abs/2312.11171)
+29. [UniChest: Conquer-and-Divide Pre-training for Multi-Source Chest X-Ray Classification](https://arxiv.org/abs/2312.11171)
+30. [LaViP:Language-Grounded Visual Prompts](https://arxiv.org/abs/2312.11038)
+31. [Toward enriched Cognitive Learning with XAI](https://arxiv.org/abs/2312.10945)
+32. [Roll With the Punches: Expansion and Shrinkage of Soft Label Selection for Semi-supervised Fine-Grained Learning](https://arxiv.org/abs/2312.12237)
+33. [Brush Your Text: Synthesize Any Scene Text on Images via Diffusion Model](https://arxiv.org/abs/2312.12232)
+34. [PEPT: Expert Finding Meets Personalized Pre-training](https://arxiv.org/abs/2312.12162)
+35. [Exploring the Residual Stream of Transformers](https://arxiv.org/abs/2312.12141)
+36. [VITA: 'Carefully Chosen and Weighted Less' Is Better in Medication Recommendation](https://arxiv.org/abs/2312.12100)
+37. [Can ChatGPT be Your Personal Medical Assistant?](https://arxiv.org/abs/2312.12006)
+38. [Diffusing More Objects for Semi-Supervised Domain Adaptation with Less Labeling](https://arxiv.org/abs/2312.12000)
+39. [Sparse is Enough in Fine-tuning Pre-trained Large Language Model](https://arxiv.org/abs/2312.11875)
+40. [Beyond Prototypes: Semantic Anchor Regularization for Better Representation Learning](https://arxiv.org/abs/2312.11872)
+41. [Gemini: A Family of Highly Capable Multimodal Models](https://arxiv.org/abs/2312.11805)
+42. [Learning Object State Changes in Videos: An Open-World Perspective](https://arxiv.org/abs/2312.11782)
+43. [Understanding the Multi-modal Prompts of the Pre-trained Vision-Language Model](https://arxiv.org/abs/2312.11570)
+44. [A Survey of Reasoning with Foundation Models](https://arxiv.org/abs/2312.11562)
+45. [CLIPSyntel: CLIP and LLM Synergy for Multimodal Question Summarization in Healthcare](https://arxiv.org/abs/2312.11541)
+46. [Fast Decision Boundary based Out-of-Distribution Detector](https://arxiv.org/abs/2312.11536)
+47. [Jack of All Tasks, Master of Many: Designing General-purpose Coarse-to-Fine Vision-Language Model](https://arxiv.org/abs/2312.12423)
+48. [Weakly Supervised Open-Vocabulary Object Detection](https://arxiv.org/abs/2312.12437)
+49. [A Challenger to GPT-4V? Early Explorations of Gemini in Visual Expertise](https://arxiv.org/abs/2312.12436)
+50. [Prompting Hard or Hardly Prompting: Prompt Inversion for Text-to-Image Diffusion Models](https://arxiv.org/abs/2312.12416)
+51. [Mixture of Cluster-conditional LoRA Experts for Vision-language Instruction Tuning](https://arxiv.org/abs/2312.12379)
+52. [Visual AI and Linguistic Intelligence Through Steerability and Composability](https://arxiv.org/abs/2312.12383)
+53. [CLIP-DINOiser: Teaching CLIP a few DINO tricks](https://arxiv.org/abs/2312.12359)
 54. []()
 55. []()
 56. []()
@@ -98,3 +98,39 @@
 97. []()
 98. []()
 99. []()
+https://arxiv.org/abs/2312.11420  Tuning LayerNorm in Attention: Towards Efficient Multi-Modal LLM Finetuning
+https://arxiv.org/abs/2312.11260  Leveraging Normalization Layer in Adapters With Progressive Learning and Adaptive Distillation for Cross-Domain Few-Shot Learning
+https://arxiv.org/abs/2312.11171  UniDCP: Unifying Multiple Medical Vision-language Tasks via Dynamic Cross-modal Learnable Prompts
+https://arxiv.org/abs/2312.10813  Re-parameterized Low-rank Prompt: Generalize a Vision-Language Model within 0.5K Parameters
+https://arxiv.org/abs/2312.10725  Addressing Sample Inefficiency in Multi-View Representation Learning
+https://arxiv.org/abs/2312.10692  Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion
+https://arxiv.org/abs/2312.10686  Out-of-Distribution Detection in Long-Tailed Recognition with Calibrated Outlier Class Learning
+https://arxiv.org/abs/2312.10665  Silkie: Preference Distillation for Large Visual Language Models
+https://arxiv.org/abs/2312.10637  An Evaluation of GPT-4V and Gemini in Online VQA
+https://arxiv.org/abs/2312.10600  Cut your annotation cost: An empirical study on the use of weak, noisy, and SAM-generated annotations for segmentation network training
+https://arxiv.org/abs/2312.10439  Simple Image-level Classification Improves Open-vocabulary Object Detection
+https://arxiv.org/abs/2312.10282  RetailKLIP : Finetuning OpenCLIP backbone using metric learning on a single GPU for Zero-shot retail product image classification
+https://arxiv.org/abs/2312.10225  GPT-doctor: Customizing Large Language Models for Medical Consultation
+https://arxiv.org/abs/2312.10163  Towards the Unification of Generative and Discriminative Visual Foundation Model: A Survey
+https://arxiv.org/abs/2312.10114  FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models
+https://arxiv.org/abs/2312.10046  Deep Metric Learning for Computer Vision: A Brief Overview
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
