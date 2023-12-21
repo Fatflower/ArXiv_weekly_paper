@@ -1,5 +1,6 @@
 # Awesome_arXiv_paper
 This repository records interesting articles on the arXiv website every week (based on my own opinions only).
+If you have missed some interesting articles in arxiv this week, please do not hesitate to send me an email (z1282429194@163.com) or raise an issue, and I will add them later.
 
 ## Recommended Papers for Week 52, 2023
 0. [Point Transformer V3: Simpler, Faster, Stronger](https://arxiv.org/abs/2312.10035)
