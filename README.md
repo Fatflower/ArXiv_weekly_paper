@@ -1,7 +1,7 @@
 # Awesome_arXiv_paper
 This repository records interesting articles on the arXiv website every week (based on my own opinions only).
 
-## Recommended Papers for Week 53, 2023
+## Recommended Papers for Week 52, 2023
 0. [Point Transformer V3: Simpler, Faster, Stronger](https://arxiv.org/abs/2312.10035)
 1. [Osprey: Pixel Understanding with Visual Instruction Tuning](https://arxiv.org/abs/2312.10032)
 2. [Challenges with unsupervised LLM knowledge discovery](https://arxiv.org/abs/2312.10029)
