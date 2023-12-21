@@ -1,4 +1,4 @@
-# Awesome_arXiv_paper
+# ArXiv_weekly_paper
 This repository records interesting articles on the arXiv website every week (based on my own opinions only).
 If you find some interesting articles in this week's arxiv that I've missed, feel free to email me (z1282429194@163.com) or ask a question and I'll add it later.
 
