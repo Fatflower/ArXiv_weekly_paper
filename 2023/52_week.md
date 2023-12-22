@@ -77,43 +77,7 @@
 76. [DUSt3R: Geometric 3D Vision Made Easy](https://arxiv.org/abs/2312.14132)
 77. [VideoPoet: A Large Language Model for Zero-Shot Video Generation](https://arxiv.org/abs/2312.14125)
 78. [Learning Human-like Representations to Enable Learning Human Values](https://arxiv.org/abs/2312.14106)
-79. []()
-80. []()
-81. []()
-82. []()
-83. []()
-84. []()
-85. []()
-86. []()
-87. []()
-88. []()
-89. []()
-90. []()
-91. []()
-92. []()
-93. []()
-94. []()
-95. []()
-96. []()
-97. []()
-98. []()
-99. []()
-https://arxiv.org/abs/2312.11420  Tuning LayerNorm in Attention: Towards Efficient Multi-Modal LLM Finetuning
-https://arxiv.org/abs/2312.11260  Leveraging Normalization Layer in Adapters With Progressive Learning and Adaptive Distillation for Cross-Domain Few-Shot Learning
-https://arxiv.org/abs/2312.11171  UniDCP: Unifying Multiple Medical Vision-language Tasks via Dynamic Cross-modal Learnable Prompts
-https://arxiv.org/abs/2312.10813  Re-parameterized Low-rank Prompt: Generalize a Vision-Language Model within 0.5K Parameters
-https://arxiv.org/abs/2312.10725  Addressing Sample Inefficiency in Multi-View Representation Learning
-https://arxiv.org/abs/2312.10692  Pedestrian Attribute Recognition via CLIP based Prompt Vision-Language Fusion
-https://arxiv.org/abs/2312.10686  Out-of-Distribution Detection in Long-Tailed Recognition with Calibrated Outlier Class Learning
-https://arxiv.org/abs/2312.10665  Silkie: Preference Distillation for Large Visual Language Models
-https://arxiv.org/abs/2312.10637  An Evaluation of GPT-4V and Gemini in Online VQA
-https://arxiv.org/abs/2312.10600  Cut your annotation cost: An empirical study on the use of weak, noisy, and SAM-generated annotations for segmentation network training
-https://arxiv.org/abs/2312.10439  Simple Image-level Classification Improves Open-vocabulary Object Detection
-https://arxiv.org/abs/2312.10282  RetailKLIP : Finetuning OpenCLIP backbone using metric learning on a single GPU for Zero-shot retail product image classification
-https://arxiv.org/abs/2312.10225  GPT-doctor: Customizing Large Language Models for Medical Consultation
-https://arxiv.org/abs/2312.10163  Towards the Unification of Generative and Discriminative Visual Foundation Model: A Survey
-https://arxiv.org/abs/2312.10114  FoMo-Bench: a multi-modal, multi-scale and multi-task Forest Monitoring Benchmark for remote sensing foundation models
-https://arxiv.org/abs/2312.10046  Deep Metric Learning for Computer Vision: A Brief Overview
+
 
 
 
