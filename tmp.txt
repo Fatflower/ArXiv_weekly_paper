@@ -1,0 +1,6 @@
+https://arxiv.org/abs/2401.06310 | [2401.06310] Beyond the Surface: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation
+https://arxiv.org/abs/2401.06341 | [2401.06341] AffordanceLLM: Grounding Affordance from Vision Language Models
+https://arxiv.org/abs/2401.06548 | [2401.06548] Enhancing Consistency and Mitigating Bias: A Data Replay Approach for Incremental Learning
+https://arxiv.org/abs/2401.06827 | [2401.06827] APLe: Token-Wise Adaptive for Multi-Modal Prompt Learning
+https://arxiv.org/abs/2401.07208 | [2401.07208] Enhanced Few-Shot Class-Incremental Learning via Ensemble Models
+https://arxiv.org/abs/2401.02330 | [2401.02330] LLaVA-Phi: Efficient Multi-Modal Assistant with Small Language Model
