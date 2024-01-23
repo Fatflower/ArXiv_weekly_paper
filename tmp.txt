@@ -1,6 +1,18 @@
-https://arxiv.org/abs/2401.06310 | [2401.06310] Beyond the Surface: A Global-Scale Analysis of Visual Stereotypes in Text-to-Image Generation
-https://arxiv.org/abs/2401.06341 | [2401.06341] AffordanceLLM: Grounding Affordance from Vision Language Models
-https://arxiv.org/abs/2401.06548 | [2401.06548] Enhancing Consistency and Mitigating Bias: A Data Replay Approach for Incremental Learning
-https://arxiv.org/abs/2401.06827 | [2401.06827] APLe: Token-Wise Adaptive for Multi-Modal Prompt Learning
-https://arxiv.org/abs/2401.07208 | [2401.07208] Enhanced Few-Shot Class-Incremental Learning via Ensemble Models
-https://arxiv.org/abs/2401.02330 | [2401.02330] LLaVA-Phi: Efficient Multi-Modal Assistant with Small Language Model
+https://arxiv.org/abs/2401.12217 | [2401.12217] Exploring Simple Open-Vocabulary Semantic Segmentation
+https://arxiv.org/abs/2401.12215 | [2401.12215] Less Could Be Better: Parameter-efficient Fine-tuning Advances Medical Vision Foundation Models
+https://arxiv.org/abs/2401.12208 | [2401.12208] CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation
+https://arxiv.org/abs/2401.12200 | [2401.12200] APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference
+https://arxiv.org/abs/2401.12087 | [2401.12087] Revisiting Demonstration Selection Strategies in In-Context Learning
+https://arxiv.org/abs/2401.12039 | [2401.12039] Look, Listen and Recognise: Character-Aware Audio-Visual Subtitling
+https://arxiv.org/abs/2401.11847 | [2401.11847] SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning
+https://arxiv.org/abs/2401.11791 | [2401.11791] SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation
+https://arxiv.org/abs/2401.11734 | [2401.11734] Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey
+https://arxiv.org/abs/2401.11724 | [2401.11724] Augmenting Prototype Network with TransMix for Few-shot Hyperspectral Image Classification
+https://arxiv.org/abs/2401.11667 | [2401.11667] INCPrompt: Task-Aware incremental Prompting for Rehearsal-Free Class-incremental Learning
+https://arxiv.org/abs/2401.11633 | [2401.11633] Zoom-shot: Fast and Efficient Unsupervised Zero-Shot Transfer of CLIP to Vision Encoders with Multimodal Loss
+https://arxiv.org/abs/2401.11544 | [2401.11544] Hierarchical Prompts for Rehearsal-free Continual Learning
+https://arxiv.org/abs/2401.11436 | [2401.11436] Geometric Prior Guided Feature Representation Learning for Long-Tailed Classification
+https://arxiv.org/abs/2401.11311 | [2401.11311] A Novel Benchmark for Few-Shot Semantic Segmentation in the Era of Foundation Models
+https://arxiv.org/abs/2401.11170 | [2401.11170] Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images
+https://arxiv.org/abs/2401.11122 | [2401.11122] Spatial Structure Constraints for Weakly Supervised Semantic Segmentation
+https://arxiv.org/abs/2401.10962 | [2401.10962] One Step Learning, One Step Review
