@@ -1,18 +1,7 @@
-https://arxiv.org/abs/2401.12217 | [2401.12217] Exploring Simple Open-Vocabulary Semantic Segmentation
-https://arxiv.org/abs/2401.12215 | [2401.12215] Less Could Be Better: Parameter-efficient Fine-tuning Advances Medical Vision Foundation Models
-https://arxiv.org/abs/2401.12208 | [2401.12208] CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation
-https://arxiv.org/abs/2401.12200 | [2401.12200] APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference
-https://arxiv.org/abs/2401.12087 | [2401.12087] Revisiting Demonstration Selection Strategies in In-Context Learning
-https://arxiv.org/abs/2401.12039 | [2401.12039] Look, Listen and Recognise: Character-Aware Audio-Visual Subtitling
-https://arxiv.org/abs/2401.11847 | [2401.11847] SignVTCL: Multi-Modal Continuous Sign Language Recognition Enhanced by Visual-Textual Contrastive Learning
-https://arxiv.org/abs/2401.11791 | [2401.11791] SemPLeS: Semantic Prompt Learning for Weakly-Supervised Semantic Segmentation
-https://arxiv.org/abs/2401.11734 | [2401.11734] Colorectal Polyp Segmentation in the Deep Learning Era: A Comprehensive Survey
-https://arxiv.org/abs/2401.11724 | [2401.11724] Augmenting Prototype Network with TransMix for Few-shot Hyperspectral Image Classification
-https://arxiv.org/abs/2401.11667 | [2401.11667] INCPrompt: Task-Aware incremental Prompting for Rehearsal-Free Class-incremental Learning
-https://arxiv.org/abs/2401.11633 | [2401.11633] Zoom-shot: Fast and Efficient Unsupervised Zero-Shot Transfer of CLIP to Vision Encoders with Multimodal Loss
-https://arxiv.org/abs/2401.11544 | [2401.11544] Hierarchical Prompts for Rehearsal-free Continual Learning
-https://arxiv.org/abs/2401.11436 | [2401.11436] Geometric Prior Guided Feature Representation Learning for Long-Tailed Classification
-https://arxiv.org/abs/2401.11311 | [2401.11311] A Novel Benchmark for Few-Shot Semantic Segmentation in the Era of Foundation Models
-https://arxiv.org/abs/2401.11170 | [2401.11170] Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images
-https://arxiv.org/abs/2401.11122 | [2401.11122] Spatial Structure Constraints for Weakly Supervised Semantic Segmentation
-https://arxiv.org/abs/2401.10962 | [2401.10962] One Step Learning, One Step Review
+https://arxiv.org/abs/2401.11708 | [2401.11708] Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs
+https://arxiv.org/abs/2401.12973 | [2401.12973] In-Context Language Learning: Arhitectures and Algorithms
+https://arxiv.org/abs/2401.12820 | [2401.12820] DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer
+https://arxiv.org/abs/2401.12665 | [2401.12665] ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation
+https://arxiv.org/abs/2401.12513 | [2401.12513] Detecting and recognizing characters in Greek papyri with YOLOv8, DeiT and SimCLR
+https://arxiv.org/abs/2401.12406 | [2401.12406] Enhancing In-context Learning via Linear Probe Calibration
+https://arxiv.org/abs/2401.12344 | [2401.12344] OCT-SelfNet: A Self-Supervised Framework with Multi-Modal Datasets for Generalized and Robust Retinal Disease Detection
