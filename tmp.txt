@@ -1,7 +1,12 @@
-https://arxiv.org/abs/2401.11708 | [2401.11708] Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs
-https://arxiv.org/abs/2401.12973 | [2401.12973] In-Context Language Learning: Arhitectures and Algorithms
-https://arxiv.org/abs/2401.12820 | [2401.12820] DatUS^2: Data-driven Unsupervised Semantic Segmentation with Pre-trained Self-supervised Vision Transformer
-https://arxiv.org/abs/2401.12665 | [2401.12665] ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation
-https://arxiv.org/abs/2401.12513 | [2401.12513] Detecting and recognizing characters in Greek papyri with YOLOv8, DeiT and SimCLR
-https://arxiv.org/abs/2401.12406 | [2401.12406] Enhancing In-context Learning via Linear Probe Calibration
-https://arxiv.org/abs/2401.12344 | [2401.12344] OCT-SelfNet: A Self-Supervised Framework with Multi-Modal Datasets for Generalized and Robust Retinal Disease Detection
+https://arxiv.org/abs/2401.13641 | [2401.13641] How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability
+https://arxiv.org/abs/2401.13613 | [2401.13613] Enhancing Image Retrieval : A Comprehensive Study on Photo Search using the CLIP Mode
+https://arxiv.org/abs/2401.13560 | [2401.13560] SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation
+https://arxiv.org/abs/2401.13499 | [2401.13499] LDCA: Local Descriptors with Contextual Augmentation for Few-Shot Learning
+https://arxiv.org/abs/2401.13388 | [2401.13388] UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion
+https://arxiv.org/abs/2401.13311 | [2401.13311] ConTextual: Evaluating Context-Sensitive Text-Rich Visual Reasoning in Large Multimodal Models
+https://arxiv.org/abs/2401.13275 | [2401.13275] Can AI Assistants Know What They Don't Know?
+https://arxiv.org/abs/2401.13221 | [2401.13221] Unified-Width Adaptive Dynamic Network for All-In-One Image Restoration
+https://arxiv.org/abs/2401.13213 | [2401.13213] Common-Sense Bias Discovery and Mitigation for Classification Tasks
+https://arxiv.org/abs/2401.13174 | [2401.13174] Boundary and Relation Distillation for Semantic Segmentation
+https://arxiv.org/abs/2401.13051 | [2401.13051] PA-SAM: Prompt Adapter SAM for High-Quality Image Segmentation
+https://arxiv.org/abs/2401.13220 | [2401.13220] Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation
