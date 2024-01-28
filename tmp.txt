@@ -1,12 +1,10 @@
-https://arxiv.org/abs/2401.13641 | [2401.13641] How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability
-https://arxiv.org/abs/2401.13613 | [2401.13613] Enhancing Image Retrieval : A Comprehensive Study on Photo Search using the CLIP Mode
-https://arxiv.org/abs/2401.13560 | [2401.13560] SegMamba: Long-range Sequential Modeling Mamba For 3D Medical Image Segmentation
-https://arxiv.org/abs/2401.13499 | [2401.13499] LDCA: Local Descriptors with Contextual Augmentation for Few-Shot Learning
-https://arxiv.org/abs/2401.13388 | [2401.13388] UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion
-https://arxiv.org/abs/2401.13311 | [2401.13311] ConTextual: Evaluating Context-Sensitive Text-Rich Visual Reasoning in Large Multimodal Models
-https://arxiv.org/abs/2401.13275 | [2401.13275] Can AI Assistants Know What They Don't Know?
-https://arxiv.org/abs/2401.13221 | [2401.13221] Unified-Width Adaptive Dynamic Network for All-In-One Image Restoration
-https://arxiv.org/abs/2401.13213 | [2401.13213] Common-Sense Bias Discovery and Mitigation for Classification Tasks
-https://arxiv.org/abs/2401.13174 | [2401.13174] Boundary and Relation Distillation for Semantic Segmentation
-https://arxiv.org/abs/2401.13051 | [2401.13051] PA-SAM: Prompt Adapter SAM for High-Quality Image Segmentation
-https://arxiv.org/abs/2401.13220 | [2401.13220] Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation
+https://arxiv.org/abs/2401.14405 | [2401.14405] Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities
+https://arxiv.org/abs/2401.14404 | [2401.14404] Deconstructing Denoising Diffusion Models for Self-Supervised Learning
+https://arxiv.org/abs/2401.14379 | [2401.14379] UrbanGenAI: Reconstructing Urban Landscapes using Panoptic Segmentation and Diffusion Models
+https://arxiv.org/abs/2401.14228 | [2401.14228] Assessing the Portability of Parameter Matrices Trained by Parameter-Efficient Finetuning Methods
+https://arxiv.org/abs/2401.14159 | [2401.14159] Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks
+https://arxiv.org/abs/2401.14111 | [2401.14111] Scene Graph to Image Synthesis: Integrating CLIP Guidance with Graph Conditioning in Diffusion Models
+https://arxiv.org/abs/2401.14074 | [2401.14074] ProCNS: Progressive Prototype Calibration and Noise Suppression for Weakly-Supervised Medical Image Segmentation
+https://arxiv.org/abs/2401.14010 | [2401.14010] Leveraging Large Models for Crafting Narrative Visualization: A Survey
+https://arxiv.org/abs/2401.13920 | [2401.13920] LocMoE: A Low-overhead MoE for Large Language Model Training
+https://arxiv.org/abs/2401.13697 | [2401.13697] Toward Robust Multimodal Learning using Multimodal Foundational Models
