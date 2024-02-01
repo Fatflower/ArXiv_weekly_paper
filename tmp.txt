@@ -1,9 +1,13 @@
-https://arxiv.org/abs/2401.17270 | [2401.17270] YOLO-World: Real-Time Open-Vocabulary Object Detection
-https://arxiv.org/abs/2401.17267 | [2401.17267] ReacLLaMA: Merging chemical and textual information in chemical reactivity AI models
-https://arxiv.org/abs/2401.17268 | [2401.17268] Weaver: Foundation Models for Creative Writing
-https://arxiv.org/abs/2401.17186 | [2401.17186] Embracing Language Inclusivity and Diversity in CLIP through Continual Language Learning
-https://arxiv.org/abs/2401.17050 | [2401.17050] ViTree: Single-path Neural Tree for Step-wise Interpretable Fine-grained Visual Categorization
-https://arxiv.org/abs/2401.16822 | [2401.16822] EarthGPT: A Universal Multi-modal Large Language Model for Multi-sensor Image Comprehension in Remote Sensing Domain
-https://arxiv.org/abs/2401.16762 | [2401.16762] Pick-and-Draw: Training-free Semantic Guidance for Text-to-Image Personalization
-https://arxiv.org/abs/2401.16741 | [2401.16741] MESA: Matching Everything by Segmenting Anything
-https://arxiv.org/abs/2401.16600 | [2401.16600] Depth Anything in Medical Images: A Comparative Study
+https://arxiv.org/abs/2401.18084 | [2401.18084] Binding Touch to Everything: Learning Unified Multimodal Tactile Representations
+https://arxiv.org/abs/2401.18070 | [2401.18070] Do Language Models Exhibit the Same Cognitive Biases in Problem Solving as Human Learners?
+https://arxiv.org/abs/2401.18034 | [2401.18034] Paramanu: A Family of Novel Efficient Indic Generative Foundation Language Models
+https://arxiv.org/abs/2401.17904 | [2401.17904] Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation
+https://arxiv.org/abs/2401.17868 | [2401.17868] Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model
+https://arxiv.org/abs/2401.17828 | [2401.17828] Leveraging Swin Transformer for Local-to-Global Weakly Supervised Semantic Segmentation
+https://arxiv.org/abs/2401.17664 | [2401.17664] Image Anything: Towards Reasoning-coherent and Training-free Multi-modal Image Generation
+https://arxiv.org/abs/2401.17654 | [2401.17654] All Beings Are Equal in Open Set Recognition
+https://arxiv.org/abs/2401.17602 | [2401.17602] Assertion Detection Large Language Model In-context Learning LoRA Fine-tuning
+https://arxiv.org/abs/2401.17600 | [2401.17600] Good at captioning, bad at counting: Benchmarking GPT-4V on Earth observation data
+https://arxiv.org/abs/2401.17592 | [2401.17592] Local Feature Matching Using Deep Learning: A Survey
+https://arxiv.org/abs/2401.17542 | [2401.17542] Data-Effective Learning: A Comprehensive Medical Benchmark
+https://arxiv.org/abs/2401.17390 | [2401.17390] Customizing Language Model Responses with Contrastive In-Context Learning
