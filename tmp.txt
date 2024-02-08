@@ -1,52 +1,27 @@
-https://arxiv.org/abs/2402.03310 | [2402.03310] V-IRL: Grounding Virtual Intelligence in Real Life
-https://arxiv.org/abs/2402.03311 | [2402.03311] HASSOD: Hierarchical Adaptive Self-Supervised Object Detection
-https://arxiv.org/abs/2402.03305 | [2402.03305] Do Diffusion Models Learn Semantically Meaningful and Efficient Representations?
-https://arxiv.org/abs/2402.03302 | [2402.03302] Swin-UMamba: Mamba-based UNet with ImageNet-based pretraining
-https://arxiv.org/abs/2402.03303 | [2402.03303] Nevermind: Instruction Override and Moderation in Large Language Models
-https://arxiv.org/abs/2402.03292 | [2402.03292] Zero-shot Object-Level OOD Detection with Context-Aware Inpainting
-https://arxiv.org/abs/2402.03290 | [2402.03290] InstanceDiffusion: Instance-level Control for Image Generation
-https://arxiv.org/abs/2402.03286 | [2402.03286] Training-Free Consistent Text-to-Image Generation
-https://arxiv.org/abs/2402.03284 | [2402.03284] Deal, or no deal (or who knows)? Forecasting Uncertainty in Conversations using Large Language Models
-https://arxiv.org/abs/2402.03251 | [2402.03251] CLIP Can Understand Depth
-https://arxiv.org/abs/2402.03241 | [2402.03241] FROSTER: Frozen CLIP Is A Strong Teacher for Open-Vocabulary Action Recognition
-https://arxiv.org/abs/2402.03175 | [2402.03175] The Matrix: A Bayesian learning model for LLMs
-https://arxiv.org/abs/2402.03166 | [2402.03166] RRWNet: Recursive Refinement Network for Effective Retinal Artery/Vein Segmentation and Classification
-https://arxiv.org/abs/2402.03170 | [2402.03170] Is Mamba Capable of In-Context Learning?
-https://arxiv.org/abs/2402.03094 | [2402.03094] Cross-Domain Few-Shot Object Detection via Enhanced Open-Set Object Detector
-https://arxiv.org/abs/2402.02996 | [2402.02996] Text-Guided Image Clustering
-https://arxiv.org/abs/2402.02972 | [2402.02972] Retrieval-Augmented Score Distillation for Text-to-3D Generation
-https://arxiv.org/abs/2402.02949 | [2402.02949] Kernel PCA for Out-of-Distribution Detection
-https://arxiv.org/abs/2402.02941 | [2402.02941] Exploring the Synergies of Hybrid CNNs and ViTs Architectures for Computer Vision: A survey
-https://arxiv.org/abs/2402.02716 | [2402.02716] Understanding the planning of LLM agents: A survey
-https://arxiv.org/abs/2402.02696 | [2402.02696] Causal Feature Selection for Responsible Machine Learning
-https://arxiv.org/abs/2402.02653 | [2402.02653] Learning with Mixture of Prototypes for Out-of-Distribution Detection
-https://arxiv.org/abs/2402.02491 | [2402.02491] VM-UNet: Vision Mamba UNet for Medical Image Segmentation
-https://arxiv.org/abs/2402.02478 | [2402.02478] Why are hyperbolic neural networks effective? A study on hierarchical representation capability
-https://arxiv.org/abs/2402.02474 | [2402.02474] Deep Spectral Improvement for Unsupervised Image Instance Segmentation
-https://arxiv.org/abs/2402.02444 | [2402.02444] BECLR: Batch Enhanced Contrastive Few-Shot Learning
-https://arxiv.org/abs/2402.02382 | [2402.02382] Revisiting the Power of Prompt for Visual Tuning
-https://arxiv.org/abs/2402.02367 | [2402.02367] Exploring Intrinsic Properties of Medical Images for Self-Supervised Binary Semantic Segmentation
-https://arxiv.org/abs/2402.02364 | [2402.02364] The Developmental Landscape of In-Context Learning
-https://arxiv.org/abs/2402.02347 | [2402.02347] Riemannian Preconditioned LoRA for Fine-Tuning Foundation Models
-https://arxiv.org/abs/2402.02340 | [2402.02340] Learning Semantic Proxies from Visual Prompts for Parameter-Efficient Fine-Tuning in Deep Metric Learning
-https://arxiv.org/abs/2402.02316 | [2402.02316] Your Diffusion Model is Secretly a Certifiably Robust Classifier
-https://arxiv.org/abs/2402.02314 | [2402.02314] Selecting Large Language Model to Fine-tune via Rectified Scaling Law
-https://arxiv.org/abs/2402.02298 | [2402.02298] Polyp-DAM: Polyp segmentation via depth anything model
-https://arxiv.org/abs/2402.02286 | [2402.02286] Multi-Level Feature Aggregation and Recursive Alignment Network for Real-Time Semantic Segmentation
-https://arxiv.org/abs/2402.02285 | [2402.02285] SynthDST: Synthetic Data is All You Need for Few-Shot Dialog State Tracking
-https://arxiv.org/abs/2402.02242 | [2402.02242] Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey
-https://arxiv.org/abs/2402.02245 | [2402.02245] Revisiting Generative Adversarial Networks for Binary Semantic Segmentation on Imbalanced Datasets
-https://arxiv.org/abs/2402.02207 | [2402.02207] Safety Fine-Tuning at (Almost) No Cost: A Baseline for Vision Large Language Models
-https://arxiv.org/abs/2402.02205 | [2402.02205] GPT-4V as Traffic Assistant: An In-depth Look at Vision Language Model on Complex Traffic Events
-https://arxiv.org/abs/2402.01727 | [2402.01727] Prompting Diverse Ideas: Increasing AI Idea Variance
-https://arxiv.org/abs/2402.02101 | [2402.02101] Are Large Language Models Good Prompt Optimizers?
-https://arxiv.org/abs/2402.02066 | [2402.02066] Trustworthiness of $\mathbb{X}$ Users: A One-Class Classification Approach
-https://arxiv.org/abs/2402.02045 | [2402.02045] MLIP: Enhancing Medical Visual Representation with Divergence Encoder and Knowledge-guided Contrastive Learning
-https://arxiv.org/abs/2402.02029 | [2402.02029] ScribFormer: Transformer Makes CNN Work Better for Scribble-based Medical Image Segmentation
-https://arxiv.org/abs/2402.02007 | [2402.02007] Understanding Time Series Anomaly State Detection through One-Class Classification
-https://arxiv.org/abs/2402.01928 | [2402.01928] Robust Counterfactual Explanations in Machine Learning: A Survey
-https://arxiv.org/abs/2402.01684 | [2402.01684] A Framework to Implement 1+N Multi-task Fine-tuning Pattern in LLMs Using the CGC-LORA Algorithm
-https://arxiv.org/abs/2402.01929 | [2402.01929] Sample, estimate, aggregate: A recipe for causal discovery foundation models
-https://arxiv.org/abs/2402.01832 | [2402.01832] SynthCLIP: Are We Ready for a Fully Synthetic CLIP Training?
-https://arxiv.org/abs/2402.01761 | [2402.01761] Rethinking Interpretability in the Era of Large Language Models
-https://arxiv.org/abs/2402.01735 | [2402.01735] VIALM: A Survey and Benchmark of Visually Impaired Assistance with Large Models
+https://arxiv.org/abs/2402.04253 | [2402.04253] AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls
+https://arxiv.org/abs/2402.04252 | [2402.04252] EVA-CLIP-18B: Scaling CLIP to 18 Billion Parameters
+https://arxiv.org/abs/2402.04248 | [2402.04248] Can Mamba Learn How to Learn? A Comparative Study on In-Context Learning Tasks
+https://arxiv.org/abs/2402.04177 | [2402.04177] Scaling Laws for Downstream Task Performance of Large Language Models
+https://arxiv.org/abs/2402.04139 | [2402.04139] U-shaped Vision Mamba for Single Image Dehazing
+https://arxiv.org/abs/2402.04087 | [2402.04087] A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation
+https://arxiv.org/abs/2402.04009 | [2402.04009] Low-rank Attention Side-Tuning for Parameter-Efficient Fine-Tuning
+https://arxiv.org/abs/2402.03917 | [2402.03917] Elastic Feature Consolidation for Cold Start Exemplar-free Incremental Learning
+https://arxiv.org/abs/2402.03846 | [2402.03846] Efficient Generation of Hidden Outliers for Improved Outlier Detection
+https://arxiv.org/abs/2402.03795 | [2402.03795] Energy-based Domain-Adaptive Segmentation with Depth Guidance
+https://arxiv.org/abs/2402.03785 | [2402.03785] Weakly Supervised Anomaly Detection via Knowledge-Data Alignment
+https://arxiv.org/abs/2402.03782 | [2402.03782] Soft Prompt Tuning for Cross-Lingual Transfer: When Less is More
+https://arxiv.org/abs/2402.03754 | [2402.03754] Intensive Vision-guided Network for Radiology Report Generation
+https://arxiv.org/abs/2402.03752 | [2402.03752] Pre-training of Lightweight Vision Transformers on Small Datasets with Minimally Scaled Images
+https://arxiv.org/abs/2402.03749 | [2402.03749] Vision Superalignment: Weak-to-Strong Generalization for Vision Foundation Models
+https://arxiv.org/abs/2402.03708 | [2402.03708] SISP: A Benchmark Dataset for Fine-grained Ship Instance Segmentation in Panchromatic Satellite Images
+https://arxiv.org/abs/2402.03700 | [2402.03700] GenLens: A Systematic Evaluation of Visual GenAI Model Outputs
+https://arxiv.org/abs/2402.03660 | [2402.03660] Cross-Task Linearity Emerges in the Pretraining-Finetuning Paradigm
+https://arxiv.org/abs/2402.03631 | [2402.03631] CAT-SAM: Conditional Tuning Network for Few-Shot Adaptation of Segmentation Anything Model
+https://arxiv.org/abs/2402.03627 | [2402.03627] Partially Recentralization Softmax Loss for Vision-Language Models Robustness
+https://arxiv.org/abs/2402.03592 | [2402.03592] GRASP: GRAph-Structured Pyramidal Whole Slide Image Representation
+https://arxiv.org/abs/2402.03570 | [2402.03570] Diffusion World Model
+https://arxiv.org/abs/2402.03502 | [2402.03502] How Does Unlabeled Data Provably Help Out-of-Distribution Detection?
+https://arxiv.org/abs/2305.12423 | [2305.12423] Task-Oriented Communication with Out-of-Distribution Detection: An Information Bottleneck Framework
+https://arxiv.org/abs/2402.03328 | [2402.03328] Large-scale Generative AI Models Lack Visual Number Sense
+https://arxiv.org/abs/2402.03526 | [2402.03526] nnMamba: 3D Biomedical Image Segmentation, Classification and Landmark Detection with State Space Model
+https://arxiv.org/abs/2402.03558 | [2402.03558] Path Signatures and Graph Neural Networks for Slow Earthquake Analysis: Better Together?
