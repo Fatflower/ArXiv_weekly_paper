@@ -140,3 +140,4 @@ If you find some interesting articles in this week's arxiv that I've missed, fee
 128. [$λ$-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space](https://arxiv.org/abs/2402.05195)
 129. [A Closer Look at the Limitations of Instruction Tuning](https://arxiv.org/abs/2402.05119)
 130. [Anatomically-Controllable Medical Image Generation with Segmentation-Guided Diffusion Models](https://arxiv.org/abs/2402.05210)
+131. [ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation](https://arxiv.org/abs/2402.05902)
