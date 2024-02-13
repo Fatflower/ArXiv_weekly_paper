@@ -1,19 +1,25 @@
-https://arxiv.org/abs/2402.06617 | [2402.06617] FaBERT: Pre-training BERT on Persian Blogs
-https://arxiv.org/abs/2402.06581 | [2402.06581] More than the Sum of Its Parts: Ensembling Backbone Networks for Few-Shot Segmentation
-https://arxiv.org/abs/2402.06559 | [2402.06559] Diffusion-ES: Gradient-free Planning with Diffusion for Autonomous Driving and Zero-Shot Instruction Following
-https://arxiv.org/abs/2402.06549 | [2402.06549] Bryndza at ClimateActivism 2024: Stance, Target and Hate Event Detection via Retrieval-Augmented GPT-4 and LLaMA
-https://arxiv.org/abs/2402.06544 | [2402.06544] Calibrating Long-form Generations from Large Language Models
-https://arxiv.org/abs/2402.06537 | [2402.06537] Feature Density Estimation for Out-of-Distribution Detection via Normalizing Flows
-https://arxiv.org/abs/2402.06530 | [2402.06530] Refining Myocardial Infarction Detection: A Novel Multi-Modal Composite Kernel Strategy in One-Class Classification
-https://arxiv.org/abs/2402.06499 | [2402.06499] BarlowTwins-CXR : Enhancing Chest X-Ray abnormality localization in heterogeneous data with cross-domain self-supervised learning
-https://arxiv.org/abs/2402.06497 | [2402.06497] Iris-SAM: Iris Segmentation Using a Foundational Model
-https://arxiv.org/abs/2402.06475 | [2402.06475] Large Language Models for Captioning and Retrieving Remote Sensing Images
-https://arxiv.org/abs/2402.06434 | [2402.06434] Where is the Truth? The Risk of Getting Confounded in a Continual World
-https://arxiv.org/abs/2402.06330 | [2402.06330] Continual Learning on Graphs: A Survey
-https://arxiv.org/abs/2402.06331 | [2402.06331] Taking Class Imbalance Into Account in Open Set Recognition Evaluation
-https://arxiv.org/abs/2402.06220 | [2402.06220] A Unified Causal View of Instruction Tuning
-https://arxiv.org/abs/2402.06118 | [2402.06118] ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling
-https://arxiv.org/abs/2402.06094 | [2402.06094] Rethinking Data Selection for Supervised Fine-Tuning
-https://arxiv.org/abs/2402.06015 | [2402.06015] Exploring Visual Culture Awareness in GPT-4V: A Comprehensive Probing
-https://arxiv.org/abs/2402.05964 | [2402.05964] A Survey on Transformer Compression
-https://arxiv.org/abs/2402.05954 | [2402.05954] EasyFS: an Efficient Model-free Feature Selection Framework via Elastic Transformation of Features
+https://arxiv.org/abs/2402.07901 | [2402.07901] FAST: Factorizable Attention for Speeding up Transformers
+https://arxiv.org/abs/2402.07891 | [2402.07891] Label-Efficient Model Selection for Text Generation
+https://arxiv.org/abs/2402.07871 | [2402.07871] Scaling Laws for Fine-Grained Mixture of Experts
+https://arxiv.org/abs/2402.07865 | [2402.07865] Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models
+https://arxiv.org/abs/2402.07821 | [2402.07821] On Computationally Efficient Multi-Class Calibration
+https://arxiv.org/abs/2402.07788 | [2402.07788] Multi-Intent Attribute-Aware Text Matching in Searching
+https://arxiv.org/abs/2402.07785 | [2402.07785] HYPO: Hyperspherical Out-of-Distribution Generalization
+https://arxiv.org/abs/2402.07633 | [2402.07633] Complete Instances Mining for Weakly Supervised Instance Segmentation
+https://arxiv.org/abs/2402.07485 | [2402.07485] SLIT: Boosting Audio-Text Pre-Training via Multi-Stage Learning and Instruction Tuning
+https://arxiv.org/abs/2402.07410 | [2402.07410] A Closer Look at the Robustness of Contrastive Language-Image Pre-Training (CLIP)
+https://arxiv.org/abs/2402.07403 | [2402.07403] Make it more specific: A novel uncertainty based airway segmentation application on 3D U-Net and its variants
+https://arxiv.org/abs/2402.07330 | [2402.07330] Deep Learning for Medical Image Segmentation with Imprecise Annotation
+https://arxiv.org/abs/2402.07329 | [2402.07329] The Bias of Harmful Label Associations in Vision-Language Models
+https://arxiv.org/abs/2402.07233 | [2402.07233] TransGPT: Multi-modal Generative Pre-trained Transformer for Transportation
+https://arxiv.org/abs/2402.07216 | [2402.07216] A novel spatial-frequency domain network for zero-shot incremental learning
+https://arxiv.org/abs/2402.07181 | [2402.07181] 3D Gaussian as a New Vision Era: A Survey
+https://arxiv.org/abs/2402.07119 | [2402.07119] Two-Stage Multi-task Self-Supervised Learning for Medical Image Segmentation
+https://arxiv.org/abs/2402.06959 | [2402.06959] SpeechCLIP+: Self-supervised multi-task representation learning for speech via CLIP and speech-image data
+https://arxiv.org/abs/2402.06937 | [2402.06937] Assessing Uncertainty Estimation Methods for 3D Image Segmentation under Distribution Shifts
+https://arxiv.org/abs/2402.06852 | [2402.06852] ChemLLM: A Chemical Large Language Model
+https://arxiv.org/abs/2402.06798 | [2402.06798] Reasoning Grasping via Multimodal Large Language Model
+https://arxiv.org/abs/2402.06682 | [2402.06682] Private Knowledge Sharing in Distributed Learning: A Survey
+https://arxiv.org/abs/2402.07595 | [2402.07595] Comparative Analysis of ImageNet Pre-Trained Deep Learning Models and DINOv2 in Medical Imaging Classification
+https://arxiv.org/abs/2402.07354 | [2402.07354] Re-DiffiNet: Modeling discrepancies in tumor segmentation using diffusion
+https://arxiv.org/abs/2402.07245 | [2402.07245] Semi-Mamba-UNet: Pixel-Level Contrastive Cross-Supervised Visual Mamba-based UNet for Semi-Supervised Medical Image Segmentation
