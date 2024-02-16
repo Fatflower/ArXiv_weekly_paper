@@ -1,16 +1,18 @@
-https://arxiv.org/abs/2402.08255 | [2402.08255] Distal Interference: Exploring the Limits of Model-Based Continual Learning
-https://arxiv.org/abs/2402.08219 | [2402.08219] BBox-Adapter: Lightweight Adapting for Black-Box Large Language Models
-https://arxiv.org/abs/2402.08200 | [2402.08200] Fine-Tuning Text-To-Image Diffusion Models for Class-Wise Spurious Feature Generation
-https://arxiv.org/abs/2402.08113 | [2402.08113] Addressing cognitive bias in medical language models
-https://arxiv.org/abs/2402.08096 | [2402.08096] Which Pretrain Samples to Rehearse when Finetuning Pretrained Models?
-https://arxiv.org/abs/2402.08093 | [2402.08093] BASE TTS: Lessons from building a billion-parameter Text-to-Speech model on 100K hours of data
-https://arxiv.org/abs/2402.08086 | [2402.08086] Text-centric Alignment for Multi-Modality Learning
-https://arxiv.org/abs/2402.08276 | [2402.08276] Rethinking U-net Skip Connections for Biomedical Image Segmentation
-https://arxiv.org/abs/2402.08682 | [2402.08682] IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation
-https://arxiv.org/abs/2402.08680 | [2402.08680] Mitigating Object Hallucination in Large Vision-Language Models via Classifier-Free Guidance
-https://arxiv.org/abs/2402.08654 | [2402.08654] Learning Continuous 3D Words for Text-to-Image Generation
-https://arxiv.org/abs/2402.08594 | [2402.08594] Bayesian Multi-Task Transfer Learning for Soft Prompt Tuning
-https://arxiv.org/abs/2402.08582 | [2402.08582] FESS Loss: Feature-Enhanced Spatial Segmentation Loss for Optimizing Medical Image Analysis
-https://arxiv.org/abs/2402.08562 | [2402.08562] Higher Layers Need More LoRA Experts
-https://arxiv.org/abs/2402.08526 | [2402.08526] Concept-1K: A Novel Benchmark for Instance Incremental Learning
-https://arxiv.org/abs/2402.08473 | [2402.08473] Intriguing Differences Between Zero-Shot and Systematic Evaluations of Vision-Language Transformer Models
+https://arxiv.org/abs/2402.09391 | [2402.09391] LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset
+https://arxiv.org/abs/2402.09390 | [2402.09390] HGOT: Hierarchical Graph of Thoughts for Retrieval-Augmented In-Context Learning in Factuality Evaluation
+https://arxiv.org/abs/2402.09353 | [2402.09353] DoRA: Weight-Decomposed Low-Rank Adaptation
+https://arxiv.org/abs/2402.09315 | [2402.09315] Few-Shot Object Detection with Sparse Context Transformers
+https://arxiv.org/abs/2402.09267 | [2402.09267] Self-Alignment for Factuality: Mitigating Hallucinations in LLMs via Self-Evaluation
+https://arxiv.org/abs/2402.09259 | [2402.09259] SyntaxShap: Syntax-aware Explainability Method for Text Generation
+https://arxiv.org/abs/2402.09147 | [2402.09147] Into the Unknown: Self-Learning Large Language Models
+https://arxiv.org/abs/2402.09071 | [2402.09071] Affine transformation estimation improves visual self-supervised learning
+https://arxiv.org/abs/2402.09066 | [2402.09066] Solid Waste Detection in Remote Sensing Images: A Survey
+https://arxiv.org/abs/2402.08966 | [2402.08966] Pretraining Vision-Language Model for Difference Visual Question Answering in Longitudinal Chest X-rays
+https://arxiv.org/abs/2402.08963 | [2402.08963] DUEL: Duplicate Elimination on Active Memory for Self-Supervised Class-Imbalanced Learning
+https://arxiv.org/abs/2402.08823 | [2402.08823] RanDumb: A Simple Approach that Questions the Efficacy of Continual Representation Learning
+https://arxiv.org/abs/2402.08793 | [2402.08793] BEFUnet: A Hybrid CNN-Transformer Architecture for Precise Medical Image Segmentation
+https://arxiv.org/abs/2402.08756 | [2402.08756] Learning How To Ask: Cycle-Consistency Refines Prompts in Multimodal Foundation Models
+https://arxiv.org/abs/2402.08733 | [2402.08733] Experts Don't Cheat: Learning What You Don't Know By Predicting Pairs
+https://arxiv.org/abs/2402.09372 | [2402.09372] Deep Rib Fracture Instance Segmentation and Classification from CT on the RibFrac Challenge
+https://arxiv.org/abs/2402.09181 | [2402.09181] OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM
+https://arxiv.org/abs/2402.08934 | [2402.08934] Extreme Video Compression with Pre-trained Diffusion Models
