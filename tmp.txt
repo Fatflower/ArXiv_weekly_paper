@@ -1,18 +1,20 @@
-https://arxiv.org/abs/2402.09391 | [2402.09391] LlaSMol: Advancing Large Language Models for Chemistry with a Large-Scale, Comprehensive, High-Quality Instruction Tuning Dataset
-https://arxiv.org/abs/2402.09390 | [2402.09390] HGOT: Hierarchical Graph of Thoughts for Retrieval-Augmented In-Context Learning in Factuality Evaluation
-https://arxiv.org/abs/2402.09353 | [2402.09353] DoRA: Weight-Decomposed Low-Rank Adaptation
-https://arxiv.org/abs/2402.09315 | [2402.09315] Few-Shot Object Detection with Sparse Context Transformers
-https://arxiv.org/abs/2402.09267 | [2402.09267] Self-Alignment for Factuality: Mitigating Hallucinations in LLMs via Self-Evaluation
-https://arxiv.org/abs/2402.09259 | [2402.09259] SyntaxShap: Syntax-aware Explainability Method for Text Generation
-https://arxiv.org/abs/2402.09147 | [2402.09147] Into the Unknown: Self-Learning Large Language Models
-https://arxiv.org/abs/2402.09071 | [2402.09071] Affine transformation estimation improves visual self-supervised learning
-https://arxiv.org/abs/2402.09066 | [2402.09066] Solid Waste Detection in Remote Sensing Images: A Survey
-https://arxiv.org/abs/2402.08966 | [2402.08966] Pretraining Vision-Language Model for Difference Visual Question Answering in Longitudinal Chest X-rays
-https://arxiv.org/abs/2402.08963 | [2402.08963] DUEL: Duplicate Elimination on Active Memory for Self-Supervised Class-Imbalanced Learning
-https://arxiv.org/abs/2402.08823 | [2402.08823] RanDumb: A Simple Approach that Questions the Efficacy of Continual Representation Learning
-https://arxiv.org/abs/2402.08793 | [2402.08793] BEFUnet: A Hybrid CNN-Transformer Architecture for Precise Medical Image Segmentation
-https://arxiv.org/abs/2402.08756 | [2402.08756] Learning How To Ask: Cycle-Consistency Refines Prompts in Multimodal Foundation Models
-https://arxiv.org/abs/2402.08733 | [2402.08733] Experts Don't Cheat: Learning What You Don't Know By Predicting Pairs
-https://arxiv.org/abs/2402.09372 | [2402.09372] Deep Rib Fracture Instance Segmentation and Classification from CT on the RibFrac Challenge
-https://arxiv.org/abs/2402.09181 | [2402.09181] OmniMedVQA: A New Large-Scale Comprehensive Evaluation Benchmark for Medical LVLM
-https://arxiv.org/abs/2402.08934 | [2402.08934] Extreme Video Compression with Pre-trained Diffusion Models
+https://arxiv.org/abs/2402.10210 | [2402.10210] Self-Play Fine-Tuning of Diffusion Models for Text-to-Image Generation
+https://arxiv.org/abs/2402.10208 | [2402.10208] Recovering the Pre-Fine-Tuning Weights of Generative Models
+https://arxiv.org/abs/2402.10211 | [2402.10211] Hierarchical State Space Models for Continuous Sequence-to-Sequence Modeling
+https://arxiv.org/abs/2402.10198 | [2402.10198] Unlocking the Potential of Transformers in Time Series Forecasting with Sharpness-Aware Minimization and Channel-Wise Attention
+https://arxiv.org/abs/2402.10110 | [2402.10110] Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning
+https://arxiv.org/abs/2402.10100 | [2402.10100] Tuning In: Analysis of Audio Classifier Performance in Clinical Settings with Limited Data
+https://arxiv.org/abs/2402.10063 | [2402.10063] Balancing the Causal Effects in Class-Incremental Learning
+https://arxiv.org/abs/2402.10062 | [2402.10062] Optimal Parameter and Neuron Pruning for Out-of-Distribution Detection
+https://arxiv.org/abs/2402.09966 | [2402.09966] Textual Localization: Decomposing Multi-concept Images for Subject-Driven Text-to-Image Generation
+https://arxiv.org/abs/2402.09906 | [2402.09906] Generative Representational Instruction Tuning
+https://arxiv.org/abs/2402.09812 | [2402.09812] DreamMatcher: Appearance Matching Self-Attention for Semantically-Consistent Text-to-Image Personalization
+https://arxiv.org/abs/2402.09801 | [2402.09801] EFUF: Efficient Fine-grained Unlearning Framework for Mitigating Hallucinations in Multimodal Large Language Models
+https://arxiv.org/abs/2402.09748 | [2402.09748] Model Compression and Efficient Inference for Large Language Models: A Survey
+https://arxiv.org/abs/2402.09739 | [2402.09739] QuRating: Selecting High-Quality Data for Training Language Models
+https://arxiv.org/abs/2402.09677 | [2402.09677] Prompt-based Personalized Federated Learning for Medical Visual Question Answering
+https://arxiv.org/abs/2402.09668 | [2402.09668] How to Train Data-Efficient LLMs
+https://arxiv.org/abs/2402.09635 | [2402.09635] VisIRNet: Deep Image Alignment for UAV-taken Visible and Infrared Image Pairs
+https://arxiv.org/abs/2402.09613 | [2402.09613] Quantified Task Misalignment to Inform PEFT: An Exploration of Domain Generalization and Catastrophic Forgetting in CLIP
+https://arxiv.org/abs/2402.09585 | [2402.09585] Domain Adaptation for Contrastive Audio-Language Models
+https://arxiv.org/abs/2402.09538 | [2402.09538] Learning From Lessons Learned: Preliminary Findings From a Study of Learning From Failure
