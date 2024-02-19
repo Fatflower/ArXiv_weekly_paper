@@ -1,0 +1,7 @@
+1. [PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter](https://arxiv.org/abs/2402.10896)
+2. [Multi-modal preference alignment remedies regression of visual instruction tuning on language model](https://arxiv.org/abs/2402.10884)
+3. [Universal Prompt Optimizer for Safe Text-to-Image Generation](https://arxiv.org/abs/2402.10882)
+4. [OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models](https://arxiv.org/abs/2402.10670)
+5. [Compact and De-biased Negative Instance Embedding for Multi-Instance Learning on Whole-Slide Image Classification](https://arxiv.org/abs/2402.10595)
+6. [Using Left and Right Brains Together: Towards Vision and Language Planning](https://arxiv.org/abs/2402.10534)
+7. [Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation](https://arxiv.org/abs/2402.10887)
