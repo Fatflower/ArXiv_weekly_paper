@@ -1,7 +1,22 @@
-https://arxiv.org/abs/2402.10896 | [2402.10896] PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter
-https://arxiv.org/abs/2402.10884 | [2402.10884] Multi-modal preference alignment remedies regression of visual instruction tuning on language model
-https://arxiv.org/abs/2402.10882 | [2402.10882] Universal Prompt Optimizer for Safe Text-to-Image Generation
-https://arxiv.org/abs/2402.10670 | [2402.10670] OpenFMNav: Towards Open-Set Zero-Shot Object Navigation via Vision-Language Foundation Models
-https://arxiv.org/abs/2402.10595 | [2402.10595] Compact and De-biased Negative Instance Embedding for Multi-Instance Learning on Whole-Slide Image Classification
-https://arxiv.org/abs/2402.10534 | [2402.10534] Using Left and Right Brains Together: Towards Vision and Language Planning
-https://arxiv.org/abs/2402.10887 | [2402.10887] Weak-Mamba-UNet: Visual Mamba Makes CNN and ViT Work Better for Scribble-based Medical Image Segmentation
+https://arxiv.org/abs/2402.12336 | [2402.12336] Robust CLIP: Unsupervised Adversarial Fine-Tuning of Vision Embeddings for Robust Large Vision-Language Models
+https://arxiv.org/abs/2402.12289 | [2402.12289] DriveVLM: The Convergence of Autonomous Driving and Large Vision-Language Models
+https://arxiv.org/abs/2402.12264 | [2402.12264] Uncertainty quantification in fine-tuned LLMs using LoRA ensembles
+https://arxiv.org/abs/2402.12061 | [2402.12061] All Language Models Large and Small
+https://arxiv.org/abs/2402.11909 | [2402.11909] One2Avatar: Generative Implicit Head Avatar For Few-shot User Adaptation
+https://arxiv.org/abs/2402.11896 | [2402.11896] SIBO: A Simple Booster for Parameter-Efficient Fine-Tuning
+https://arxiv.org/abs/2402.11816 | [2402.11816] Avoiding Feature Suppression in Contrastive Learning: Learning What Has Not Been Learned Before
+https://arxiv.org/abs/2402.11690 | [2402.11690] Vision-Flan: Scaling Human-Labeled Tasks in Visual Instruction Tuning
+https://arxiv.org/abs/2402.11684 | [2402.11684] ALLaVA: Harnessing GPT4V-synthesized Data for A Lite Vision-Language Model
+https://arxiv.org/abs/2402.11585 | [2402.11585] PolypNextLSTM: A lightweight and fast polyp video segmentation network using ConvNext and ConvLSTM
+https://arxiv.org/abs/2402.11574 | [2402.11574] Visual In-Context Learning for Large Vision-Language Models
+https://arxiv.org/abs/2402.11487 | [2402.11487] Visual Concept-driven Image Generation with Text-to-Image Diffusion Model
+https://arxiv.org/abs/2402.11411 | [2402.11411] Aligning Modalities in Vision Large Language Models via Preference Fine-tuning
+https://arxiv.org/abs/2402.11297 | [2402.11297] MMMModal -- Multi-Images Multi-Audio Multi-turn Multi-Modal
+https://arxiv.org/abs/2402.11295 | [2402.11295] OneBit: Towards Extremely Low-bit Large Language Models
+https://arxiv.org/abs/2402.11260 | [2402.11260] MoRAL: MoE Augmented LoRA for LLMs' Lifelong Learning
+https://arxiv.org/abs/2402.11223 | [2402.11223] HEAL: Brain-inspired Hyperdimensional Efficient Active Learning
+https://arxiv.org/abs/2402.11176 | [2402.11176] KnowTuning: Knowledge-aware Fine-tuning for Large Language Models
+https://arxiv.org/abs/2402.11148 | [2402.11148] Knowledge Distillation Based on Transformed Teacher Matching
+https://arxiv.org/abs/2402.10965 | [2402.10965] Generalization in Healthcare AI: Evaluation of a Clinical Large Language Model
+https://arxiv.org/abs/2402.10941 | [2402.10941] Text2Data: Low-Resource Data Generation with Textual Control
+https://arxiv.org/abs/2402.12114 | [2402.12114] A Spatiotemporal Illumination Model for 3D Image Fusion in Optical Coherence Tomography
