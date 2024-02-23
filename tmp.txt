@@ -1,15 +1,13 @@
-https://arxiv.org/abs/2402.14020 | [2402.14020] Coercing LLMs to do and reveal (almost) anything
-https://arxiv.org/abs/2402.14013 | [2402.14013] Misalignment, Learning, and Ranking: Harnessing Users Limited Attention
-https://arxiv.org/abs/2402.14008 | [2402.14008] OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems
-https://arxiv.org/abs/2402.13991 | [2402.13991] Analysing The Impact of Sequence Composition on Language Model Pre-Training
-https://arxiv.org/abs/2402.13932 | [2402.13932] Tumor segmentation on whole slide images: training or prompting?
-https://arxiv.org/abs/2402.13918 | [2402.13918] BenchCloudVision: A Benchmark Analysis of Deep Learning Approaches for Cloud Detection and Segmentation in Remote Sensing Imagery
-https://arxiv.org/abs/2402.13831 | [2402.13831] MLXP: A framework for conducting replicable Machine Learning eXperiments in Python
-https://arxiv.org/abs/2402.13636 | [2402.13636] A Unified Framework and Dataset for Assessing Gender Bias in Vision-Language Models
-https://arxiv.org/abs/2402.13607 | [2402.13607] CODIS: Benchmarking Context-Dependent Visual Comprehension for Multimodal Large Language Models
-https://arxiv.org/abs/2402.13577 | [2402.13577] BBA: Bi-Modal Behavioral Alignment for Reasoning with Large Vision-Language Models
-https://arxiv.org/abs/2402.13524 | [2402.13524] OMGEval: An Open Multilingual Generative Evaluation Benchmark for Large Language Models
-https://arxiv.org/abs/2402.13505 | [2402.13505] SimPro: A Simple Probabilistic Framework Towards Realistic Long-Tailed Semi-Supervised Learning
-https://arxiv.org/abs/2402.13490 | [2402.13490] Contrastive Prompts Improve Disentanglement in Text-to-Image Diffusion Models
-https://arxiv.org/abs/2402.13459 | [2402.13459] Learning to Poison Large Language Models During Instruction Tuning
-https://arxiv.org/abs/2402.13446 | [2402.13446] Large Language Models for Data Annotation: A Survey
+https://arxiv.org/abs/2402.14815 | [2402.14815] Demographic Bias of Expert-Level Vision-Language Foundation Models in Medical Imaging
+https://arxiv.org/abs/2402.14809 | [2402.14809] CriticBench: Benchmarking LLMs for Critique-Correct Reasoning
+https://arxiv.org/abs/2402.14818 | [2402.14818] PALO: A Polyglot Large Multimodal Model for 5B People
+https://arxiv.org/abs/2402.14812 | [2402.14812] WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition
+https://arxiv.org/abs/2402.14760 | [2402.14760] Generalizing Reward Modeling for Out-of-Distribution Preference Learning
+https://arxiv.org/abs/2402.14683 | [2402.14683] Visual Hallucinations of Multi-modal Large Language Models
+https://arxiv.org/abs/2402.14611 | [2402.14611] Overcoming Dimensional Collapse in Self-supervised Contrastive Learning for Medical Image Segmentation
+https://arxiv.org/abs/2402.14577 | [2402.14577] Debiasing Text-to-Image Diffusion Models
+https://arxiv.org/abs/2402.14492 | [2402.14492] INSTRAUG: Automatic Instruction Augmentation for Multimodal Instruction Fine-tuning
+https://arxiv.org/abs/2402.14474 | [2402.14474] Data Science with LLMs and Interpretable Models
+https://arxiv.org/abs/2402.14418 | [2402.14418] Uncertainty-Aware Evaluation for Vision-Language Models
+https://arxiv.org/abs/2402.14289 | [2402.14289] TinyLLaVA: A Framework of Small-scale Large Multimodal Models
+https://arxiv.org/abs/2402.14114 | [2402.14114] Multi-organ Self-supervised Contrastive Learning for Breast Lesion Segmentation
