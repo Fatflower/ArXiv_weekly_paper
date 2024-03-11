@@ -1,20 +1,9 @@
-https://arxiv.org/abs/2402.17764 | [2402.17764] The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits
-https://arxiv.org/abs/2402.17726 | [2402.17726] VRP-SAM: SAM with Visual Reference Prompt
-https://arxiv.org/abs/2402.17671 | [2402.17671] Securing Reliability: A Brief Overview on Enhancing In-Context Learning for Foundation Models
-https://arxiv.org/abs/2402.17614 | [2402.17614] Adapt Before Comparison: A New Perspective on Cross-Domain Few-Shot Segmentation
-https://arxiv.org/abs/2402.17555 | [2402.17555] Scribble Hides Class: Promoting Scribble-Based Weakly-Supervised Semantic Segmentation with Its Class Label
-https://arxiv.org/abs/2402.17517 | [2402.17517] Label-Noise Robust Diffusion Models
-https://arxiv.org/abs/2402.17510 | [2402.17510] Demonstrating and Reducing Shortcuts in Vision-Language Representation Learning
-https://arxiv.org/abs/2402.17502 | [2402.17502] FedLPPA: Learning Personalized Prompt and Aggregation for Federated Weakly-supervised Medical Image Segmentation
-https://arxiv.org/abs/2402.17420 | [2402.17420] PANDAS: Prototype-based Novel Class Discovery and Detection
-https://arxiv.org/abs/2402.17406 | [2402.17406] LSPT: Long-term Spatial Prompt Tuning for Visual Representation Learning
-https://arxiv.org/abs/2402.17355 | [2402.17355] RECOST: External Knowledge Guided Data-efficient Instruction Tuning
-https://arxiv.org/abs/2402.17323 | [2402.17323] SDDGR: Stable Diffusion-based Deep Generative Replay for Class Incremental Object Detection
-https://arxiv.org/abs/2402.17298 | [2402.17298] ArcSin: Adaptive ranged cosine Similarity injected noise for Language-Driven Visual Tasks
-https://arxiv.org/abs/2402.17263 | [2402.17263] Mini-Ensemble Low-Rank Adapters for Parameter-Efficient Fine-Tuning
-https://arxiv.org/abs/2402.17193 | [2402.17193] When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method
-https://arxiv.org/abs/2402.17177 | [2402.17177] Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models
-https://arxiv.org/abs/2402.16933 | [2402.16933] Avoiding Catastrophic Forgetting in Visual Classification Using Human Concept Formation
-https://arxiv.org/abs/2402.16929 | [2402.16929] LangGPT: Rethinking Structured Reusable Prompt Design Framework for LLMs from the Programming Language
-https://arxiv.org/abs/2402.16902 | [2402.16902] PRoLoRA: Partial Rotation Empowers More Parameter-Efficient LoRA
-https://arxiv.org/abs/2402.17725 | [2402.17725] MedContext: Learning Contextual Cues for Efficient Volumetric Medical Segmentation
+https://arxiv.org/abs/2403.05525 | [2403.05525] DeepSeek-VL: Towards Real-World Vision-Language Understanding
+https://arxiv.org/abs/2403.05433 | [2403.05433] Part-aware Personalized Segment Anything Model for Patient-Specific Segmentation
+https://arxiv.org/abs/2403.05416 | [2403.05416] SIRST-5K: Exploring Massive Negatives Synthesis with Self-supervised Learning for Robust Infrared Small Target Detection
+https://arxiv.org/abs/2403.05346 | [2403.05346] VLM-PL: Advanced Pseudo Labeling approach Class Incremental Object Detection with Vision-Language Model
+https://arxiv.org/abs/2403.05231 | [2403.05231] Tracking Meets LoRA: Faster Training, Larger Model, Stronger Performance
+https://arxiv.org/abs/2403.05175 | [2403.05175] Continual Learning and Catastrophic Forgetting
+https://arxiv.org/abs/2403.05124 | [2403.05124] CLIP-Gaze: Towards General Gaze Estimation via Visual-Linguistic Model
+https://arxiv.org/abs/2403.05408 | [2403.05408] FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation
+https://arxiv.org/abs/2403.05246 | [2403.05246] LightM-UNet: Mamba Assists in Lightweight UNet for Medical Image Segmentation
