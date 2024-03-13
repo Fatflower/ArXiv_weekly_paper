@@ -1,26 +1,22 @@
-https://arxiv.org/abs/2403.06976 | [2403.06976] BrushNet: A Plug-and-Play Image Inpainting Model with Decomposed Dual-Branch Diffusion
-https://arxiv.org/abs/2403.06952 | [2403.06952] SELMA: Learning and Merging Skill-Specific Text-to-Image Experts with Auto-Generated Data
-https://arxiv.org/abs/2403.06914 | [2403.06914] MEND: Meta dEmonstratioN Distillation for Efficient and Effective In-Context Learning
-https://arxiv.org/abs/2403.06870 | [2403.06870] Semantic Residual Prompts for Continual Learning
-https://arxiv.org/abs/2403.06764 | [2403.06764] An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models
-https://arxiv.org/abs/2403.06726 | [2403.06726] Probabilistic Contrastive Learning for Long-Tailed Visual Recognition
-https://arxiv.org/abs/2403.06681 | [2403.06681] Trustworthy Partial Label Learning with Out-of-distribution Detection
-https://arxiv.org/abs/2403.06670 | [2403.06670] CEAT: Continual Expansion and Absorption Transformer for Non-Exemplar Class-Incremental Learnin
-https://arxiv.org/abs/2403.06488 | [2403.06488] Query-guided Prototype Evolution Network for Few-Shot Segmentation
-https://arxiv.org/abs/2403.06400 | [2403.06400] DivCon: Divide and Conquer for Progressive Text-to-Image Generation
-https://arxiv.org/abs/2403.06398 | [2403.06398] On the Diminishing Returns of Width for Continual Learning
-https://arxiv.org/abs/2403.06381 | [2403.06381] Enhancing Semantic Fidelity in Text-to-Image Synthesis: Attention Regulation in Diffusion Models
-https://arxiv.org/abs/2403.06295 | [2403.06295] A streamlined Approach to Multimodal Few-Shot Class Incremental Learning for Fine-Grained Datasets
-https://arxiv.org/abs/2403.06288 | [2403.06288] Probing Image Compression For Class-Incremental Learning
-https://arxiv.org/abs/2403.06258 | [2403.06258] Poly Kernel Inception Network for Remote Sensing Detection
-https://arxiv.org/abs/2403.06151 | [2403.06151] Decoupled Contrastive Learning for Long-Tailed Recognition
-https://arxiv.org/abs/2403.06136 | [2403.06136] RESTORE: Towards Feature Shift for Vision-Language Prompt Learning
-https://arxiv.org/abs/2403.06135 | [2403.06135] MACE: Mass Concept Erasure in Diffusion Models
-https://arxiv.org/abs/2403.06126 | [2403.06126] In-context Prompt Learning for Test-time Vision Recognition with Frozen Vision-language Model
-https://arxiv.org/abs/2403.06104 | [2403.06104] Universal Debiased Editing for Fair Medical Image Classification
-https://arxiv.org/abs/2403.06098 | [2403.06098] VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models
-https://arxiv.org/abs/2403.06092 | [2403.06092] Is Vanilla MLP in Neural Radiance Field Enough for Few-shot View Synthesis?
-https://arxiv.org/abs/2403.05894 | [2403.05894] Frequency Attention for Knowledge Distillation
-https://arxiv.org/abs/2403.06873 | [2403.06873] Last Iterate Convergence of Incremental Methods and Applications in Continual Learning
-https://arxiv.org/abs/2403.06748 | [2403.06748] Shortcut Learning in Medical Image Segmentation
-https://arxiv.org/abs/2403.05912 | [2403.05912] Mask-Enhanced Segment Anything Model for Tumor Lesion Semantic Segmentation
+https://arxiv.org/abs/2403.07872 | [2403.07872] Rethinking Generative Large Language Model Evaluation for Semantic Comprehension
+https://arxiv.org/abs/2403.07839 | [2403.07839] MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric
+https://arxiv.org/abs/2403.07816 | [2403.07816] Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM
+https://arxiv.org/abs/2403.07720 | [2403.07720] Multi-modal Auto-regressive Modeling via Visual Words
+https://arxiv.org/abs/2403.07576 | [2403.07576] FPT: Fine-grained Prompt Tuning for Parameter and Memory Efficient Fine Tuning in High-resolution Medical Image Classification
+https://arxiv.org/abs/2403.07581 | [2403.07581] LLMvsSmall Model? Large Language Model Based Text Augmentation Enhanced Personality Detection Model
+https://arxiv.org/abs/2403.07564 | [2403.07564] RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model
+https://arxiv.org/abs/2403.07508 | [2403.07508] MoAI: Mixture of All Intelligence for Large Language and Vision Models
+https://arxiv.org/abs/2403.07500 | [2403.07500] Block-wise LoRA: Revisiting Fine-grained LoRA for Effective Personalization and Stylization in Text-to-Image Generation
+https://arxiv.org/abs/2403.07440 | [2403.07440] Matrix-Transformation Based Low-Rank Adaptation (MTLoRA): A Brain-Inspired Method for Parameter-Efficient Fine-Tuning
+https://arxiv.org/abs/2403.07369 | [2403.07369] Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery
+https://arxiv.org/abs/2403.07356 | [2403.07356] Premonition: Using Generative Models to Preempt Future Data Changes in Continual Learning
+https://arxiv.org/abs/2403.07350 | [2403.07350] KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models
+https://arxiv.org/abs/2403.07277 | [2403.07277] A Bayesian Approach to OOD Robustness in Image Classification
+https://arxiv.org/abs/2403.07222 | [2403.07222] You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval
+https://arxiv.org/abs/2403.07187 | [2403.07187] UPS: Towards Foundation Models for PDE Solving via Cross-Modal Adaptation
+https://arxiv.org/abs/2403.07030 | [2403.07030] AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation
+https://arxiv.org/abs/2403.07015 | [2403.07015] Adaptive Hyperparameter Optimization for Continual Learning Scenarios
+https://arxiv.org/abs/2403.07834 | [2403.07834] When Eye-Tracking Meets Machine Learning: A Systematic Review on Applications in Medical Image Analysis
+https://arxiv.org/abs/2403.07303 | [2403.07303] Dynamic U-Net: Adaptively Calibrate Features for Abdominal Multi-organ Segmentation
+https://arxiv.org/abs/2403.07116 | [2403.07116] Simulation-Based Segmentation of Blood Vessels in Cerebral 3D OCTA Images
+https://arxiv.org/abs/2403.07066 | [2403.07066] Re-Simulation-based Self-Supervised Learning for Pre-Training Foundation Models
