@@ -1,22 +1,23 @@
-https://arxiv.org/abs/2403.07872 | [2403.07872] Rethinking Generative Large Language Model Evaluation for Semantic Comprehension
-https://arxiv.org/abs/2403.07839 | [2403.07839] MoPE-CLIP: Structured Pruning for Efficient Vision-Language Models with Module-wise Pruning Error Metric
-https://arxiv.org/abs/2403.07816 | [2403.07816] Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM
-https://arxiv.org/abs/2403.07720 | [2403.07720] Multi-modal Auto-regressive Modeling via Visual Words
-https://arxiv.org/abs/2403.07576 | [2403.07576] FPT: Fine-grained Prompt Tuning for Parameter and Memory Efficient Fine Tuning in High-resolution Medical Image Classification
-https://arxiv.org/abs/2403.07581 | [2403.07581] LLMvsSmall Model? Large Language Model Based Text Augmentation Enhanced Personality Detection Model
-https://arxiv.org/abs/2403.07564 | [2403.07564] RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model
-https://arxiv.org/abs/2403.07508 | [2403.07508] MoAI: Mixture of All Intelligence for Large Language and Vision Models
-https://arxiv.org/abs/2403.07500 | [2403.07500] Block-wise LoRA: Revisiting Fine-grained LoRA for Effective Personalization and Stylization in Text-to-Image Generation
-https://arxiv.org/abs/2403.07440 | [2403.07440] Matrix-Transformation Based Low-Rank Adaptation (MTLoRA): A Brain-Inspired Method for Parameter-Efficient Fine-Tuning
-https://arxiv.org/abs/2403.07369 | [2403.07369] Textual Knowledge Matters: Cross-Modality Co-Teaching for Generalized Visual Class Discovery
-https://arxiv.org/abs/2403.07356 | [2403.07356] Premonition: Using Generative Models to Preempt Future Data Changes in Continual Learning
-https://arxiv.org/abs/2403.07350 | [2403.07350] KEBench: A Benchmark on Knowledge Editing for Large Vision-Language Models
-https://arxiv.org/abs/2403.07277 | [2403.07277] A Bayesian Approach to OOD Robustness in Image Classification
-https://arxiv.org/abs/2403.07222 | [2403.07222] You'll Never Walk Alone: A Sketch and Text Duet for Fine-Grained Image Retrieval
-https://arxiv.org/abs/2403.07187 | [2403.07187] UPS: Towards Foundation Models for PDE Solving via Cross-Modal Adaptation
-https://arxiv.org/abs/2403.07030 | [2403.07030] AuG-KD: Anchor-Based Mixup Generation for Out-of-Domain Knowledge Distillation
-https://arxiv.org/abs/2403.07015 | [2403.07015] Adaptive Hyperparameter Optimization for Continual Learning Scenarios
-https://arxiv.org/abs/2403.07834 | [2403.07834] When Eye-Tracking Meets Machine Learning: A Systematic Review on Applications in Medical Image Analysis
-https://arxiv.org/abs/2403.07303 | [2403.07303] Dynamic U-Net: Adaptively Calibrate Features for Abdominal Multi-organ Segmentation
-https://arxiv.org/abs/2403.07116 | [2403.07116] Simulation-Based Segmentation of Blood Vessels in Cerebral 3D OCTA Images
-https://arxiv.org/abs/2403.07066 | [2403.07066] Re-Simulation-based Self-Supervised Learning for Pre-Training Foundation Models
+https://arxiv.org/abs/2403.08763 | [2403.08763] Simple and Scalable Strategies to Continually Pre-train Large Language Models
+https://arxiv.org/abs/2403.08755 | [2403.08755] DAM: Dynamic Adapter Merging for Continual Video QA Learning
+https://arxiv.org/abs/2403.08682 | [2403.08682] OneVOS: Unifying Video Object Segmentation with All-in-One Transformer Framework
+https://arxiv.org/abs/2403.08568 | [2403.08568] Consistent Prompting for Rehearsal-Free Continual Learning
+https://arxiv.org/abs/2403.08542 | [2403.08542] AIGCs Confuse AI Too: Investigating and Explaining Synthetic Image-induced Hallucinations in Large Vision-Language Models
+https://arxiv.org/abs/2403.08433 | [2403.08433] An Empirical Study of Parameter Efficient Fine-tuning on Vision-Language Pre-train Model
+https://arxiv.org/abs/2403.08426 | [2403.08426] Language-Driven Visual Consensus for Zero-Shot Semantic Segmentation
+https://arxiv.org/abs/2403.08407 | [2403.08407] Iterative Online Image Synthesis via Diffusion Model for Imbalanced Classification
+https://arxiv.org/abs/2403.08355 | [2403.08355] NaturalVLM: Leveraging Fine-grained Natural Language for Affordance-Guided Visual Manipulation
+https://arxiv.org/abs/2403.08350 | [2403.08350] CoIN: A Benchmark of Continual Instruction tuNing for Multimodel Large Language Model
+https://arxiv.org/abs/2403.08319 | [2403.08319] Knowledge Conflicts for LLMs: A Survey
+https://arxiv.org/abs/2403.08271 | [2403.08271] Efficient Prompt Tuning of Large Vision-Language Model for Fine-Grained Ship Classification
+https://arxiv.org/abs/2403.08245 | [2403.08245] Scattered Mixture-of-Experts Implementation
+https://arxiv.org/abs/2403.08140 | [2403.08140] BAGEL: Bootstrapping Agents by Guiding Exploration with Language
+https://arxiv.org/abs/2403.08059 | [2403.08059] FluoroSAM: A Language-aligned Foundation Model for X-ray Image Segmentation
+https://arxiv.org/abs/2403.08003 | [2403.08003] Real-time Surgical Instrument Segmentation in Video Using Point Tracking and Segment Anything
+https://arxiv.org/abs/2403.08004 | [2403.08004] Pix2Pix-OnTheFly: Leveraging LLMs for Instruction-Guided Image Editing
+https://arxiv.org/abs/2403.07939 | [2403.07939] Dynamic Policy-Driven Adaptive Multi-Instance Learning for Whole Slide Image Classification
+https://arxiv.org/abs/2403.07901 | [2403.07901] MIP: CLIP-based Image Reconstruction from PEFT Gradients
+https://arxiv.org/abs/2403.07884 | [2403.07884] Seg-metrics: a Python package to compute segmentation metrics
+https://arxiv.org/abs/2403.08761 | [2403.08761] Segmentation of Knee Bones for Osteoarthritis Assessment: A Comparative Analysis of Supervised, Few-Shot, and Zero-Shot Learning Approaches
+https://arxiv.org/abs/2403.08464 | [2403.08464] Diffusion Models with Implicit Guidance for Medical Anomaly Detection
+https://arxiv.org/abs/2403.07902 | [2403.07902] DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design
