@@ -1,15 +1,3 @@
-# ArXiv_weekly_paper
-This repository records interesting articles on the arXiv website every week (based on my own opinions only).
-If you find some interesting articles in this week's arxiv that I've missed, feel free to email me (z1282429194@163.com) or ask a question and I'll add it later.
-
-## Summary of recommended papers in 2024
-<!-- | | | | |
-|--------|--------|--------|--------| -->
-|[1_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/1_week.md)|[2_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/2_week.md)|[3_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/3_week.md)|[4_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/4_week.md)|[5_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/5_week.md)|[6_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/6_week.md)|[7_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/7_week.md)|[8_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/8_week.md)|[9_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/9_week.md)|[10_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/10_week.md)|[11_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/11_week.md)|[12_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/12_week.md)
-
-<!-- | | | | | -->
-
-## Recommended Papers for Week 12, 2024
 1. [CoLeCLIP: Open-Domain Continual Learning via Joint Task Prompt and Vocabulary Learning](https://arxiv.org/abs/2403.10245)
 2. [Adaptive Random Feature Regularization on Fine-tuning Deep Neural Networks](https://arxiv.org/abs/2403.10097)
 3. [Don't Half-listen: Capturing Key-part Information in Continual Instruction Tuning](https://arxiv.org/abs/2403.10056)
