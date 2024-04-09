@@ -1,14 +1,26 @@
-https://arxiv.org/abs/2404.04256 | [2404.04256] Sigma: Siamese Mamba Network for Multi-Modal Semantic Segmentation
-https://arxiv.org/abs/2404.04243 | [2404.04243] Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models
-https://arxiv.org/abs/2404.04231 | [2404.04231] Image-Text Co-Decomposition for Text-Supervised Semantic Segmentation
-https://arxiv.org/abs/2404.04212 | [2404.04212] Unlocking Parameter-Efficient Fine-Tuning for Low-Resource Language Translation
-https://arxiv.org/abs/2404.04199 | [2404.04199] Exploring Probabilistic Models for Semi-supervised Learning
-https://arxiv.org/abs/2404.04167 | [2404.04167] Chinese Tiny LLM: Pretraining a Chinese-Centric Large Language Model
-https://arxiv.org/abs/2404.04101 | [2404.04101] Generative AI in the Wild: Prospects, Challenges, and Strategies
-https://arxiv.org/abs/2404.04095 | [2404.04095] Dynamic Prompt Optimizing for Text-to-Image Generation
-https://arxiv.org/abs/2404.04072 | [2404.04072] Label Propagation for Zero-shot Classification with Vision-Language Models
-https://arxiv.org/abs/2404.04067 | [2404.04067] CLUE: A Clinical Language Understanding Evaluation for LLMs
-https://arxiv.org/abs/2404.04042 | [2404.04042] Teaching Llama a New Language Through Cross-Lingual Knowledge Transfer
-https://arxiv.org/abs/2404.03913 | [2404.03913] Concept Weaver: Enabling Multi-Concept Fusion in Text-to-Image Models
-https://arxiv.org/abs/2404.03908 | [2404.03908] Multi-Task Learning for Lung sound & Lung disease classification
-https://arxiv.org/abs/2404.03706 | [2404.03706] Bi-level Guided Diffusion Models for Zero-Shot Medical Imaging Inverse Problems
+https://arxiv.org/abs/2404.05729 | [2404.05729] Finding Visual Task Vectors
+https://arxiv.org/abs/2404.05693 | [2404.05693] Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery
+https://arxiv.org/abs/2404.05667 | [2404.05667] AlignZeg: Mitigating Objective Misalignment for Zero-shot Semantic Segmentation
+https://arxiv.org/abs/2404.05657 | [2404.05657] MLP Can Be A Good Transformer Learner
+https://arxiv.org/abs/2404.05621 | [2404.05621] MULTIFLOW: Shifting Towards Task-Agnostic Vision-Language Pruning
+https://arxiv.org/abs/2404.05572 | [2404.05572] Eye Tracking on Text Reading with Visual Enhancements
+https://arxiv.org/abs/2404.05519 | [2404.05519] Investigating the Effectiveness of Cross-Attention to Unlock Zero-Shot Editing of Text-to-Video Diffusion Models
+https://arxiv.org/abs/2404.05468 | [2404.05468] Mind-to-Image: Projecting Visual Mental Imagination of the Brain from fMRI
+https://arxiv.org/abs/2404.05442 | [2404.05442] Unlocking Adaptive User Experience with Generative AI
+https://arxiv.org/abs/2404.05393 | [2404.05393] PAT: Pixel-wise Adaptive Training for Long-tailed Segmentation
+https://arxiv.org/abs/2404.05384 | [2404.05384] Rethinking the Spatial Inconsistency in Classifier-Free Diffusion Guidance
+https://arxiv.org/abs/2404.05331 | [2404.05331] Mask-ControlNet: Higher-Quality Image Generation with An Additional Mask Prompt
+https://arxiv.org/abs/2404.05231 | [2404.05231] PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection
+https://arxiv.org/abs/2404.05182 | [2404.05182] DLoRA: Distributed Parameter-Efficient Fine-Tuning Solution for Large Language Model
+https://arxiv.org/abs/2404.05143 | [2404.05143] Plug and Play with Prompts: A Prompt Tuning Approach for Controlling Text Generation
+https://arxiv.org/abs/2404.04996 | [2404.04996] Fantastic Animals and Where to Find Them: Segment Any Marine Animal with Dual SAM
+https://arxiv.org/abs/2404.04971 | [2404.04971] FPL+: Filtered Pseudo Label-based Unsupervised Cross-Modality Adaptation for 3D Medical Image Segmentation
+https://arxiv.org/abs/2404.04891 | [2404.04891] DL-EWF: Deep Learning Empowering Women's Fashion with Grounded-Segment-Anything Segmentation for Body Shape Classification
+https://arxiv.org/abs/2404.04883 | [2404.04883] Mixture of Low-rank Experts for Transferable AI-Generated Image Detection
+https://arxiv.org/abs/2404.04865 | [2404.04865] On the Learnability of Out-of-distribution Detection
+https://arxiv.org/abs/2404.04736 | [2404.04736] ProtoAL: Interpretable Deep Active Learning with prototypes for medical imaging
+https://arxiv.org/abs/2404.04544 | [2404.04544] BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion
+https://arxiv.org/abs/2404.04531 | [2404.04531] Frequency Decomposition-Driven Unsupervised Domain Adaptation for Remote Sensing Image Semantic Segmentation
+https://arxiv.org/abs/2404.04518 | [2404.04518] MedIAnomaly: A comparative study of anomaly detection in medical images
+https://arxiv.org/abs/2404.04476 | [2404.04476] DELTA: Decoupling Long-Tailed Online Continual Learning
+https://arxiv.org/abs/2404.04363 | [2404.04363] Idea-2-3D: Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs
