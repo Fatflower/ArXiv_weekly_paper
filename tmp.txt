@@ -1,26 +1,49 @@
-https://arxiv.org/abs/2404.05729 | [2404.05729] Finding Visual Task Vectors
-https://arxiv.org/abs/2404.05693 | [2404.05693] Evaluating the Efficacy of Cut-and-Paste Data Augmentation in Semantic Segmentation for Satellite Imagery
-https://arxiv.org/abs/2404.05667 | [2404.05667] AlignZeg: Mitigating Objective Misalignment for Zero-shot Semantic Segmentation
-https://arxiv.org/abs/2404.05657 | [2404.05657] MLP Can Be A Good Transformer Learner
-https://arxiv.org/abs/2404.05621 | [2404.05621] MULTIFLOW: Shifting Towards Task-Agnostic Vision-Language Pruning
-https://arxiv.org/abs/2404.05572 | [2404.05572] Eye Tracking on Text Reading with Visual Enhancements
-https://arxiv.org/abs/2404.05519 | [2404.05519] Investigating the Effectiveness of Cross-Attention to Unlock Zero-Shot Editing of Text-to-Video Diffusion Models
-https://arxiv.org/abs/2404.05468 | [2404.05468] Mind-to-Image: Projecting Visual Mental Imagination of the Brain from fMRI
-https://arxiv.org/abs/2404.05442 | [2404.05442] Unlocking Adaptive User Experience with Generative AI
-https://arxiv.org/abs/2404.05393 | [2404.05393] PAT: Pixel-wise Adaptive Training for Long-tailed Segmentation
-https://arxiv.org/abs/2404.05384 | [2404.05384] Rethinking the Spatial Inconsistency in Classifier-Free Diffusion Guidance
-https://arxiv.org/abs/2404.05331 | [2404.05331] Mask-ControlNet: Higher-Quality Image Generation with An Additional Mask Prompt
-https://arxiv.org/abs/2404.05231 | [2404.05231] PromptAD: Learning Prompts with only Normal Samples for Few-Shot Anomaly Detection
-https://arxiv.org/abs/2404.05182 | [2404.05182] DLoRA: Distributed Parameter-Efficient Fine-Tuning Solution for Large Language Model
-https://arxiv.org/abs/2404.05143 | [2404.05143] Plug and Play with Prompts: A Prompt Tuning Approach for Controlling Text Generation
-https://arxiv.org/abs/2404.04996 | [2404.04996] Fantastic Animals and Where to Find Them: Segment Any Marine Animal with Dual SAM
-https://arxiv.org/abs/2404.04971 | [2404.04971] FPL+: Filtered Pseudo Label-based Unsupervised Cross-Modality Adaptation for 3D Medical Image Segmentation
-https://arxiv.org/abs/2404.04891 | [2404.04891] DL-EWF: Deep Learning Empowering Women's Fashion with Grounded-Segment-Anything Segmentation for Body Shape Classification
-https://arxiv.org/abs/2404.04883 | [2404.04883] Mixture of Low-rank Experts for Transferable AI-Generated Image Detection
-https://arxiv.org/abs/2404.04865 | [2404.04865] On the Learnability of Out-of-distribution Detection
-https://arxiv.org/abs/2404.04736 | [2404.04736] ProtoAL: Interpretable Deep Active Learning with prototypes for medical imaging
-https://arxiv.org/abs/2404.04544 | [2404.04544] BeyondScene: Higher-Resolution Human-Centric Scene Generation With Pretrained Diffusion
-https://arxiv.org/abs/2404.04531 | [2404.04531] Frequency Decomposition-Driven Unsupervised Domain Adaptation for Remote Sensing Image Semantic Segmentation
-https://arxiv.org/abs/2404.04518 | [2404.04518] MedIAnomaly: A comparative study of anomaly detection in medical images
-https://arxiv.org/abs/2404.04476 | [2404.04476] DELTA: Decoupling Long-Tailed Online Continual Learning
-https://arxiv.org/abs/2404.04363 | [2404.04363] Idea-2-3D: Collaborative LMM Agents Enable 3D Model Generation from Interleaved Multimodal Inputs
+https://arxiv.org/abs/2404.07449 | [2404.07449] Learning to Localize Objects Improves Spatial Reasoning in Visual-LLMs
+https://arxiv.org/abs/2404.07424 | [2404.07424] CopilotCAD: Empowering Radiologists with Report Completion Models and Quantitative Evidence from Medical Image Foundation Models
+https://arxiv.org/abs/2404.07389 | [2404.07389] Object-Conditioned Energy-Based Attention Map Alignment in Text-to-Image Diffusion Models
+https://arxiv.org/abs/2404.07214 | [2404.07214] Exploring the Frontier of Vision-Language Models: A Survey of Current Methodologies and Future Directions
+https://arxiv.org/abs/2404.07208 | [2404.07208] Uncertainty-guided annotation enhances segmentation with the human-in-the-loop
+https://arxiv.org/abs/2404.07473 | [2404.07473] LUCF-Net: Lightweight U-shaped Cascade Fusion Network for Medical Image Segmentation
+https://arxiv.org/abs/2404.07318 | [2404.07318] Rethinking Perceptual Metrics for Medical Image Translation
+https://arxiv.org/abs/2404.07474 | [2404.07474] G-NeRF: Geometry-enhanced Novel View Synthesis from Single-View Images
+https://arxiv.org/abs/2404.07471 | [2404.07471] Structure-aware Fine-tuning for Code Pre-trained Models
+https://arxiv.org/abs/2404.07470 | [2404.07470] Scalable Language Model with Generalized Continual Learning
+https://arxiv.org/abs/2404.07993 | [2404.07993] Connecting NeRFs, Images, and Text
+https://arxiv.org/abs/2404.07990 | [2404.07990] OpenBias: Open-set Bias Detection in Text-to-Image Generative Models
+https://arxiv.org/abs/2404.07965 | [2404.07965] Rho-1: Not All Tokens Are What You Need
+https://arxiv.org/abs/2404.07933 | [2404.07933] Boosting Self-Supervision for Single-View Scene Completion via Knowledge Distillation
+https://arxiv.org/abs/2404.07817 | [2404.07817] Calibration of Continual Learning Models
+https://arxiv.org/abs/2404.07785 | [2404.07785] PRAM: Place Recognition Anywhere Model for Efficient Visual Localization
+https://arxiv.org/abs/2404.07754 | [2404.07754] Generating Synthetic Satellite Imagery With Deep-Learning Text-to-Image Models -- Technical Challenges and Implications for Monitoring and Verification
+https://arxiv.org/abs/2404.07729 | [2404.07729] Realistic Continual Learning Approach using Pre-trained Models
+https://arxiv.org/abs/2404.07705 | [2404.07705] ViM-UNet: Vision Mamba for Biomedical Segmentation
+https://arxiv.org/abs/2404.07696 | [2404.07696] Flatness Improves Backbone Generalisation in Few-shot Classification
+https://arxiv.org/abs/2404.07622 | [2404.07622] Multi-Image Visual Question Answering for Unsupervised Anomaly Detection
+https://arxiv.org/abs/2404.07613 | [2404.07613] Medical mT5: An Open-Source Multilingual Text-to-Text LLM for The Medical Domain
+https://arxiv.org/abs/2404.07580 | [2404.07580] Multi-rater Prompting for Ambiguous Medical Image Segmentation
+https://arxiv.org/abs/2404.07546 | [2404.07546] Decomposing Label Space, Format and Discrimination: Rethinking How LLMs Respond and Solve Tasks via In-Context Learning
+https://arxiv.org/abs/2404.07537 | [2404.07537] How is Visual Attention Influenced by Text Guidance? Database and Model
+https://arxiv.org/abs/2404.07518 | [2404.07518] Remembering Transformer for Continual Learning
+https://arxiv.org/abs/2404.07206 | [2404.07206] GoodDrag: Towards Good Practices for Drag Editing with Diffusion Models
+https://arxiv.org/abs/2404.07204 | [2404.07204] BRAVE: Broadening the visual encoding of vision-language models
+https://arxiv.org/abs/2404.07178 | [2404.07178] Move Anything with Layered Scene Diffusion
+https://arxiv.org/abs/2404.07117 | [2404.07117] Continuous Language Model Interpolation for Dynamic and Controllable Text Generation
+https://arxiv.org/abs/2404.06972 | [2404.06972] Toward industrial use of continual learning : new metrics proposal for class incremental learning
+https://arxiv.org/abs/2404.06859 | [2404.06859] Multi-Label Continual Learning for the Medical Domain: A Novel Benchmark
+https://arxiv.org/abs/2404.06795 | [2404.06795] Extracting Clean and Balanced Subset for Noisy Long-tailed Classification
+https://arxiv.org/abs/2404.06773 | [2404.06773] Adapting LLaMA Decoder to Vision Transformer
+https://arxiv.org/abs/2404.06733 | [2404.06733] Incremental XAI: Memorable Understanding of AI with Incremental Explanations
+https://arxiv.org/abs/2404.06666 | [2404.06666] SafeGen: Mitigating Unsafe Content Generation in Text-to-Image Models
+https://arxiv.org/abs/2404.06622 | [2404.06622] Calibrating Higher-Order Statistics for Few-Shot Class-Incremental Learning with Pre-trained Vision Transformers
+https://arxiv.org/abs/2404.06609 | [2404.06609] GOAT-Bench: A Benchmark for Multi-Modal Lifelong Navigation
+https://arxiv.org/abs/2404.06542 | [2404.06542] Training-Free Open-Vocabulary Segmentation with Offline Diffusion-Augmented Prototype Generation
+https://arxiv.org/abs/2404.06466 | [2404.06466] Hyperparameter Selection in Continual Learning
+https://arxiv.org/abs/2404.06362 | [2404.06362] Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation
+https://arxiv.org/abs/2404.06309 | [2404.06309] Audio-Visual Generalized Zero-Shot Learning using Pre-Trained Large Multi-Modal Models
+https://arxiv.org/abs/2404.06244 | [2404.06244] Anchor-based Robust Finetuning of Vision-Language Models
+https://arxiv.org/abs/2404.06217 | [2404.06217] VI-OOD: A Unified Representation Learning Framework for Textual Out-of-distribution Detection
+https://arxiv.org/abs/2404.06181 | [2404.06181] EPL: Evidential Prototype Learning for Semi-supervised Medical Image Segmentation
+https://arxiv.org/abs/2404.06177 | [2404.06177] Uncertainty-aware Evidential Fusion-based Learning for Semi-supervised Medical Image Segmentation
+https://arxiv.org/abs/2404.05997 | [2404.05997] Concept-Attention Whitening for Interpretable Skin Lesion Diagnosis
+https://arxiv.org/abs/2404.06095 | [2404.06095] Masked Modeling Duo: Towards a Universal Audio Pre-training Framework
+https://arxiv.org/abs/2404.05911 | [2404.05911] LATUP-Net: A Lightweight 3D Attention U-Net with Parallel Convolutions for Brain Tumor Segmentation
