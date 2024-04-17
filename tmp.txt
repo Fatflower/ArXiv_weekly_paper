@@ -1,41 +1,18 @@
-https://arxiv.org/abs/2404.09385 | [2404.09385] A Large-Scale Evaluation of Speech Foundation Models
-https://arxiv.org/abs/2404.08926 | [2404.08926] Diffusion Models Meet Remote Sensing: Principles, Methods, and Perspectives
-https://arxiv.org/abs/2404.08915 | [2404.08915] PM2: A New Prompting Multi-modal Model Paradigm for Few-shot Medical Image Classification
-https://arxiv.org/abs/2404.08886 | [2404.08886] EIVEN: Efficient Implicit Attribute Value Extraction using Multimodal LLM
-https://arxiv.org/abs/2404.08885 | [2404.08885] Is Next Token Prediction Sufficient for GPT? Exploration on Code Logic Comprehension
-https://arxiv.org/abs/2404.08878 | [2404.08878] Generative AI Agent for Next-Generation MIMO Design: Fundamentals, Challenges, and Vision
-https://arxiv.org/abs/2404.08877 | [2404.08877] Aligning LLMs for FL-free Program Repair
-https://arxiv.org/abs/2404.08865 | [2404.08865] LLM In-Context Recall is Prompt Dependent
-https://arxiv.org/abs/2404.08857 | [2404.08857] Voice Attribute Editing with Text Prompt
-https://arxiv.org/abs/2404.08819 | [2404.08819] The Illusion of State in State-Space Models
-https://arxiv.org/abs/2404.08788 | [2404.08788] Detecting AI-Generated Images via CLIP
-https://arxiv.org/abs/2404.08767 | [2404.08767] LLM-Seg: Bridging Image Segmentation and Large Language Model Reasoning
-https://arxiv.org/abs/2404.08761 | [2404.08761] `Eyes of a Hawk and Ears of a Fox': Part Prototype Network for Generalized Zero-Shot Learning
-https://arxiv.org/abs/2404.08679 | [2404.08679] Your Finetuned Large Language Model is Already a Powerful Out-of-distribution Detector
-https://arxiv.org/abs/2404.09977 | [2404.09977] MaxFusion: Plug&Play Multi-Modal Generation in Text-to-Image Diffusion Models
-https://arxiv.org/abs/2404.09957 | [2404.09957] How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model
-https://arxiv.org/abs/2404.09941 | [2404.09941] Evolving Interpretable Visual Classifiers with Large Language Models
-https://arxiv.org/abs/2404.09932 | [2404.09932] Foundational Challenges in Assuring Alignment and Safety of Large Language Models
-https://arxiv.org/abs/2404.09917 | [2404.09917] Evaluating the Explainability of Attributes and Prototypes for a Medical Classification Model
-https://arxiv.org/abs/2404.09872 | [2404.09872] Conditional Prototype Rectification Prompt Learning
-https://arxiv.org/abs/2404.09824 | [2404.09824] Impact of Preference Noise on the Alignment Performance of Generative Language Models
-https://arxiv.org/abs/2404.09797 | [2404.09797] TextCoT: Zoom In for Enhanced Multimodal Text-Rich Image Understanding
-https://arxiv.org/abs/2404.09778 | [2404.09778] The Devil is in the Few Shots: Iterative Visual Knowledge Completion for Few-shot Learning
-https://arxiv.org/abs/2404.09556 | [2404.09556] nnU-Net Revisited: A Call for Rigorous Validation in 3D Medical Image Segmentation
-https://arxiv.org/abs/2404.09516 | [2404.09516] State Space Model for New-Generation Network Alternative to Transformers: A Survey
-https://arxiv.org/abs/2404.09472 | [2404.09472] Q2A: Querying Implicit Fully Continuous Feature Pyramid to Align Features for Medical Image Segmentation
-https://arxiv.org/abs/2404.09387 | [2404.09387] RankCLIP: Ranking-Consistent Language-Image Pretraining
-https://arxiv.org/abs/2404.09339 | [2404.09339] Towards Practical Tool Usage for Continually Learning LLMs
-https://arxiv.org/abs/2404.09326 | [2404.09326] Weight Copy and Low-Rank Adaptation for Few-Shot Distillation of Vision Transformers
-https://arxiv.org/abs/2404.09216 | [2404.09216] DetCLIPv3: Towards Versatile Generative Open-vocabulary Object Detection
-https://arxiv.org/abs/2404.09204 | [2404.09204] TextHawk: Exploring Efficient Fine-Grained Perception of Multimodal Large Language Models
-https://arxiv.org/abs/2404.09179 | [2404.09179] Change Guiding Network: Incorporating Change Prior to Guide Change Detection in Remote Sensing Imagery
-https://arxiv.org/abs/2404.09163 | [2404.09163] GeMQuAD : Generating Multilingual Question Answering Datasets from Large Language Models using Few Shot Learning
-https://arxiv.org/abs/2404.09146 | [2404.09146] Fusion-Mamba for Cross-modality Object Detection
-https://arxiv.org/abs/2404.09027 | [2404.09027] MING-MOE: Enhancing Medical Multi-Task Learning in Large Language Models with Sparse Mixture of Low-Rank Adapter Experts
-https://arxiv.org/abs/2404.09022 | [2404.09022] Navigating the Landscape of Large Language Models: A Comprehensive Review and Analysis of Paradigms and Fine-Tuning Strategies
-https://arxiv.org/abs/2404.08985 | [2404.08985] Intuition-aware Mixture-of-Rank-1-Experts for Parameter Efficient Finetuning
-https://arxiv.org/abs/2404.08968 | [2404.08968] MCPNet: An Interpretable Classifier via Multi-Level Concept Prototypes
-https://arxiv.org/abs/2404.08958 | [2404.08958] AMU-Tuning: Effective Logit Bias for CLIP-based Few-shot Learning
-https://arxiv.org/abs/2404.08951 | [2404.08951] Constructing and Exploring Intermediate Domains in Mixed Domain Semi-supervised Medical Image Segmentation
-https://arxiv.org/abs/2404.08931 | [2404.08931] Label-free Anomaly Detection in Aerial Agricultural Images with Masked Image Modeling
+https://arxiv.org/abs/2404.10716 | [2404.10716] MOWA: Multiple-in-One Image Warping Model
+https://arxiv.org/abs/2404.10633 | [2404.10633] Contextrast: Contextual Contrastive Learning for Semantic Segmentation
+https://arxiv.org/abs/2404.10618 | [2404.10618] Private Attribute Inference from Images with Vision-Language Models
+https://arxiv.org/abs/2404.10555 | [2404.10555] Construction of Domain-specified Japanese Large Language Model for Finance through Continual Pre-training
+https://arxiv.org/abs/2404.10503 | [2404.10503] A Sentiment Analysis of Medical Text Based on Deep Learning
+https://arxiv.org/abs/2404.10501 | [2404.10501] Self-Supervised Visual Preference Alignment
+https://arxiv.org/abs/2404.10474 | [2404.10474] Toward a Realistic Benchmark for Out-of-Distribution Detection
+https://arxiv.org/abs/2404.10357 | [2404.10357] Optimization of Prompt Learning via Multi-Knowledge Representation for Vision-Language Models
+https://arxiv.org/abs/2404.10322 | [2404.10322] Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation
+https://arxiv.org/abs/2404.10308 | [2404.10308] Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs
+https://arxiv.org/abs/2404.10237 | [2404.10237] MoE-TinyMed: Mixture of Experts for Tiny Medical Large Vision-Language Models
+https://arxiv.org/abs/2404.10220 | [2404.10220] Closed-Loop Open-Vocabulary Mobile Manipulation with GPT-4V
+https://arxiv.org/abs/2404.10157 | [2404.10157] Salient Object-Aware Background Generation using Text-Guided Diffusion Models
+https://arxiv.org/abs/2404.10156 | [2404.10156] SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation
+https://arxiv.org/abs/2404.10710 | [2404.10710] Dual Modalities of Text: Visual and Textual Generative Pre-training
+https://arxiv.org/abs/2404.10717 | [2404.10717] Mixed Prototype Consistency Learning for Semi-supervised Medical Image Segmentation
+https://arxiv.org/abs/2404.10763 | [2404.10763] LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?
+https://arxiv.org/abs/2404.10758 | [2404.10758] Watch Your Step: Optimal Retrieval for Continual Learning at Scale
