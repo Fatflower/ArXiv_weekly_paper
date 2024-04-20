@@ -1,18 +1,31 @@
-https://arxiv.org/abs/2404.10716 | [2404.10716] MOWA: Multiple-in-One Image Warping Model
-https://arxiv.org/abs/2404.10633 | [2404.10633] Contextrast: Contextual Contrastive Learning for Semantic Segmentation
-https://arxiv.org/abs/2404.10618 | [2404.10618] Private Attribute Inference from Images with Vision-Language Models
-https://arxiv.org/abs/2404.10555 | [2404.10555] Construction of Domain-specified Japanese Large Language Model for Finance through Continual Pre-training
-https://arxiv.org/abs/2404.10503 | [2404.10503] A Sentiment Analysis of Medical Text Based on Deep Learning
-https://arxiv.org/abs/2404.10501 | [2404.10501] Self-Supervised Visual Preference Alignment
-https://arxiv.org/abs/2404.10474 | [2404.10474] Toward a Realistic Benchmark for Out-of-Distribution Detection
-https://arxiv.org/abs/2404.10357 | [2404.10357] Optimization of Prompt Learning via Multi-Knowledge Representation for Vision-Language Models
-https://arxiv.org/abs/2404.10322 | [2404.10322] Domain-Rectifying Adapter for Cross-Domain Few-Shot Segmentation
-https://arxiv.org/abs/2404.10308 | [2404.10308] Hierarchical Context Merging: Better Long Context Understanding for Pre-trained LLMs
-https://arxiv.org/abs/2404.10237 | [2404.10237] MoE-TinyMed: Mixture of Experts for Tiny Medical Large Vision-Language Models
-https://arxiv.org/abs/2404.10220 | [2404.10220] Closed-Loop Open-Vocabulary Mobile Manipulation with GPT-4V
-https://arxiv.org/abs/2404.10157 | [2404.10157] Salient Object-Aware Background Generation using Text-Guided Diffusion Models
-https://arxiv.org/abs/2404.10156 | [2404.10156] SegFormer3D: an Efficient Transformer for 3D Medical Image Segmentation
-https://arxiv.org/abs/2404.10710 | [2404.10710] Dual Modalities of Text: Visual and Textual Generative Pre-training
-https://arxiv.org/abs/2404.10717 | [2404.10717] Mixed Prototype Consistency Learning for Semi-supervised Medical Image Segmentation
-https://arxiv.org/abs/2404.10763 | [2404.10763] LaDiC: Are Diffusion Models Really Inferior to Autoregressive Counterparts for Image-to-Text Generation?
-https://arxiv.org/abs/2404.10758 | [2404.10758] Watch Your Step: Optimal Retrieval for Continual Learning at Scale
+https://arxiv.org/abs/2404.10443 | [2404.10443] AGHINT: Attribute-Guided Representation Learning on Heterogeneous Information Networks with Transformer
+https://arxiv.org/abs/2404.10370 | [2404.10370] Know Yourself Better: Diverse Discriminative Feature Learning Improves Open Set Recognition
+https://arxiv.org/abs/2404.11597 | [2404.11597] Explainable Artificial Intelligence Techniques for Accurate Fault Detection and Diagnosis: A Review
+https://arxiv.org/abs/2404.11599 | [2404.11599] Variational Bayesian Last Layers
+https://arxiv.org/abs/2404.11525 | [2404.11525] JointViT: Modeling Oxygen Saturation Levels with Joint Supervision on Long-Tailed OCTA
+https://arxiv.org/abs/2404.11322 | [2404.11322] VBR: A Vision Benchmark in Rome
+https://arxiv.org/abs/2404.11209 | [2404.11209] Prompt-Guided Generation of Structured Chest X-Ray Report Using a Pre-trained LLM
+https://arxiv.org/abs/2404.11207 | [2404.11207] Exploring the Transferability of Visual Prompting for Multimodal Large Language Models
+https://arxiv.org/abs/2404.11056 | [2404.11056] LMEraser: Large Model Unlearning through Adaptive Prompt Tuning
+https://arxiv.org/abs/2404.11018 | [2404.11018] Many-Shot In-Context Learning
+https://arxiv.org/abs/2404.11013 | [2404.11013] Control Theoretic Approach to Fine-Tuning and Transfer Learning
+https://arxiv.org/abs/2404.10877 | [2404.10877] Incubating Text Classifiers Following User Instruction with Nothing but LLM
+https://arxiv.org/abs/2404.12390 | [2404.12390] BLINK: Multimodal Large Language Models Can See but Not Perceive
+https://arxiv.org/abs/2404.12389 | [2404.12389] Moving Object Segmentation: All You Need Is SAM (and Flow)
+https://arxiv.org/abs/2404.12387 | [2404.12387] Reka Core, Flash, and Edge: A Series of Powerful Multimodal Language Models
+https://arxiv.org/abs/2404.12386 | [2404.12386] SOHES: Self-supervised Open-world Hierarchical Entity Segmentation
+https://arxiv.org/abs/2404.12368 | [2404.12368] Gradient-Regularized Out-of-Distribution Detection
+https://arxiv.org/abs/2404.12365 | [2404.12365] When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes
+https://arxiv.org/abs/2404.12353 | [2404.12353] V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning
+https://arxiv.org/abs/2404.12318 | [2404.12318] Reuse Your Rewards: Reward Model Transfer for Zero-Shot Cross-Lingual Alignment
+https://arxiv.org/abs/2404.12210 | [2404.12210] Observation, Analysis, and Solution: Exploring Strong Lightweight Vision Transformers via Masked Image Modeling Pre-Training
+https://arxiv.org/abs/2404.12172 | [2404.12172] How to Benchmark Vision Foundation Models for Semantic Segmentation?
+https://arxiv.org/abs/2404.12139 | [2404.12139] Omniview-Tuning: Boosting Viewpoint Invariance of Vision-Language Pre-training Models
+https://arxiv.org/abs/2404.12081 | [2404.12081] MaskCD: A Remote Sensing Change Detection Network Based on Mask Classification
+https://arxiv.org/abs/2404.12037 | [2404.12037] Data-free Knowledge Distillation for Fine-grained Visual Categorization
+https://arxiv.org/abs/2404.12015 | [2404.12015] What does CLIP know about peeling a banana?
+https://arxiv.org/abs/2404.11981 | [2404.11981] Tendency-driven Mutual Exclusivity for Weakly Supervised Incremental Semantic Segmentation
+https://arxiv.org/abs/2404.11864 | [2404.11864] Progressive Multi-modal Conditional Prompt Tuning
+https://arxiv.org/abs/2404.11824 | [2404.11824] TextCenGen: Attention-Guided Text-Centric Background Adaptation for Text-to-Image Generation
+https://arxiv.org/abs/2404.11795 | [2404.11795] Prompt-Driven Feature Diffusion for Open-World Semi-Supervised Learning
+https://arxiv.org/abs/2404.11732 | [2404.11732] Visual Prompting for Generalized Few-shot Segmentation: A Multi-scale Approach
