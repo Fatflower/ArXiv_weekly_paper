@@ -1,8 +1,13 @@
-https://arxiv.org/abs/2404.13504 | [2404.13504] IMO: Greedy Layer-Wise Sparse Representation Learning for Out-of-Distribution Text Classification with Pre-trained Models
-https://arxiv.org/abs/2404.13239 | [2404.13239] Beyond Pixel-Wise Supervision for Medical Image Segmentation: From Traditional Models to Foundation Models
-https://arxiv.org/abs/2404.13704 | [2404.13704] PEMMA: Parameter-Efficient Multi-Modal Adaptation for Medical Image Segmentation
-https://arxiv.org/abs/2404.13388 | [2404.13388] Diagnosis of Multiple Fundus Disorders Amidst a Scarcity of Medical Experts Via Self-supervised Machine Learning
-https://arxiv.org/abs/2404.13103 | [2404.13103] ToNNO: Tomographic Reconstruction of a Neural Network's Output for Weakly Supervised Segmentation of 3D Medical Images
-https://arxiv.org/abs/2404.14294 | [2404.14294] A Survey on Efficient Inference for Large Language Models
-https://arxiv.org/abs/2404.14239 | [2404.14239] MultiBooth: Towards Generating All Your Concepts in an Image from Text
-https://arxiv.org/abs/2404.14099 | [2404.14099] DynaMMo: Dynamic Model Merging for Efficient Class Incremental Learning for Medical Images
+https://arxiv.org/abs/2404.15217 | [2404.15217] Towards Large-Scale Training of Pathology Foundation Models
+https://arxiv.org/abs/2404.15198 | [2404.15198] Lossless and Near-Lossless Compression for Foundation Models
+https://arxiv.org/abs/2404.15159 | [2404.15159] MixLoRA: Enhancing Large Language Models Fine-Tuning with LoRA based Mixture of Experts
+https://arxiv.org/abs/2404.15127 | [2404.15127] MedDr: Diagnosis-Guided Bootstrapping for Large-Scale Medical Vision-Language Learning
+https://arxiv.org/abs/2404.15100 | [2404.15100] Multimodal Large Language Model is a Human-Aligned Annotator for Text-to-Image Generation
+https://arxiv.org/abs/2404.15045 | [2404.15045] Multi-Head Mixture-of-Experts
+https://arxiv.org/abs/2404.14955 | [2404.14955] Traditional to Transformers: A Survey on Current Trends and Future Prospects for Hyperspectral Image Classification
+https://arxiv.org/abs/2404.14808 | [2404.14808] Visual-Augmented Dynamic Semantic Prototype for Generative Zero-Shot Learning
+https://arxiv.org/abs/2404.14768 | [2404.14768] Enhancing Prompt Following with Visual Control Through Training-Free Mask-Guided Diffusion
+https://arxiv.org/abs/2404.14750 | [2404.14750] Grounded Knowledge-Enhanced Medical VLP for Chest X-Ray
+https://arxiv.org/abs/2404.14607 | [2404.14607] Q-Tuning: Queue-based Prompt Tuning for Lifelong Few-shot Language Learning
+https://arxiv.org/abs/2404.14588 | [2404.14588] Brain-Inspired Continual Learning-Robust Feature Distillation and Re-Consolidation for Class Incremental Learning
+https://arxiv.org/abs/2404.14471 | [2404.14471] Narrative Action Evaluation with Prompt-Guided Multimodal Interaction
