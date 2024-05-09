@@ -33,3 +33,6 @@ If you find some interesting articles in this week's arxiv that I've missed, fee
 21. [Source-Free Domain Adaptation Guided by Vision and Vision-Language Pre-Training](https://arxiv.org/abs/2405.02954)
 22. [Beyond Unimodal Learning: The Importance of Integrating Multiple Modalities for Lifelong Learning](https://arxiv.org/abs/2405.02766)
 23. [Efficient Exploration of Image Classifier Failures with Bayesian Optimization and Text-to-Image Models](https://arxiv.org/abs/2405.02332)
+24. [DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model](https://arxiv.org/abs/2405.04434)
+25. [On the Foundations of Earth and Climate Foundation Models](https://arxiv.org/abs/2405.04285)
+26. [Semi-Supervised Disease Classification based on Limited Medical Image Data](https://arxiv.org/abs/2405.04295)
