@@ -1,3 +1,6 @@
-https://arxiv.org/abs/2405.04434 | [2405.04434] DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model
-https://arxiv.org/abs/2405.04285 | [2405.04285] On the Foundations of Earth and Climate Foundation Models
-https://arxiv.org/abs/2405.04295 | [2405.04295] Semi-Supervised Disease Classification based on Limited Medical Image Data
+https://arxiv.org/abs/2405.04782 | [2405.04782] Dual-Image Enhanced CLIP for Zero-Shot Anomaly Detection
+https://arxiv.org/abs/2405.04834 | [2405.04834] FlexEControl: Flexible and Efficient Multimodal Control for Text-to-Image Generation
+https://arxiv.org/abs/2405.04969 | [2405.04969] A review on discriminative self-supervised learning methods
+https://arxiv.org/abs/2405.05007 | [2405.05007] HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation
+https://arxiv.org/abs/2405.04950 | [2405.04950] VisionGraph: Leveraging Large Multimodal Models for Graph Theory Problems in Visual Context
+https://arxiv.org/abs/2405.05237 | [2405.05237] EVA-X: A Foundation Model for General Chest X-ray Analysis with Self-supervised Learning
