@@ -1,6 +1,14 @@
-https://arxiv.org/abs/2405.04782 | [2405.04782] Dual-Image Enhanced CLIP for Zero-Shot Anomaly Detection
-https://arxiv.org/abs/2405.04834 | [2405.04834] FlexEControl: Flexible and Efficient Multimodal Control for Text-to-Image Generation
-https://arxiv.org/abs/2405.04969 | [2405.04969] A review on discriminative self-supervised learning methods
-https://arxiv.org/abs/2405.05007 | [2405.05007] HC-Mamba: Vision MAMBA with Hybrid Convolutional Techniques for Medical Image Segmentation
-https://arxiv.org/abs/2405.04950 | [2405.04950] VisionGraph: Leveraging Large Multimodal Models for Graph Theory Problems in Visual Context
-https://arxiv.org/abs/2405.05237 | [2405.05237] EVA-X: A Foundation Model for General Chest X-ray Analysis with Self-supervised Learning
+https://arxiv.org/abs/2405.05949 | [2405.05949] CuMo: Scaling Multimodal LLM with Co-Upcycled Mixture-of-Experts
+https://arxiv.org/abs/2405.05945 | [2405.05945] Lumina-T2X: Transforming Text into Any Modality, Resolution, and Duration via Flow-based Large Diffusion Transformers
+https://arxiv.org/abs/2405.05938 | [2405.05938] DOLOMITES: Domain-Specific Long-Form Methodical Tasks
+https://arxiv.org/abs/2405.05906 | [2405.05906] Deep Multi-Task Learning for Malware Image Classification
+https://arxiv.org/abs/2405.05852 | [2405.05852] Pre-trained Text-to-Image Diffusion Models Are Versatile Representation Learners for Control
+https://arxiv.org/abs/2405.05846 | [2405.05846] Could It Be Generated? Towards Practical Analysis of Memorization in Text-To-Image Diffusion Models
+https://arxiv.org/abs/2405.05806 | [2405.05806] MasterWeaver: Taming Editability and Identity for Personalized Text-to-Image Generation
+https://arxiv.org/abs/2405.05615 | [2405.05615] Memory-Space Visual Prompting for Efficient Vision-Language Fine-Tuning
+https://arxiv.org/abs/2405.05536 | [2405.05536] How Good Are Multi-dimensional Learned Indices? An Experimental Survey
+https://arxiv.org/abs/2405.05467 | [2405.05467] AFEN: Respiratory Disease Classification using Ensemble Learning
+https://arxiv.org/abs/2405.05445 | [2405.05445] Large Language Model Enhanced Machine Learning Estimators for Classification
+https://arxiv.org/abs/2405.05444 | [2405.05444] Evaluating Students' Open-ended Written Responses with LLMs: Using the RAG Framework for GPT-3.5, GPT-4, Claude-3, and Mistral-Large
+https://arxiv.org/abs/2405.05382 | [2405.05382] DrawL: Understanding the Effects of Non-Mainstream Dialects in Prompted Image Generation
+https://arxiv.org/abs/2405.05667 | [2405.05667] VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis
