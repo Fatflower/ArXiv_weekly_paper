@@ -1,15 +1,3 @@
-# ArXiv_weekly_paper
-This repository records interesting articles on the arXiv website every week (based on my own opinions only).
-If you find some interesting articles in this week's arxiv that I've missed, feel free to email me (z1282429194@163.com) or ask a question and I'll add it later.
-
-## Summary of recommended papers in 2024
-<!-- | | | | |
-|--------|--------|--------|--------| -->
-|[1_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/1_week.md)|[2_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/2_week.md)|[3_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/3_week.md)|[4_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/4_week.md)|[5_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/5_week.md)|[6_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/6_week.md)|[7_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/7_week.md)|[8_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/8_week.md)|[9_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/9_week.md)|[10_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/10_week.md)|[11_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/11_week.md)|[12_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/12_week.md)|[13_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/13_week.md)|[14_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/14_week.md)|[15_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/15_week.md)|[16_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/16_week.md)|[17_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/17_week.md)|[18_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/18_week.md)|[19_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/19_week.md)|[20_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/20_week.md)
-
-<!-- | | | | | -->
-
-## Recommended Papers for Week 20, 2024
 1. [Multi-Target Unsupervised Domain Adaptation for Semantic Segmentation without External Data](https://arxiv.org/abs/2405.06502)
 2. [Pseudo-Prompt Generating in Pre-trained Vision-Language Models for Multi-Label Medical Image Classification](https://arxiv.org/abs/2405.06468)
 3. [XAI4LLM. Let Machine Learning Models and LLMs Collaborate for Enhanced In-Context Learning in Healthcare](https://arxiv.org/abs/2405.06270)
