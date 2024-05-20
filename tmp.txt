@@ -1,19 +1,9 @@
-https://arxiv.org/abs/2405.10316 | [2405.10316] Analogist: Out-of-the-box Visual In-Context Learning with Image Diffusion Model
-https://arxiv.org/abs/2405.10290 | [2405.10290] On Sample Selection for Continual Learning: a Video Streaming Case Study
-https://arxiv.org/abs/2405.10286 | [2405.10286] FFF: Fixing Flawed Foundations in contrastive pre-training results in very strong Vision-Language models
-https://arxiv.org/abs/2405.10210 | [2405.10210] GPT Store Mining and Analysis
-https://arxiv.org/abs/2405.09820 | [2405.09820] Densely Distilling Cumulative Knowledge for Continual Learning
-https://arxiv.org/abs/2405.09798 | [2405.09798] Many-Shot In-Context Learning in Multimodal Foundation Models
-https://arxiv.org/abs/2405.09673 | [2405.09673] LoRA Learns Less and Forgets Less
-https://arxiv.org/abs/2405.09591 | [2405.09591] A Comprehensive Survey on Data Augmentation
-https://arxiv.org/abs/2405.09492 | [2405.09492] MGSER-SAM: Memory-Guided Soft Experience Replay with Sharpness-Aware Optimization for Enhanced Continual Learning
-https://arxiv.org/abs/2405.09404 | [2405.09404] Time-Equivariant Contrastive Learning for Degenerative Disease Progression in Retinal OCT
-https://arxiv.org/abs/2405.09056 | [2405.09056] CTS: A Consistency-Based Medical Image Segmentation Model
-https://arxiv.org/abs/2405.08911 | [2405.08911] CLIP with Quality Captions: A Strong Pretraining for Vision Tasks
-https://arxiv.org/abs/2405.08766 | [2405.08766] Energy-based Hopfield Boosting for Out-of-Distribution Detection
-https://arxiv.org/abs/2405.08765 | [2405.08765] Image to Pseudo-Episode: Boosting Few-Shot Segmentation by Unlabeled Data
-https://arxiv.org/abs/2405.08596 | [2405.08596] EVDA: Evolving Deepfake Audio Detection Continual Learning Benchmark
-https://arxiv.org/abs/2405.08533 | [2405.08533] Dynamic Feature Learning and Matching for Class-Incremental Learning
-https://arxiv.org/abs/2405.08458 | [2405.08458] Rethinking Prior Information Generation with CLIP for Few-Shot Segmentation
-https://arxiv.org/abs/2405.08454 | [2405.08454] How Alignment Helps Make the Most of Multimodal Data
-https://arxiv.org/abs/2405.08038 | [2405.08038] Feature Expansion and enhanced Compression for Class Incremental Learning
+https://arxiv.org/abs/2405.10938 | [2405.10938] Observational Scaling Laws and the Predictability of Language Model Performance
+https://arxiv.org/abs/2405.10913 | [2405.10913] Blackbox Adaptation for Medical Image Segmentation
+https://arxiv.org/abs/2405.10808 | [2405.10808] ActiveLLM: Large Language Model-based Active Learning for Textual Few-Shot Scenarios
+https://arxiv.org/abs/2405.10739 | [2405.10739] Efficient Multimodal Large Language Models: A Survey
+https://arxiv.org/abs/2405.10706 | [2405.10706] Challenging the Human-in-the-loop in Algorithmic Decision-making
+https://arxiv.org/abs/2405.10637 | [2405.10637] Layer-Condensed KV Cache for Efficient Inference of Large Language Models
+https://arxiv.org/abs/2405.10630 | [2405.10630] Medical Dialogue: A Survey of Categories, Methods, Evaluation and Challenges
+https://arxiv.org/abs/2405.10530 | [2405.10530] CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation
+https://arxiv.org/abs/2405.10347 | [2405.10347] Networking Systems for Video Anomaly Detection: A Tutorial and Survey
