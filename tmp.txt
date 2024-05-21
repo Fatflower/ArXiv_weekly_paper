@@ -1,9 +1,21 @@
-https://arxiv.org/abs/2405.10938 | [2405.10938] Observational Scaling Laws and the Predictability of Language Model Performance
-https://arxiv.org/abs/2405.10913 | [2405.10913] Blackbox Adaptation for Medical Image Segmentation
-https://arxiv.org/abs/2405.10808 | [2405.10808] ActiveLLM: Large Language Model-based Active Learning for Textual Few-Shot Scenarios
-https://arxiv.org/abs/2405.10739 | [2405.10739] Efficient Multimodal Large Language Models: A Survey
-https://arxiv.org/abs/2405.10706 | [2405.10706] Challenging the Human-in-the-loop in Algorithmic Decision-making
-https://arxiv.org/abs/2405.10637 | [2405.10637] Layer-Condensed KV Cache for Efficient Inference of Large Language Models
-https://arxiv.org/abs/2405.10630 | [2405.10630] Medical Dialogue: A Survey of Categories, Methods, Evaluation and Challenges
-https://arxiv.org/abs/2405.10530 | [2405.10530] CM-UNet: Hybrid CNN-Mamba UNet for Remote Sensing Image Semantic Segmentation
-https://arxiv.org/abs/2405.10347 | [2405.10347] Networking Systems for Video Anomaly Detection: A Tutorial and Survey
+https://arxiv.org/abs/2405.12217 | [2405.12217] Adapting Large Multimodal Models to Distribution Shifts: The Role of In-Context Learning
+https://arxiv.org/abs/2405.12139 | [2405.12139] DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM
+https://arxiv.org/abs/2405.12130 | [2405.12130] MoRA: High-Rank Updating for Parameter-Efficient Fine-Tuning
+https://arxiv.org/abs/2405.11976 | [2405.11976] Position-Guided Prompt Learning for Anomaly Detection in Chest X-Rays
+https://arxiv.org/abs/2405.11971 | [2405.11971] Data Augmentation for Text-based Person Retrieval Using Large Language Models
+https://arxiv.org/abs/2405.11793 | [2405.11793] MM-Retinal: Knowledge-Enhanced Foundational Pretraining with Fundus Image-Text Expertise
+https://arxiv.org/abs/2405.11756 | [2405.11756] Erasing the Bias: Fine-Tuning Foundation Models for Semi-Supervised Learning
+https://arxiv.org/abs/2405.11742 | [2405.11742] Universal Organizer of SAM for Unsupervised Semantic Segmentation
+https://arxiv.org/abs/2405.11574 | [2405.11574] Reproducibility Study of CDUL: CLIP-Driven Unsupervised Learning for Multi-Label Image Classification
+https://arxiv.org/abs/2405.11496 | [2405.11496] DEMO: A Statistical Perspective for Efficient Image-Text Matching
+https://arxiv.org/abs/2405.11491 | [2405.11491] BOSC: A Backdoor-based Framework for Open Set Synthetic Image Attribution
+https://arxiv.org/abs/2405.11476 | [2405.11476] NubbleDrop: A Simple Way to Improve Matching Strategy for Prompted One-Shot Segmentation
+https://arxiv.org/abs/2405.11464 | [2405.11464] Efficient Prompt Tuning by Multi-Space Projection and Prompt Fusion
+https://arxiv.org/abs/2405.11446 | [2405.11446] MAML-en-LLM: Model Agnostic Meta-Training of LLMs for Improved In-Context Learning
+https://arxiv.org/abs/2405.11337 | [2405.11337] A Unified Approach Towards Active Learning and Out-of-Distribution Detection
+https://arxiv.org/abs/2405.11315 | [2405.11315] MediCLIP: Adapting CLIP for Few-shot Medical Image Anomaly Detection
+https://arxiv.org/abs/2405.11301 | [2405.11301] Enhancing Fine-Grained Image Classifications via Cascaded Vision Language Models
+https://arxiv.org/abs/2405.11273 | [2405.11273] Uni-MoE: Scaling Unified Multimodal LLMs with Mixture of Experts
+https://arxiv.org/abs/2405.11067 | [2405.11067] Bayesian Learning-driven Prototypical Contrastive Loss for Class-Incremental Learning
+https://arxiv.org/abs/2405.10954 | [2405.10954] Multimodal CLIP Inference for Meta-Few-Shot Image Classification
+https://arxiv.org/abs/2405.11289 | [2405.11289] Diffusion Model Driven Test-Time Image Adaptation for Robust Skin Lesion Classification
