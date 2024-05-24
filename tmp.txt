@@ -1,9 +1,39 @@
-https://arxiv.org/abs/2405.12981 | [2405.12981] Reducing Transformer Key-Value Cache Size with Cross-Layer Attention
-https://arxiv.org/abs/2405.12970 | [2405.12970] Face Adapter for Pre-Trained Diffusion Models with Fine-Grained ID and Attribute Control
-https://arxiv.org/abs/2405.12914 | [2405.12914] An Empirical Study and Analysis of Text-to-Image Generation Using Large Language Model-Powered Textual Representation
-https://arxiv.org/abs/2405.12819 | [2405.12819] Large Language Models Meet NLP: A Survey
-https://arxiv.org/abs/2405.12752 | [2405.12752] C3L: Content Correlated Vision-Language Instruction Tuning Data Generation via Contrastive Learning
-https://arxiv.org/abs/2405.12328 | [2405.12328] Multi-dimension Transformer with Attention-based Filtering for Medical Image Segmentation
-https://arxiv.org/abs/2405.12609 | [2405.12609] Mamba in Speech: Towards an Alternative to Self-Attention
-https://arxiv.org/abs/2405.12872 | [2405.12872] Spatial-aware Attention Generative Adversarial Network for Semi-supervised Anomaly Detection in Medical Image
-https://arxiv.org/abs/2405.12318 | [2405.12318] Hierarchical SegNet with Channel and Context Attention for Accurate Lung Segmentation in Chest X-ray Images
+https://arxiv.org/abs/2405.14862 | [2405.14862] Bitune: Bidirectional Instruction-Tuning
+https://arxiv.org/abs/2405.14860 | [2405.14860] Not All Language Model Features Are Linear
+https://arxiv.org/abs/2405.14858 | [2405.14858] Mamba-R: Vision Mamba ALSO Needs Registers
+https://arxiv.org/abs/2405.14828 | [2405.14828] Good Seed Makes a Good Crop: Discovering Secret Seeds in Text-to-Image Diffusion Models
+https://arxiv.org/abs/2405.14788 | [2405.14788] Masked Image Modelling for retinal OCT understanding
+https://arxiv.org/abs/2405.14737 | [2405.14737] CLIPScope: Enhancing Zero-Shot OOD Detection with Bayesian Scoring
+https://arxiv.org/abs/2405.14715 | [2405.14715] Towards Cross-modal Backward-compatible Representation Learning for Vision-Language Models
+https://arxiv.org/abs/2405.14705 | [2405.14705] Learning Multi-dimensional Human Preference for Text-to-Image Generation
+https://arxiv.org/abs/2405.14700 | [2405.14700] Sparse-Tuning: Adapting Vision Transformers with Efficient Fine-tuning and Inference
+https://arxiv.org/abs/2405.14672 | [2405.14672] Towards Imperceptible Backdoor Attack in Self-supervised Learning
+https://arxiv.org/abs/2405.14632 | [2405.14632] Reinforcement Learning for Fine-tuning Text-to-speech Diffusion Models
+https://arxiv.org/abs/2405.14623 | [2405.14623] U-TELL: Unsupervised Task Expert Lifelong Learning
+https://arxiv.org/abs/2405.14563 | [2405.14563] Concept Visualization: Explaining the CLIP Multi-modal Embedding Using WordNet
+https://arxiv.org/abs/2405.14530 | [2405.14530] Multistable Shape from Shading Emerges from Patch Diffusion
+https://arxiv.org/abs/2405.14529 | [2405.14529] AnomalyDINO: Boosting Patch-based Few-shot Anomaly Detection with DINOv2
+https://arxiv.org/abs/2405.14517 | [2405.14517] Identity Inference from CLIP Models using Only Textual Data
+https://arxiv.org/abs/2405.14444 | [2405.14444] DuEDL: Dual-Branch Evidential Deep Learning for Scribble-Supervised Medical Image Segmentation
+https://arxiv.org/abs/2405.14318 | [2405.14318] Adaptive Rentention & Correction for Continual Learning
+https://arxiv.org/abs/2405.14297 | [2405.14297] Dynamic Mixture of Experts: An Auto-Tuning Approach for Efficient Transformer Models
+https://arxiv.org/abs/2405.14294 | [2405.14294] Tuning-free Universally-Supervised Semantic Segmentation
+https://arxiv.org/abs/2405.14271 | [2405.14271] Fine-grained Image-to-LiDAR Contrastive Distillation with Visual Foundation Models
+https://arxiv.org/abs/2405.14206 | [2405.14206] LG-VQ: Language-Guided Codebook Learning
+https://arxiv.org/abs/2405.14171 | [2405.14171] Multi-view Remote Sensing Image Segmentation With SAM priors
+https://arxiv.org/abs/2405.14162 | [2405.14162] Leveraging Semantic Segmentation Masks with Embeddings for Fine-Grained Form Classification
+https://arxiv.org/abs/2405.14137 | [2405.14137] RET-CLIP: A Retinal Image Foundation Model Pre-trained with Clinical Diagnostic Reports
+https://arxiv.org/abs/2405.14133 | [2405.14133] Automated Loss function Search for Class-imbalanced Node Classification
+https://arxiv.org/abs/2405.14124 | [2405.14124] Mixture of Experts Meets Prompt-Based Continual Learning
+https://arxiv.org/abs/2405.14030 | [2405.14030] Refining Skewed Perceptions in Vision-Language Models through Visual Representations
+https://arxiv.org/abs/2405.13978 | [2405.13978] Mitigating Interference in the Knowledge Continuum through Attention-Guided Incremental Learning
+https://arxiv.org/abs/2405.13860 | [2405.13860] MAGIC: Map-Guided Few-Shot Audio-Visual Acoustics Modeling
+https://arxiv.org/abs/2405.13779 | [2405.13779] Robust Disaster Assessment from Aerial Imagery Using Text-to-Image Synthetic Data
+https://arxiv.org/abs/2405.13532 | [2405.13532] What Makes Good Few-shot Examples for Vision-Language Models?
+https://arxiv.org/abs/2405.13451 | [2405.13451] A Label Propagation Strategy for CutMix in Multi-Label Remote Sensing Image Classification
+https://arxiv.org/abs/2405.13388 | [2405.13388] Unsupervised Pre-training with Language-Vision Prompts for Low-Data Instance Segmentation
+https://arxiv.org/abs/2405.13383 | [2405.13383] Gradient Projection For Parameter-Efficient Continual Learning
+https://arxiv.org/abs/2405.13053 | [2405.13053] MeteoRA: Multiple-tasks Embedded LoRA for Large Language Models
+https://arxiv.org/abs/2405.13045 | [2405.13045] CoLay: Controllable Layout Generation through Multi-conditional Latent Diffusion
+https://arxiv.org/abs/2405.14802 | [2405.14802] Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation
+https://arxiv.org/abs/2405.13757 | [2405.13757] A label-free and data-free training strategy for vasculature segmentation in serial sectioning OCT data
