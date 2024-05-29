@@ -1,38 +1,32 @@
-https://arxiv.org/abs/2405.15769 | [2405.15769] FastDrag: Manipulate Anything in One Step
-https://arxiv.org/abs/2405.15765 | [2405.15765] Scaling Laws for Discriminative Classification in Large Language Models
-https://arxiv.org/abs/2405.15760 | [2405.15760] GPT is Not an Annotator: The Necessity of Human Annotation in Fairness Benchmark Construction
-https://arxiv.org/abs/2405.15753 | [2405.15753] Data Reconstruction: When You See It and When You Don't
-https://arxiv.org/abs/2405.15738 | [2405.15738] ConvLLaVA: Hierarchical Backbones as Visual Encoder for Large Multimodal Models
-https://arxiv.org/abs/2405.15734 | [2405.15734] LM4LV: A Frozen Large Language Model for Low-level Vision Tasks
-https://arxiv.org/abs/2405.15728 | [2405.15728] Disease-informed Adaptation of Vision-Language Models
-https://arxiv.org/abs/2405.15684 | [2405.15684] Prompt-Aware Adapter: Towards Learning Adaptive Visual Tokens for Multimodal Large Language Models
-https://arxiv.org/abs/2405.15633 | [2405.15633] Less is more: Summarizing Patch Tokens for efficient Multi-Label Class-Incremental Learning
-https://arxiv.org/abs/2405.15618 | [2405.15618] MLPs Learn In-Context
-https://arxiv.org/abs/2405.15587 | [2405.15587] Composed Image Retrieval for Remote Sensing
-https://arxiv.org/abs/2405.15574 | [2405.15574] Meteor: Mamba-based Traversal of Rationale for Large Language and Vision Models
-https://arxiv.org/abs/2405.15551 | [2405.15551] Thinking Forward: Memory-Efficient Federated Finetuning of Language Models
-https://arxiv.org/abs/2405.15549 | [2405.15549] SEP: Self-Enhanced Prompt Tuning for Visual-Language Model
-https://arxiv.org/abs/2405.15525 | [2405.15525] Sparse Matrix in Large Language Model Fine-tuning
-https://arxiv.org/abs/2405.15524 | [2405.15524] Polyp Segmentation Generalisability of Pretrained Backbones
-https://arxiv.org/abs/2405.15475 | [2405.15475] Efficient Degradation-aware Any Image Restoration
-https://arxiv.org/abs/2405.15444 | [2405.15444] HyperInterval: Hypernetwork approach to training weight interval regions in continual learning
-https://arxiv.org/abs/2405.15424 | [2405.15424] Smoothed Online Classification can be Harder than Batch Classification
-https://arxiv.org/abs/2405.15365 | [2405.15365] U3M: Unbiased Multiscale Modal Fusion Model for Multimodal Semantic Segmentation
-https://arxiv.org/abs/2405.15330 | [2405.15330] Towards Understanding the Working Mechanism of Text-to-Image Diffusion Model
-https://arxiv.org/abs/2405.15319 | [2405.15319] Stacking Your Transformers: A Closer Look at Model Growth for Efficient LLM Pre-Training
-https://arxiv.org/abs/2405.15318 | [2405.15318] Are Long-LLMs A Necessity For Long-Context Tasks?
-https://arxiv.org/abs/2405.15282 | [2405.15282] Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation
-https://arxiv.org/abs/2405.15279 | [2405.15279] Towards Global Optimal Visual In-Context Learning Prompt Selection
-https://arxiv.org/abs/2405.15265 | [2405.15265] Cross-Domain Few-Shot Semantic Segmentation via Doubly Matching Transformation
-https://arxiv.org/abs/2405.15264 | [2405.15264] Self-Contrastive Weakly Supervised Learning Framework for Prognostic Prediction Using Whole Slide Images
-https://arxiv.org/abs/2405.15232 | [2405.15232] DEEM: Diffusion Models Serve as the Eyes of Large Language Models for Image Perception
-https://arxiv.org/abs/2405.15203 | [2405.15203] Exploring the Impact of Synthetic Data for Aerial-view Human Detection
-https://arxiv.org/abs/2405.15179 | [2405.15179] VB-LoRA: Extreme Parameter Efficient Fine-Tuning with Vector Banks
-https://arxiv.org/abs/2405.15157 | [2405.15157] Rethinking Class-Incremental Learning from a Dynamic Imbalanced Learning Perspective
-https://arxiv.org/abs/2405.15155 | [2405.15155] CLIP model is an Efficient Online Lifelong Learner
-https://arxiv.org/abs/2405.15114 | [2405.15114] Let Me Do It For You: Towards LLM Empowered Recommendation via Tool Learning
-https://arxiv.org/abs/2405.15096 | [2405.15096] Music Genre Classification: Training an AI model
-https://arxiv.org/abs/2405.15047 | [2405.15047] Credal Wrapper of Model Averaging for Uncertainty Estimation on Out-Of-Distribution Detection
-https://arxiv.org/abs/2405.15018 | [2405.15018] What Variables Affect Out-Of-Distribution Generalization in Pretrained Models?
-https://arxiv.org/abs/2405.15012 | [2405.15012] Extracting Prompts by Inverting LLM Outputs
-https://arxiv.org/abs/2405.07284 | [2405.07284] Zero Shot Context-Based Object Segmentation using SLIP (SAM+CLIP)
+https://arxiv.org/abs/2405.17427 | [2405.17427] Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model
+https://arxiv.org/abs/2405.17372 | [2405.17372] BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction
+https://arxiv.org/abs/2405.17264 | [2405.17264] On the Noise Robustness of In-Context Learning for Text Generation
+https://arxiv.org/abs/2405.17258 | [2405.17258] $\textit{Trans-LoRA}$: towards data-free Transferable Parameter Efficient Finetuning
+https://arxiv.org/abs/2405.17220 | [2405.17220] RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness
+https://arxiv.org/abs/2405.17394 | [2405.17394] The Expressive Capacity of State Space Models: A Formal Language Perspective
+https://arxiv.org/abs/2405.17293 | [2405.17293] Efficient Ensembles Improve Training Data Attribution
+https://arxiv.org/abs/2405.17247 | [2405.17247] An Introduction to Vision-Language Modeling
+https://arxiv.org/abs/2405.17234 | [2405.17234] Benchmarking General Purpose In-Context Learning
+https://arxiv.org/abs/2405.17202 | [2405.17202] Efficient multi-prompt evaluation of LLMs
+https://arxiv.org/abs/2405.17164 | [2405.17164] WeiPer: OOD Detection using Weight Perturbations of Class Projections
+https://arxiv.org/abs/2405.17069 | [2405.17069] Training-free Editioning of Text-to-Image Models
+https://arxiv.org/abs/2405.17054 | [2405.17054] Improving Data-aware and Parameter-aware Robustness for Continual Learning
+https://arxiv.org/abs/2405.17022 | [2405.17022] Compositional Few-Shot Class-Incremental Learning
+https://arxiv.org/abs/2405.16994 | [2405.16994] Vision-and-Language Navigation Generative Pretrained Transformer
+https://arxiv.org/abs/2405.16915 | [2405.16915] Multilingual Diversity Improves Vision-Language Representations
+https://arxiv.org/abs/2405.16833 | [2405.16833] Safe LoRA: the Silver Lining of Reducing Safety Risks when Fine-tuning Large Language Models
+https://arxiv.org/abs/2405.16819 | [2405.16819] Automatic Domain Adaptation by Transformers in In-Context Learning
+https://arxiv.org/abs/2405.16815 | [2405.16815] Image-level Regression for Uncertainty-aware Retinal Image Segmentation
+https://arxiv.org/abs/2405.16766 | [2405.16766] Reframing the Relationship in Out-of-Distribution Detection
+https://arxiv.org/abs/2405.16754 | [2405.16754] Adaptive VIO: Deep Visual-Inertial Odometry with Online Continual Learning
+https://arxiv.org/abs/2405.16625 | [2405.16625] Few-shot Tuning of Foundation Models for Class-incremental Learning
+https://arxiv.org/abs/2405.16498 | [2405.16498] On Sequential Loss Approximation for Continual Learning
+https://arxiv.org/abs/2405.16417 | [2405.16417] CRoFT: Robust Fine-Tuning with Concurrent Optimization for OOD Generalization and Open-Set OOD Detection
+https://arxiv.org/abs/2405.16401 | [2405.16401] Understanding the Effect of using Semantically Meaningful Tokens for Visual Representation Learning
+https://arxiv.org/abs/2405.16350 | [2405.16350] A Second-Order perspective on Compositionality and Incremental Learning
+https://arxiv.org/abs/2405.16146 | [2405.16146] Dual-Adapter: Training-free Dual Adaptation for Few-shot Out-of-Distribution Detection
+https://arxiv.org/abs/2405.16124 | [2405.16124] Unsupervised Meta-Learning via In-Context Learning
+https://arxiv.org/abs/2405.15973 | [2405.15973] Enhancing Visual-Language Modality Alignment in Large Vision Language Models via Self-Improvement
+https://arxiv.org/abs/2405.15953 | [2405.15953] Activator: GLU Activations as The Core Functions of a Vision Transformer
+https://arxiv.org/abs/2405.16922 | [2405.16922] Theories of synaptic memory consolidation and intelligent plasticity for continual learning
+https://arxiv.org/abs/2405.16516 | [2405.16516] Memory-efficient High-resolution OCT Volume Synthesis with Cascaded Amortized Latent Diffusion Models
