@@ -1,15 +1,3 @@
-# ArXiv_weekly_paper
-This repository records interesting articles on the arXiv website every week (based on my own opinions only).
-If you find some interesting articles in this week's arxiv that I've missed, feel free to email me (z1282429194@163.com) or ask a question and I'll add it later.
-
-## Summary of recommended papers in 2024
-<!-- | | | | |
-|--------|--------|--------|--------| -->
-|[1_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/1_week.md)|[2_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/2_week.md)|[3_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/3_week.md)|[4_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/4_week.md)|[5_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/5_week.md)|[6_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/6_week.md)|[7_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/7_week.md)|[8_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/8_week.md)|[9_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/9_week.md)|[10_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/10_week.md)|[11_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/11_week.md)|[12_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/12_week.md)|[13_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/13_week.md)|[14_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/14_week.md)|[15_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/15_week.md)|[16_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/16_week.md)|[17_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/17_week.md)|[18_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/18_week.md)|[19_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/19_week.md)|[20_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/20_week.md)|[21_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/21_week.md)|[22_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/22_week.md)|[23_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/23_week.md)|[24_week](https://github.com/Fatflower/ArXiv_weekly_paper/blob/main/2024/24_week.md)
-
-<!-- | | | | | -->
-
-## Recommended Papers for Week 24, 2024
 1. [Advanced Payment Security System:XGBoost, CatBoost and SMOTE Integrated](https://arxiv.org/abs/2406.04658)
 2. [CLoG: Benchmarking Continual Learning of Image Generation Models](https://arxiv.org/abs/2406.04584)
 3. [Attention Fusion Reverse Distillation for Multi-Lighting Image Anomaly Detection](https://arxiv.org/abs/2406.04573)
