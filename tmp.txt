@@ -1,40 +1,9 @@
-https://arxiv.org/abs/2406.04658 | [2406.04658] Advanced Payment Security System:XGBoost, CatBoost and SMOTE Integrated
-https://arxiv.org/abs/2406.04584 | [2406.04584] CLoG: Benchmarking Continual Learning of Image Generation Models
-https://arxiv.org/abs/2406.04573 | [2406.04573] Attention Fusion Reverse Distillation for Multi-Lighting Image Anomaly Detection
-https://arxiv.org/abs/2406.04508 | [2406.04508] OCCAM: Towards Cost-Efficient and Accuracy-Aware Image Classification Inference
-https://arxiv.org/abs/2406.04449 | [2406.04449] MAIRA-2: Grounded Radiology Report Generation
-https://arxiv.org/abs/2406.04446 | [2406.04446] Can Language Models Use Forecasting Strategies?
-https://arxiv.org/abs/2406.06485 | [2406.06485] Can Language Models Serve as Text-Based World Simulators?
-https://arxiv.org/abs/2406.06474 | [2406.06474] Towards a Personal Health Large Language Model
-https://arxiv.org/abs/2406.06469 | [2406.06469] Husky: A Unified, Open-Source Language Agent for Multi-Step Reasoning
-https://arxiv.org/abs/2406.06391 | [2406.06391] Towards Lifelong Learning of Large Language Models: A Survey
-https://arxiv.org/abs/2406.06351 | [2406.06351] Cascading Unknown Detection with Known Classification for Open Set Recognition
-https://arxiv.org/abs/2406.06213 | [2406.06213] A Statistical Theory of Regularization-Based Continual Learning
-https://arxiv.org/abs/2406.06048 | [2406.06048] Robust Latent Representation Tuning for Image-text Classification
-https://arxiv.org/abs/2406.05954 | [2406.05954] Aligning Large Language Models with Representation Editing: A Control Perspective
-https://arxiv.org/abs/2406.05835 | [2406.05835] Mamba YOLO: SSMs-Based YOLO For Object Detection
-https://arxiv.org/abs/2406.05821 | [2406.05821] F-LMM: Grounding Frozen Large Multimodal Models
-https://arxiv.org/abs/2406.05658 | [2406.05658] Visual Prompt Tuning in Null Space for Continual Learning
-https://arxiv.org/abs/2406.05631 | [2406.05631] CCSI: Continual Class-Specific Impression for Data-free Class Incremental Learning
-https://arxiv.org/abs/2406.05639 | [2406.05639] A Comprehensive Evaluation of Parameter-Efficient Fine-Tuning on Automated Program Repair
-https://arxiv.org/abs/2406.05628 | [2406.05628] Domain Generalization Guided by Large-Scale Pre-Trained Priors
-https://arxiv.org/abs/2406.05596 | [2406.05596] Aligning Human Knowledge with Visual Concepts Towards Explainable Medical Image Classification
-https://arxiv.org/abs/2406.05432 | [2406.05432] Regularized Training with Generated Datasets for Name-Only Transfer of Vision-Language Models
-https://arxiv.org/abs/2406.05317 | [2406.05317] LoCoCo: Dropping In Convolutions for Long Context Compression
-https://arxiv.org/abs/2406.05279 | [2406.05279] SuperPos-Prompt: Enhancing Soft Prompt Tuning of Language Models with Superposition of Multi Token Embeddings
-https://arxiv.org/abs/2406.05271 | [2406.05271] USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation
-https://arxiv.org/abs/2406.05205 | [2406.05205] CPLIP: Zero-Shot Learning for Histopathology with Comprehensive Vision-Language Alignment
-https://arxiv.org/abs/2406.05992 | [2406.05992] MHS-VM: Multi-Head Scanning in Parallel Subspaces for Vision Mamba
-https://arxiv.org/abs/2406.05891 | [2406.05891] GCtx-UNet: Efficient Network for Medical Image Segmentation
-https://arxiv.org/abs/2406.05347 | [2406.05347] MSAGPT: Neural Prompting Protein Structure Prediction via MSA Generative Pre-Training
-https://arxiv.org/abs/2406.05130 | [2406.05130] An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal Large Language Models
-https://arxiv.org/abs/2406.05054 | [2406.05054] Prototype Correlation Matching and Class-Relation Reasoning for Few-Shot Medical Image Segmentation
-https://arxiv.org/abs/2406.05000 | [2406.05000] AttnDreamBooth: Towards Text-Aligned Personalized Text-to-Image Generation
-https://arxiv.org/abs/2406.04999 | [2406.04999] ProMotion: Prototypes As Motion Learners
-https://arxiv.org/abs/2406.04984 | [2406.04984] MEFT: Memory-Efficient Fine-Tuning through Sparse Adapter
-https://arxiv.org/abs/2406.04930 | [2406.04930] MA-AVT: Modality Alignment for Parameter-Efficient Audio-Visual Transformers
-https://arxiv.org/abs/2406.04836 | [2406.04836] Revisiting Catastrophic Forgetting in Large Language Model Tuning
-https://arxiv.org/abs/2406.04823 | [2406.04823] BERTs are Generative In-Context Learners
-https://arxiv.org/abs/2406.04772 | [2406.04772] REP: Resource-Efficient Prompting for On-device Continual Learning
-https://arxiv.org/abs/2406.04716 | [2406.04716] MGIMM: Multi-Granularity Instruction Multimodal Model for Attribute-Guided Remote Sensing Image Detailed Description
-https://arxiv.org/abs/2406.04692 | [2406.04692] Mixture-of-Agents Enhances Large Language Model Capabilities
+https://arxiv.org/abs/2406.07550 | [2406.07550] An Image is Worth 32 Tokens for Reconstruction and Generation
+https://arxiv.org/abs/2406.07543 | [2406.07543] Vision Model Pre-training on Interleaved Image-Text Data via Latent Compression Learning
+https://arxiv.org/abs/2406.07537 | [2406.07537] Autoregressive Pretraining with Mamba in Vision
+https://arxiv.org/abs/2406.07450 | [2406.07450] Benchmarking Vision-Language Contrastive Methods for Medical Representation Learning
+https://arxiv.org/abs/2406.07287 | [2406.07287] Bilingual Sexism Classification: Fine-Tuned XLM-RoBERTa and GPT-3.5 Few-Shot Learning
+https://arxiv.org/abs/2406.07168 | [2406.07168] Teaching Language Models to Self-Improve by Learning from Language Feedback
+https://arxiv.org/abs/2406.07085 | [2406.07085] CAT: Coordinating Anatomical-Textual Prompts for Multi-Organ and Tumor Segmentation
+https://arxiv.org/abs/2406.07056 | [2406.07056] Effectively Compress KV Heads for LLM
+https://arxiv.org/abs/2406.06558 | [2406.06558] Enhancing Text Authenticity: A Novel Hybrid Approach for AI-Generated Text Detection
