@@ -1,16 +1,17 @@
-https://arxiv.org/abs/2406.08482 | [2406.08482] Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation
-https://arxiv.org/abs/2406.08487 | [2406.08487] Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models
-https://arxiv.org/abs/2406.08478 | [2406.08478] What If We Recaption Billions of Web Images with LLaMA-3?
-https://arxiv.org/abs/2406.08477 | [2406.08477] Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens
-https://arxiv.org/abs/2406.08466 | [2406.08466] Scaling Laws in Linear Regression: Compute, Parameters, and Data
-https://arxiv.org/abs/2406.08464 | [2406.08464] Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing
-https://arxiv.org/abs/2406.08457 | [2406.08457] ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery
-https://arxiv.org/abs/2406.08431 | [2406.08431] Diffusion Soup: Model Merging for Text-to-Image Diffusion Models
-https://arxiv.org/abs/2406.08394 | [2406.08394] VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks
-https://arxiv.org/abs/2406.08391 | [2406.08391] Large Language Models Must Be Taught to Know What They Don't Know
-https://arxiv.org/abs/2406.08372 | [2406.08372] APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentatio
-https://arxiv.org/abs/2406.08324 | [2406.08324] LaMOT: Language-Guided Multi-Object Tracking
-https://arxiv.org/abs/2406.08009 | [2406.08009] OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding
-https://arxiv.org/abs/2406.07876 | [2406.07876] Small Scale Data-Free Knowledge Distillation
-https://arxiv.org/abs/2406.07844 | [2406.07844] Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models
-https://arxiv.org/abs/2406.07588 | [2406.07588] AIM: Let Any Multi-modal Large Language Models Embrace Efficient In-Context Learning
+https://arxiv.org/abs/2406.09294 | [2406.09294] You Don't Need Data-Augmentation in Self-Supervised Learning
+https://arxiv.org/abs/2406.09317 | [2406.09317] Common and Rare Fundus Diseases Identification Using Vision-Language Foundation Model with Knowledge of Over 400 Diseases
+https://arxiv.org/abs/2406.09327 | [2406.09327] Towards AI Lesion Tracking in PET/CT Imaging: A Siamese-based CNN Pipeline applied on PSMA PET/CT Scans
+https://arxiv.org/abs/2406.09384 | [2406.09384] Reflecting on the State of Rehearsal-free Continual Learning with Pretrained Models
+https://arxiv.org/abs/2406.08528 | [2406.08528] Adaptive Teaching with Shared Classifier for Knowledge Distillation
+https://arxiv.org/abs/2406.08659 | [2406.08659] Vivid-ZOO: Multi-View Video Generation with Diffusion Model
+https://arxiv.org/abs/2406.08798 | [2406.08798] FouRA: Fourier Low Rank Adaptation
+https://arxiv.org/abs/2406.08816 | [2406.08816] ToSA: Token Selective Attention for Efficient Vision Transformers
+https://arxiv.org/abs/2406.09003 | [2406.09003] Enhancing Cross-Modal Fine-Tuning with Gradually Intermediate Modality Generation
+https://arxiv.org/abs/2406.09112 | [2406.09112] Large-Scale Evaluation of Open-Set Image Classification Techniques
+https://arxiv.org/abs/2406.09162 | [2406.09162] EMMA: Your Text-to-Image Diffusion Model Can Secretly Accept Multi-Modal Prompts
+https://arxiv.org/abs/2406.09296 | [2406.09296] Parameter-Efficient Active Learning for Foundational models
+https://arxiv.org/abs/2406.09385 | [2406.09385] Towards Vision-Language Geo-Foundation Model: A Survey
+https://arxiv.org/abs/2406.09398 | [2406.09398] Real-Time Deepfake Detection in the Real-World
+https://arxiv.org/abs/2406.09400 | [2406.09400] Yo'LLaVA: Your Personalized Language and Vision Assistant
+https://arxiv.org/abs/2406.09406 | [2406.09406] 4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities
+https://arxiv.org/abs/2406.09408 | [2406.09408] Data Attribution for Text-to-Image Models by Unlearning Synthesized Images

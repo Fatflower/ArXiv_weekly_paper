@@ -1,0 +1,16 @@
+https://arxiv.org/abs/2406.08482 | [2406.08482] Words Worth a Thousand Pictures: Measuring and Understanding Perceptual Variability in Text-to-Image Generation
+https://arxiv.org/abs/2406.08487 | [2406.08487] Beyond LLaVA-HD: Diving into High-Resolution Large Multimodal Models
+https://arxiv.org/abs/2406.08478 | [2406.08478] What If We Recaption Billions of Web Images with LLaMA-3?
+https://arxiv.org/abs/2406.08477 | [2406.08477] Improving LLMs for Recommendation with Out-Of-Vocabulary Tokens
+https://arxiv.org/abs/2406.08466 | [2406.08466] Scaling Laws in Linear Regression: Compute, Parameters, and Data
+https://arxiv.org/abs/2406.08464 | [2406.08464] Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing
+https://arxiv.org/abs/2406.08457 | [2406.08457] ConceptHash: Interpretable Fine-Grained Hashing via Concept Discovery
+https://arxiv.org/abs/2406.08431 | [2406.08431] Diffusion Soup: Model Merging for Text-to-Image Diffusion Models
+https://arxiv.org/abs/2406.08394 | [2406.08394] VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks
+https://arxiv.org/abs/2406.08391 | [2406.08391] Large Language Models Must Be Taught to Know What They Don't Know
+https://arxiv.org/abs/2406.08372 | [2406.08372] APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentatio
+https://arxiv.org/abs/2406.08324 | [2406.08324] LaMOT: Language-Guided Multi-Object Tracking
+https://arxiv.org/abs/2406.08009 | [2406.08009] OpenObj: Open-Vocabulary Object-Level Neural Radiance Fields with Fine-Grained Understanding
+https://arxiv.org/abs/2406.07876 | [2406.07876] Small Scale Data-Free Knowledge Distillation
+https://arxiv.org/abs/2406.07844 | [2406.07844] Understanding and Mitigating Compositional Issues in Text-to-Image Generative Models
+https://arxiv.org/abs/2406.07588 | [2406.07588] AIM: Let Any Multi-modal Large Language Models Embrace Efficient In-Context Learning
