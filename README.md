@@ -36,3 +36,7 @@ If you find some interesting articles in this week's arxiv that I've missed, fee
 24. [CLIP-Decoder : ZeroShot Multilabel Classification using Multimodal CLIP Aligned Representation](https://arxiv.org/abs/2406.14830)
 25. [Rapid and Accurate Diagnosis of Acute Aortic Syndrome using Non-contrast CT: A Large-scale, Retrospective, Multi-center and AI-based Study](https://arxiv.org/abs/2406.15222)
 26. [SelfReg-UNet: Self-Regularized UNet for Medical Image Segmentation](https://arxiv.org/abs/2406.14896)
+27. [DKPROMPT: Domain Knowledge Prompting Vision-Language Models for Open-World Planning](https://arxiv.org/abs/2406.17659)
+28. [Mitigate the Gap: Investigating Approaches for Improving Cross-Modal Alignment in CLIP](https://arxiv.org/abs/2406.17639)
+29. [Test-Time Generative Augmentation for Medical Image Segmentation](https://arxiv.org/abs/2406.17608)
+30. [Forget but Recall: Incremental Latent Rectification in Continual Learning](https://arxiv.org/abs/2406.17381)
