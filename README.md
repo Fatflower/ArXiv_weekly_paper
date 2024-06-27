@@ -40,3 +40,6 @@ If you find some interesting articles in this week's arxiv that I've missed, fee
 28. [Mitigate the Gap: Investigating Approaches for Improving Cross-Modal Alignment in CLIP](https://arxiv.org/abs/2406.17639)
 29. [Test-Time Generative Augmentation for Medical Image Segmentation](https://arxiv.org/abs/2406.17608)
 30. [Forget but Recall: Incremental Latent Rectification in Continual Learning](https://arxiv.org/abs/2406.17381)
+31. [Towards Compositionality in Concept Learning](https://arxiv.org/abs/2406.18534)
+32. [Towards diffusion models for large-scale sea-ice modelling](https://arxiv.org/abs/2406.18417)
+33. [AdaZeta: Adaptive Zeroth-Order Tensor-Train Adaption for Memory-Efficient Large Language Models Fine-Tuning](https://arxiv.org/abs/2406.18060)
