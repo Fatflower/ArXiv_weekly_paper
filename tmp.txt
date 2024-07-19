@@ -1,3 +1,14 @@
-https://arxiv.org/abs/2406.18534 | [2406.18534] Towards Compositionality in Concept Learning
-https://arxiv.org/abs/2406.18417 | [2406.18417] Towards diffusion models for large-scale sea-ice modelling
-https://arxiv.org/abs/2406.18060 | [2406.18060] AdaZeta: Adaptive Zeroth-Order Tensor-Train Adaption for Memory-Efficient Large Language Models Fine-Tuning
+https://arxiv.org/abs/2407.12665 | [2407.12665] Patch-Level Training for Large Language Models
+https://arxiv.org/abs/2407.12498 | [2407.12498] Evaluating Linguistic Capabilities of Multimodal LLMs in the Lens of Few-Shot Learning
+https://arxiv.org/abs/2407.12489 | [2407.12489] Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation
+https://arxiv.org/abs/2407.12442 | [2407.12442] ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference
+https://arxiv.org/abs/2407.12375 | [2407.12375] FETCH: A Memory-Efficient Replay Approach for Continual Learning in Image Classification
+https://arxiv.org/abs/2407.12279 | [2407.12279] ER-FSL: Experience Replay with Feature Subspace Learning for Online Continual Learning
+https://arxiv.org/abs/2407.12210 | [2407.12210] A Closer Look at Benchmarking Self-Supervised Pre-training with Image Classification
+https://arxiv.org/abs/2407.12188 | [2407.12188] CroMo-Mixup: Augmenting Cross-Model Representations for Continual Self-Supervised Learning
+https://arxiv.org/abs/2407.12031 | [2407.12031] Evaluation of Bias Towards Medical Professionals in Large Language Models
+https://arxiv.org/abs/2407.12064 | [2407.12064] LiteGPT: Large Vision-Language Model for Joint Chest X-ray Localization and Classification Task
+https://arxiv.org/abs/2407.12056 | [2407.12056] Across-subject ensemble-learning alleviates the need for large samples for fMRI decoding
+https://arxiv.org/abs/2407.13768 | [2407.13768] Addressing Imbalance for Class Incremental Learning in Medical Image Classification
+https://arxiv.org/abs/2407.13442 | [2407.13442] BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models
+https://arxiv.org/abs/2407.13363 | [2407.13363] Learning from the Web: Language Drives Weakly-Supervised Incremental Learning for Semantic Segmentation
