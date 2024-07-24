@@ -1,14 +1,25 @@
-https://arxiv.org/abs/2407.12665 | [2407.12665] Patch-Level Training for Large Language Models
-https://arxiv.org/abs/2407.12498 | [2407.12498] Evaluating Linguistic Capabilities of Multimodal LLMs in the Lens of Few-Shot Learning
-https://arxiv.org/abs/2407.12489 | [2407.12489] Dual-level Adaptive Self-Labeling for Novel Class Discovery in Point Cloud Segmentation
-https://arxiv.org/abs/2407.12442 | [2407.12442] ClearCLIP: Decomposing CLIP Representations for Dense Vision-Language Inference
-https://arxiv.org/abs/2407.12375 | [2407.12375] FETCH: A Memory-Efficient Replay Approach for Continual Learning in Image Classification
-https://arxiv.org/abs/2407.12279 | [2407.12279] ER-FSL: Experience Replay with Feature Subspace Learning for Online Continual Learning
-https://arxiv.org/abs/2407.12210 | [2407.12210] A Closer Look at Benchmarking Self-Supervised Pre-training with Image Classification
-https://arxiv.org/abs/2407.12188 | [2407.12188] CroMo-Mixup: Augmenting Cross-Model Representations for Continual Self-Supervised Learning
-https://arxiv.org/abs/2407.12031 | [2407.12031] Evaluation of Bias Towards Medical Professionals in Large Language Models
-https://arxiv.org/abs/2407.12064 | [2407.12064] LiteGPT: Large Vision-Language Model for Joint Chest X-ray Localization and Classification Task
-https://arxiv.org/abs/2407.12056 | [2407.12056] Across-subject ensemble-learning alleviates the need for large samples for fMRI decoding
+https://arxiv.org/abs/2407.15795 | [2407.15795] AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection
+https://arxiv.org/abs/2407.15793 | [2407.15793] CLIP with Generative Latent Replay: a Strong Baseline for Incremental Learning
+https://arxiv.org/abs/2407.15731 | [2407.15731] Zero-Shot Embeddings Inform Learning and Forgetting with Vision-Language Encoders
+https://arxiv.org/abs/2407.15556 | [2407.15556] SETTP: Style Extraction and Tunable Inference via Dual-level Transferable Prompt Learning
+https://arxiv.org/abs/2407.15431 | [2407.15431] Pre-Training and Prompting for Few-Shot Node Classification on Text-Attributed Graphs
+https://arxiv.org/abs/2407.15293 | [2407.15293] Enhancing Retinal Disease Classification from OCTA Images via Active Learning Techniques
+https://arxiv.org/abs/2407.15138 | [2407.15138] D$^4$M: Dataset Distillation via Disentangled Diffusion Model
+https://arxiv.org/abs/2407.14853 | [2407.14853] CBCTLiTS: A Synthetic, Paired CBCT/CT Dataset For Segmentation And Style Transfer
+https://arxiv.org/abs/2407.14799 | [2407.14799] FairViT: Fair Vision Transformer via Adaptive Masking
+https://arxiv.org/abs/2407.14679 | [2407.14679] Compact Language Models via Pruning and Knowledge Distillation
+https://arxiv.org/abs/2407.14676 | [2407.14676] On Learning Discriminative Features from Synthesized Data for Self-Supervised Fine-Grained Visual Recognition
+https://arxiv.org/abs/2407.14563 | [2407.14563] Learning Visual Grounding from Generative Vision and Language Model
 https://arxiv.org/abs/2407.13768 | [2407.13768] Addressing Imbalance for Class Incremental Learning in Medical Image Classification
-https://arxiv.org/abs/2407.13442 | [2407.13442] BEAF: Observing BEfore-AFter Changes to Evaluate Hallucination in Vision-language Models
-https://arxiv.org/abs/2407.13363 | [2407.13363] Learning from the Web: Language Drives Weakly-Supervised Incremental Learning for Semantic Segmentation
+https://arxiv.org/abs/2407.16653 | [2407.16653] Aggregated Attributions for Explanatory Analysis of 3D Segmentation Models
+https://arxiv.org/abs/2407.16526 | [2407.16526] Imperfect Vision Encoders: Efficient and Robust Tuning for Vision-Language Models
+https://arxiv.org/abs/2407.16367 | [2407.16367] Navigating Uncertainty in Medical Image Segmentation
+https://arxiv.org/abs/2407.16306 | [2407.16306] Optimizing Robotic Manipulation with Decision-RWKV: A Recurrent Sequence Modeling Approach for Lifelong Learning
+https://arxiv.org/abs/2407.16307 | [2407.16307] Multimodal Unlearnable Examples: Protecting Data against Multimodal Contrastive Learning
+https://arxiv.org/abs/2407.16244 | [2407.16244] HSVLT: Hierarchical Scale-Aware Vision-Language Transformer for Multi-Label Image Classification
+https://arxiv.org/abs/2407.15909 | [2407.15909] A Survey of Explainable Artificial Intelligence (XAI) in Financial Time Series Forecasting
+https://arxiv.org/abs/2407.15894 | [2407.15894] Craft: Cross-modal Aligned Features Improve Robustness of Prompt Tuning
+https://arxiv.org/abs/2407.15851 | [2407.15851] A Survey on Trustworthiness in Foundation Models for Medical Image Analysis
+https://arxiv.org/abs/2407.15837 | [2407.15837] Towards Latent Masked Image Modeling for Self-Supervised Visual Representation Learning
+https://arxiv.org/abs/2407.16697 | [2407.16697] AbdomenAtlas: A Large-Scale, Detailed-Annotated, & Multi-Center Dataset for Efficient Transfer Learning and Open Algorithmic Benchmarking
+https://arxiv.org/abs/2407.16682 | [2407.16682] SAM-CP: Marrying SAM with Composable Prompts for Versatile Segmentation
