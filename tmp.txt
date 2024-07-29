@@ -1,12 +1,4 @@
-https://arxiv.org/abs/2407.18242 | [2407.18242] LoRA-Pro: Are Low-Rank Adapters Properly Optimized?
-https://arxiv.org/abs/2407.18227 | [2407.18227] Automated Ensemble Multimodal Machine Learning for Healthcare
-https://arxiv.org/abs/2407.18100 | [2407.18100] DINOv2 Rocks Geological Image Analysis: Classification, Segmentation, and Interpretability
-https://arxiv.org/abs/2407.18078 | [2407.18078] PEFT-U: Parameter-Efficient Fine-Tuning for User Personalization
-https://arxiv.org/abs/2407.18041 | [2407.18041] How to Train the Teacher Model for Effective Knowledge Distillation
-https://arxiv.org/abs/2407.18003 | [2407.18003] Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption
-https://arxiv.org/abs/2407.17827 | [2407.17827] Unified Lexical Representation for Interpretable Visual-Language Alignment
-https://arxiv.org/abs/2407.17816 | [2407.17816] NC-NCD: Novel Class Discovery for Node Classification
-https://arxiv.org/abs/2407.17734 | [2407.17734] Cost-effective Instruction Learning for Pathology Vision and Language Analysis
-https://arxiv.org/abs/2407.17710 | [2407.17710] Revisiting Machine Unlearning with Dimensional Alignment
-https://arxiv.org/abs/2407.17689 | [2407.17689] SAM-MIL: A Spatial Contextual Aware Multiple Instance Learning Approach for Whole Slide Image Classification
-https://arxiv.org/abs/2407.17491 | [2407.17491] Robust Adaptation of Foundation Models with Black-Box Visual Prompting
+https://arxiv.org/abs/2407.18792 | [2407.18792] Benchmarking Dependence Measures to Prevent Shortcut Learning in Medical Imaging
+https://arxiv.org/abs/2407.18526 | [2407.18526] Constructing Enhanced Mutual Information for Online Class-Incremental Learning
+https://arxiv.org/abs/2407.18369 | [2407.18369] AI Safety in Generative AI Large Language Models: A Survey
+https://arxiv.org/abs/2407.18449 | [2407.18449] Towards A Generalizable Pathology Foundation Model via Unified Knowledge Distillation
