@@ -1,9 +1,21 @@
-https://arxiv.org/abs/2407.21011 | [2407.21011] CLEFT: Language-Image Contrastive Learning with Efficient Large Language Model and Prompt Fine-Tuning
-https://arxiv.org/abs/2407.21001 | [2407.21001] GABInsight: Exploring Gender-Activity Binding Bias in Vision-Language Models
-https://arxiv.org/abs/2407.20999 | [2407.20999] MoFO: Momentum-Filtered Optimizer for Mitigating Forgetting in LLM Fine-Tuning
-https://arxiv.org/abs/2407.20956 | [2407.20956] An Effective Dynamic Gradient Calibration Method for Continual Learning
-https://arxiv.org/abs/2407.20928 | [2407.20928] UniProcessor: A Text-induced Unified Low-level Image Processor
-https://arxiv.org/abs/2407.20798 | [2407.20798] Diffusion Augmented Agents: A Framework for Efficient Exploration and Transfer Learning
-https://arxiv.org/abs/2407.20756 | [2407.20756] SynthVLM: High-Efficiency and High-Quality Synthetic Data for Vision Language Models
-https://arxiv.org/abs/2407.20673 | [2407.20673] Label-Guided Prompt for Multi-label Few-shot Aspect Category Detection
-https://arxiv.org/abs/2407.20516 | [2407.20516] Machine Unlearning in Generative AI: A Survey
+https://arxiv.org/abs/2407.21794 | [2407.21794] Generalized Out-of-Distribution Detection and Beyond in Vision Language Model Era: A Survey
+https://arxiv.org/abs/2407.21783 | [2407.21783] The Llama 3 Herd of Models
+https://arxiv.org/abs/2407.21771 | [2407.21771] Paying More Attention to Image: A Training-Free Method for Alleviating Hallucination in LVLMs
+https://arxiv.org/abs/2407.21762 | [2407.21762] ReplanVLM: Replanning Robotic Tasks with Visual Language Models
+https://arxiv.org/abs/2407.21742 | [2407.21742] HGOE: Hybrid External and Internal Graph Outlier Exposure for Graph Out-of-Distribution Detection
+https://arxiv.org/abs/2407.21739 | [2407.21739] A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation
+https://arxiv.org/abs/2407.21721 | [2407.21721] Open-Vocabulary Audio-Visual Semantic Segmentation
+https://arxiv.org/abs/2407.21674 | [2407.21674] Synthetic Simplicity: Unveiling Bias in Medical Data Augmentation
+https://arxiv.org/abs/2407.21654 | [2407.21654] MTA-CLIP: Language-Guided Semantic Segmentation with Mask-Text Alignment
+https://arxiv.org/abs/2407.21596 | [2407.21596] Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2
+https://arxiv.org/abs/2407.21586 | [2407.21586] Adaptive Mix for Semi-Supervised Medical Image Segmentation
+https://arxiv.org/abs/2407.21571 | [2407.21571] PMoE: Progressive Mixture of Experts with Asymmetric Transformer for Continual Learning
+https://arxiv.org/abs/2407.21534 | [2407.21534] ControlMLLM: Training-Free Visual Prompt Learning for Multimodal Large Language Models
+https://arxiv.org/abs/2407.21416 | [2407.21416] VIPeR: Visual Incremental Place Recognition with Adaptive Mining and Lifelong Learning
+https://arxiv.org/abs/2407.21317 | [2407.21317] Pathology Foundation Models
+https://arxiv.org/abs/2407.21284 | [2407.21284] Robust Box Prompt based SAM for Medical Image Segmentation
+https://arxiv.org/abs/2407.21055 | [2407.21055] Bailicai: A Domain-Optimized Retrieval-Augmented Generation Framework for Medical Applications
+https://arxiv.org/abs/2407.21043 | [2407.21043] CP-Prompt: Composition-Based Cross-modal Prompting for Domain-Incremental Continual Learning
+https://arxiv.org/abs/2407.21035 | [2407.21035] Direct Unlearning Optimization for Robust and Safe Text-to-Image Models
+https://arxiv.org/abs/2407.21640 | [2407.21640] MSA2Net: Multi-scale Adaptive Attention-guided Network for Medical Image Segmentation
+https://arxiv.org/abs/2407.21343 | [2407.21343] MIST: A Simple and Scalable End-To-End 3D Medical Imaging Segmentation Framework
