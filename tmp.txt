@@ -1,19 +1,14 @@
-https://arxiv.org/abs/2408.00756# | [2408.00756] Segment anything model 2: an application to 2D and 3D medical images
-https://arxiv.org/abs/2408.00766 | [2408.00766] Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation
-https://arxiv.org/abs/2408.00744 | [2408.00744] Collaborative Vision-Text Representation Optimizing for Open-Vocabulary Segmentation
-https://arxiv.org/abs/2408.00741 | [2408.00741] DynamoLLM: Designing LLM Inference Clusters for Performance and Energy Efficiency
-https://arxiv.org/abs/2408.00738 | [2408.00738] Virchow 2: Scaling Self-Supervised Mixed Magnification Models in Pathology
-https://arxiv.org/abs/2408.00735 | [2408.00735] TurboEdit: Text-Based Image Editing Using Few-Step Diffusion Models
-https://arxiv.org/abs/2408.00706 | [2408.00706] Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM
-https://arxiv.org/abs/2408.00690 | [2408.00690] Improving Text Embeddings for Smaller Language Models Using Contrastive Fine-tuning
-https://arxiv.org/abs/2408.00665 | [2408.00665] AutoM3L: An Automated Multimodal Machine Learning Framework with Large Language Models
-https://arxiv.org/abs/2408.00636 | [2408.00636] Deep Learning in Medical Image Classification from MRI-based Brain Tumor Images
-https://arxiv.org/abs/2408.00620 | [2408.00620] Are Bigger Encoders Always Better in Vision Large Models?
-https://arxiv.org/abs/2408.00496 | [2408.00496] SegStitch: Multidimensional Transformer for Robust and Efficient Medical Imaging Segmentation
-https://arxiv.org/abs/2408.00491 | [2408.00491] GalleryGPT: Analyzing Paintings with Large Multimodal Models
-https://arxiv.org/abs/2408.00279 | [2408.00279] DMESA: Densely Matching Everything by Segmenting Anything
-https://arxiv.org/abs/2408.00230 | [2408.00230] Lost in Translation: Latent Concept Misalignment in Text-to-Image Diffusion Models
-https://arxiv.org/abs/2408.00191 | [2408.00191] S-SYNTH: Knowledge-Based, Synthetic Generation of Skin Images
-https://arxiv.org/abs/2408.00181 | [2408.00181] CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation
-https://arxiv.org/abs/2408.00167 | [2408.00167] Finch: Prompt-guided Key-Value Cache Compression
-https://arxiv.org/abs/2408.00001 | [2408.00001] Replication in Visual Diffusion Models: A Survey and Outlook
+https://arxiv.org/abs/2408.00932 | [2408.00932] Towards Zero-Shot Annotation of the Built Environment with Vision-Language Models (Vision Paper)
+https://arxiv.org/abs/2408.00874 | [2408.00874] Medical SAM 2: Segment medical images as video via Segment Anything Model 2
+https://arxiv.org/abs/2408.01026 | [2408.01026] PINNs for Medical Image Analysis: A Survey
+https://arxiv.org/abs/2408.01415 | [2408.01415] Conditional LoRA Parameter Generation
+https://arxiv.org/abs/2408.01402 | [2408.01402] Pre-trained Language Models Improve the Few-shot Prompt Ability of Decision Transformer
+https://arxiv.org/abs/2408.01384 | [2408.01384] NOLO: Navigate Only Look Once
+https://arxiv.org/abs/2408.01356 | [2408.01356] Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation
+https://arxiv.org/abs/2408.01355 | [2408.01355] Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs
+https://arxiv.org/abs/2408.01129 | [2408.01129] A Survey of Mamba
+https://arxiv.org/abs/2408.01119 | [2408.01119] Task Prompt Vectors: Effective Initialization through Multi-Task Soft-Prompt Transfer
+https://arxiv.org/abs/2408.01076 | [2408.01076] Exploiting the Semantic Knowledge of Pre-trained Text-Encoders for Continual Learning
+https://arxiv.org/abs/2408.01044 | [2408.01044] Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model
+https://arxiv.org/abs/2408.01031 | [2408.01031] POA: Pre-training Once for Models of All Sizes
+https://arxiv.org/abs/2408.00998 | [2408.00998] FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation
