@@ -1,14 +1,6 @@
-https://arxiv.org/abs/2408.00932 | [2408.00932] Towards Zero-Shot Annotation of the Built Environment with Vision-Language Models (Vision Paper)
-https://arxiv.org/abs/2408.00874 | [2408.00874] Medical SAM 2: Segment medical images as video via Segment Anything Model 2
-https://arxiv.org/abs/2408.01026 | [2408.01026] PINNs for Medical Image Analysis: A Survey
-https://arxiv.org/abs/2408.01415 | [2408.01415] Conditional LoRA Parameter Generation
-https://arxiv.org/abs/2408.01402 | [2408.01402] Pre-trained Language Models Improve the Few-shot Prompt Ability of Decision Transformer
-https://arxiv.org/abs/2408.01384 | [2408.01384] NOLO: Navigate Only Look Once
-https://arxiv.org/abs/2408.01356 | [2408.01356] Balanced Residual Distillation Learning for 3D Point Cloud Class-Incremental Semantic Segmentation
-https://arxiv.org/abs/2408.01355 | [2408.01355] Hallu-PI: Evaluating Hallucination in Multi-modal Large Language Models within Perturbed Inputs
-https://arxiv.org/abs/2408.01129 | [2408.01129] A Survey of Mamba
-https://arxiv.org/abs/2408.01119 | [2408.01119] Task Prompt Vectors: Effective Initialization through Multi-Task Soft-Prompt Transfer
-https://arxiv.org/abs/2408.01076 | [2408.01076] Exploiting the Semantic Knowledge of Pre-trained Text-Encoders for Continual Learning
-https://arxiv.org/abs/2408.01044 | [2408.01044] Boosting Gaze Object Prediction via Pixel-level Supervision from Vision Foundation Model
-https://arxiv.org/abs/2408.01031 | [2408.01031] POA: Pre-training Once for Models of All Sizes
-https://arxiv.org/abs/2408.00998 | [2408.00998] FBSDiff: Plug-and-Play Frequency Band Substitution of Diffusion Features for Highly Controllable Text-Driven Image Translation
+https://arxiv.org/abs/2408.03097 | [2408.03097] Prototype Learning for Micro-gesture Classification
+https://arxiv.org/abs/2408.02983 | [2408.02983] Diffusion Model Meets Non-Exemplar Class-Incremental Learning and Beyond
+https://arxiv.org/abs/2408.02930 | [2408.02930] The Need for a Big World Simulator: A Scientific Challenge for Continual Learning
+https://arxiv.org/abs/2408.03326 | [2408.03326] LLaVA-OneVision: Easy Visual Task Transfer
+https://arxiv.org/abs/2408.03286 | [2408.03286] Biomedical SAM 2: Segment Anything in Biomedical Images and Videos
+https://arxiv.org/abs/2408.03219 | [2408.03219] Learning to Learn without Forgetting using Attention
