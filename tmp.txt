@@ -1,6 +1,6 @@
-https://arxiv.org/abs/2408.03097 | [2408.03097] Prototype Learning for Micro-gesture Classification
-https://arxiv.org/abs/2408.02983 | [2408.02983] Diffusion Model Meets Non-Exemplar Class-Incremental Learning and Beyond
-https://arxiv.org/abs/2408.02930 | [2408.02930] The Need for a Big World Simulator: A Scientific Challenge for Continual Learning
-https://arxiv.org/abs/2408.03326 | [2408.03326] LLaVA-OneVision: Easy Visual Task Transfer
-https://arxiv.org/abs/2408.03286 | [2408.03286] Biomedical SAM 2: Segment Anything in Biomedical Images and Videos
-https://arxiv.org/abs/2408.03219 | [2408.03219] Learning to Learn without Forgetting using Attention
+https://arxiv.org/abs/2408.03940 | [2408.03940] How Well Can Vision Language Models See Image Details?
+https://arxiv.org/abs/2408.03913 | [2408.03913] AdapMTL: Adaptive Pruning Framework for Multitask Learning Model
+https://arxiv.org/abs/2408.03834 | [2408.03834] Target Prompting for Information Extraction with Vision Language Model
+https://arxiv.org/abs/2408.03464 | [2408.03464] AI Foundation Models in Remote Sensing: A Survey
+https://arxiv.org/abs/2408.03651 | [2408.03651] SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology
+https://arxiv.org/abs/2408.03616 | [2408.03616] Distillation Learning Guided by Image Reconstruction for One-Shot Medical Image Segmentation
