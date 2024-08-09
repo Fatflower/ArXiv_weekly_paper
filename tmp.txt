@@ -1,6 +1,12 @@
-https://arxiv.org/abs/2408.03940 | [2408.03940] How Well Can Vision Language Models See Image Details?
-https://arxiv.org/abs/2408.03913 | [2408.03913] AdapMTL: Adaptive Pruning Framework for Multitask Learning Model
-https://arxiv.org/abs/2408.03834 | [2408.03834] Target Prompting for Information Extraction with Vision Language Model
-https://arxiv.org/abs/2408.03464 | [2408.03464] AI Foundation Models in Remote Sensing: A Survey
-https://arxiv.org/abs/2408.03651 | [2408.03651] SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology
-https://arxiv.org/abs/2408.03616 | [2408.03616] Distillation Learning Guided by Image Reconstruction for One-Shot Medical Image Segmentation
+https://arxiv.org/abs/2408.04619 | [2408.04619] Transformer Explainer: Interactive Learning of Text-Generative Models
+https://arxiv.org/abs/2408.04594 | [2408.04594] Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models
+https://arxiv.org/abs/2408.04590 | [2408.04590] Learn To Learn More Precisely
+https://arxiv.org/abs/2408.04583 | [2408.04583] Unveiling the Power of Sparse Neural Networks for Feature Selection
+https://arxiv.org/abs/2408.04579 | [2408.04579] SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More
+https://arxiv.org/abs/2408.04532 | [2408.04532] How Transformers Utilize Multi-Head Attention in In-Context Learning? A Case Study on Sparse Linear Regression
+https://arxiv.org/abs/2408.04471 | [2408.04471] What could go wrong? Discovering and describing failure modes in computer vision
+https://arxiv.org/abs/2408.04388 | [2408.04388] MM-Forecast: A Multimodal Approach to Temporal Event Forecasting with Large Language Models
+https://arxiv.org/abs/2408.04347 | [2408.04347] AggSS: An Aggregated Self-Supervised Approach for Class-Incremental Learning
+https://arxiv.org/abs/2408.04262 | [2408.04262] CoBooM: Codebook Guided Bootstrapping for Medical Image Representation Learning
+https://arxiv.org/abs/2408.04145 | [2408.04145] ComKD-CLIP: Comprehensive Knowledge Distillation for Contrastive Language-Image Pre-traning Model
+https://arxiv.org/abs/2408.04212 | [2408.04212] Is SAM 2 Better than SAM in Medical Image Segmentation?
