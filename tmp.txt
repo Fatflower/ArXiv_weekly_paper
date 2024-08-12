@@ -1,27 +1,13 @@
-https://arxiv.org/abs/2408.02666 | [2408.02666] Self-Taught Evaluators
-https://arxiv.org/abs/2408.02635 | [2408.02635] Interactive 3D Medical Image Segmentation with SAM 2
-https://arxiv.org/abs/2408.02599 | [2408.02599] Progressively Selective Label Enhancement for Language Model Alignment
-https://arxiv.org/abs/2408.02600 | [2408.02600] BioMamba: A Pre-trained Biomedical Language Representation Model Leveraging Mamba
-https://arxiv.org/abs/2408.02571 | [2408.02571] Contrastive Learning-based Multi Modal Architecture for Emoticon Prediction by Employing Image-Text Pairs
-https://arxiv.org/abs/2408.02568 | [2408.02568] Cross-Modality Clustering-based Self-Labeling for Multimodal Data Classification
-https://arxiv.org/abs/2408.02503 | [2408.02503] UnifiedMLLM: Enabling Unified Representation for Multi-modal Multi-tasks With Large Language Model
-https://arxiv.org/abs/2408.02464 | [2408.02464] Fairness and Bias Mitigation in Computer Vision: A Survey
-https://arxiv.org/abs/2408.02426 | [2408.02426] FPT+: A Parameter and Memory Efficient Transfer Learning Method for High-resolution Medical Image Classification
-https://arxiv.org/abs/2408.02344 | [2408.02344] Machine Learning Applications in Medical Prognostics: A Comprehensive Review
-https://arxiv.org/abs/2408.02297 | [2408.02297] Perception Matters: Enhancing Embodied AI with Uncertainty-Aware Semantic Segmentation
-https://arxiv.org/abs/2408.02265 | [2408.02265] Explain via Any Concept: Concept Bottleneck Model with Open Vocabulary Concepts
-https://arxiv.org/abs/2408.02261 | [2408.02261] Cross-Domain Semantic Segmentation on Inconsistent Taxonomy using VLMs
-https://arxiv.org/abs/2408.02052 | [2408.02052] EOL: Transductive Few-Shot Open-Set Recognition by Enhancing Outlier Logits
-https://arxiv.org/abs/2408.02043 | [2408.02043] Deep Spectral Methods for Unsupervised Ultrasound Image Interpretation
-https://arxiv.org/abs/2408.02039 | [2408.02039] Pixel-Level Domain Adaptation: A New Perspective for Enhancing Weakly Supervised Semantic Segmentation
-https://arxiv.org/abs/2408.02032 | [2408.02032] Self-Introspective Decoding: Alleviating Hallucinations for Large Vision-Language Models
-https://arxiv.org/abs/2408.01986 | [2408.01986] DeMansia: Mamba Never Forgets Any Tokens
-https://arxiv.org/abs/2408.01960 | [2408.01960] AnomalySD: Few-Shot Multi-Class Anomaly Detection with Stable Diffusion Model
-https://arxiv.org/abs/2408.01897 | [2408.01897] CAF-YOLO: A Robust Framework for Multi-Scale Lesion Detection in Biomedical Imagery
-https://arxiv.org/abs/2408.01835 | [2408.01835] TS-SAM: Fine-Tuning Segment-Anything Model for Downstream Tasks
-https://arxiv.org/abs/2408.01746 | [2408.01746] Domain penalisation for improved Out-of-Distribution Generalisation
-https://arxiv.org/abs/2408.01708 | [2408.01708] AVESFormer: Efficient Transformer Design for Real-Time Audio-Visual Segmentation
-https://arxiv.org/abs/2408.01694 | [2408.01694] Bayesian Active Learning for Semantic Segmentation
-https://arxiv.org/abs/2408.01432 | [2408.01432] VLG-CBM: Training Concept Bottleneck Models with Vision-Language Guidance
-https://arxiv.org/abs/2408.01797 | [2408.01797] NuLite -- Lightweight and Fast Model for Nuclei Instance Segmentation and Classification
-https://arxiv.org/abs/2408.01620 | [2408.01620] MedUHIP: Towards Human-In-the-Loop Medical Segmentation
+https://arxiv.org/abs/2408.05211 | [2408.05211] VITA: Towards Open-Source Interactive Omni Multimodal LLM
+https://arxiv.org/abs/2408.05200 | [2408.05200] TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning
+https://arxiv.org/abs/2408.05120 | [2408.05120] Cautious Calibration in Binary Classification
+https://arxiv.org/abs/2408.05093 | [2408.05093] Order Matters in Hallucination: Reasoning Order as Benchmark and Reflexive Prompting for Large-Language-Models
+https://arxiv.org/abs/2408.05088 | [2408.05088] UNIC: Universal Classification Models via Multi-teacher Distillation
+https://arxiv.org/abs/2408.04961 | [2408.04961] In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation
+https://arxiv.org/abs/2408.04917 | [2408.04917] Avoid Wasted Annotation Costs in Open-set Active Learning with Pre-trained Vision-Language Model
+https://arxiv.org/abs/2408.04914 | [2408.04914] GuidedNet: Semi-Supervised Multi-Organ Segmentation via Labeled Data Guide Unlabeled Data
+https://arxiv.org/abs/2408.04883 | [2408.04883] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation
+https://arxiv.org/abs/2408.04879 | [2408.04879] On the Element-Wise Representation and Reasoning in Zero-Shot Image Recognition: A Systematic Survey
+https://arxiv.org/abs/2408.04851 | [2408.04851] Your Classifier Can Be Secretly a Likelihood-Based OOD Detector
+https://arxiv.org/abs/2408.04664 | [2408.04664] Mitigating Hallucinations in Large Vision-Language Models (LVLMs) via Language-Contrastive Decoding (LCD)
+https://arxiv.org/abs/2408.05117 | [2408.05117] Beyond the Eye: A Relational Model for Early Dementia Detection Using Retinal OCTA Images
