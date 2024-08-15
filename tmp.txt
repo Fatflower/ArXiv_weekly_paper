@@ -1,13 +1,33 @@
-https://arxiv.org/abs/2408.05211 | [2408.05211] VITA: Towards Open-Source Interactive Omni Multimodal LLM
-https://arxiv.org/abs/2408.05200 | [2408.05200] TaSL: Task Skill Localization and Consolidation for Language Model Continual Learning
-https://arxiv.org/abs/2408.05120 | [2408.05120] Cautious Calibration in Binary Classification
-https://arxiv.org/abs/2408.05093 | [2408.05093] Order Matters in Hallucination: Reasoning Order as Benchmark and Reflexive Prompting for Large-Language-Models
-https://arxiv.org/abs/2408.05088 | [2408.05088] UNIC: Universal Classification Models via Multi-teacher Distillation
-https://arxiv.org/abs/2408.04961 | [2408.04961] In Defense of Lazy Visual Grounding for Open-Vocabulary Semantic Segmentation
-https://arxiv.org/abs/2408.04917 | [2408.04917] Avoid Wasted Annotation Costs in Open-set Active Learning with Pre-trained Vision-Language Model
-https://arxiv.org/abs/2408.04914 | [2408.04914] GuidedNet: Semi-Supervised Multi-Organ Segmentation via Labeled Data Guide Unlabeled Data
-https://arxiv.org/abs/2408.04883 | [2408.04883] ProxyCLIP: Proxy Attention Improves CLIP for Open-Vocabulary Segmentation
-https://arxiv.org/abs/2408.04879 | [2408.04879] On the Element-Wise Representation and Reasoning in Zero-Shot Image Recognition: A Systematic Survey
-https://arxiv.org/abs/2408.04851 | [2408.04851] Your Classifier Can Be Secretly a Likelihood-Based OOD Detector
-https://arxiv.org/abs/2408.04664 | [2408.04664] Mitigating Hallucinations in Large Vision-Language Models (LVLMs) via Language-Contrastive Decoding (LCD)
-https://arxiv.org/abs/2408.05117 | [2408.05117] Beyond the Eye: A Relational Model for Early Dementia Detection Using Retinal OCTA Images
+https://arxiv.org/abs/2408.07648 | [2408.07648] See It All: Contextualized Late Aggregation for 3D Dense Captioning
+https://arxiv.org/abs/2408.07490 | [2408.07490] Attention-Guided Perturbation for Unsupervised Image Anomaly Detection
+https://arxiv.org/abs/2408.07440 | [2408.07440] BAPLe: Backdoor Attacks on Medical Foundational Models using Prompt Learning
+https://arxiv.org/abs/2408.07343 | [2408.07343] Gradient Alignment Improves Test-Time Adaptation for Medical Image Segmentation
+https://arxiv.org/abs/2408.07075 | [2408.07075] UniFed: A Universal Federation of a Mixture of Highly Heterogeneous Medical Image Classification Tasks
+https://arxiv.org/abs/2408.07009 | [2408.07009] Imagen 3
+https://arxiv.org/abs/2408.06890 | [2408.06890] BMFT: Achieving Fairness via Bias-based Weight Masking Fine-tuning
+https://arxiv.org/abs/2408.06854 | [2408.06854] LoRA$^2$ : Multi-Scale Low-Rank Approximations for Fine-Tuning Large Language Models
+https://arxiv.org/abs/2408.06798 | [2408.06798] Token Compensator: Altering Inference Cost of Vision Transformer without Re-Tuning
+https://arxiv.org/abs/2408.06793 | [2408.06793] Layerwise Recurrent Router for Mixture-of-Experts
+https://arxiv.org/abs/2408.06747 | [2408.06747] ReCLIP++: Learn to Rectify the Bias of CLIP for Unsupervised Semantic Segmentation
+https://arxiv.org/abs/2408.06742 | [2408.06742] Long-Tailed Out-of-Distribution Detection: Prioritizing Attention to Tail
+https://arxiv.org/abs/2408.06740 | [2408.06740] DiffLoRA: Generating Personalized Low-Rank Adaptation Weights with Diffusion
+https://arxiv.org/abs/2408.06716 | [2408.06716] Towards Cross-Domain Single Blood Cell Image Classification via Large-Scale LoRA-based Segment Anything Model
+https://arxiv.org/abs/2408.06687 | [2408.06687] Masked Image Modeling: A Survey
+https://arxiv.org/abs/2408.06631 | [2408.06631] IFShip: A Large Vision-Language Model for Interpretable Fine-grained Ship Classification via Domain Knowledge-Enhanced Instruction Tuning
+https://arxiv.org/abs/2408.06610 | [2408.06610] CROME: Cross-Modal Adapters for Efficient Multimodal LLM
+https://arxiv.org/abs/2408.06447 | [2408.06447] S-SAM: SVD-based Fine-Tuning of Segment Anything Model for Medical Image Segmentation
+https://arxiv.org/abs/2408.06640 | [2408.06640] Attention Based Feature Fusion Network for Monkeypox Skin Lesion Detection
+https://arxiv.org/abs/2408.06358 | [2408.06358] How good nnU-Net for Segmenting Cardiac MRI: A Comprehensive Evaluation
+https://arxiv.org/abs/2408.06327 | [2408.06327] VisualAgentBench: Towards Large Multimodal Models as Visual Foundation Agents
+https://arxiv.org/abs/2408.06305 | [2408.06305] From SAM to SAM 2: Exploring Improvements in Meta's Segment Anything Model
+https://arxiv.org/abs/2408.06273 | [2408.06273] FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data
+https://arxiv.org/abs/2408.06259 | [2408.06259] Context-aware Visual Storytelling with Visual Prefix Tuning and Contrastive Learning
+https://arxiv.org/abs/2408.06235 | [2408.06235] Correlation Weighted Prototype-based Self-Supervised One-Shot Segmentation of Medical Images
+https://arxiv.org/abs/2408.06142 | [2408.06142] Med42-v2: A Suite of Clinical LLMs
+https://arxiv.org/abs/2408.05815 | [2408.05815] HySparK: Hybrid Sparse Masking for Large Scale Medical Image Pre-Training
+https://arxiv.org/abs/2408.05775 | [2408.05775] Efficient Test-Time Prompt Tuning for Vision-Language Models
+https://arxiv.org/abs/2408.05692 | [2408.05692] A Novel Momentum-Based Deep Learning Techniques for Medical Image Classification and Segmentation
+https://arxiv.org/abs/2408.05674 | [2408.05674] PS-TTL: Prototype-based Soft-labels and Test-Time Learning for Few-shot Object Detection
+https://arxiv.org/abs/2408.05426 | [2408.05426] SAM-FNet: SAM-Guided Fusion Network for Laryngo-Pharyngeal Tumor Detection
+https://arxiv.org/abs/2408.06170 | [2408.06170] Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging
+https://arxiv.org/abs/2408.05892 | [2408.05892] Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection
