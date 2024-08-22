@@ -1,26 +1,11 @@
-https://arxiv.org/abs/2408.10174 | [2408.10174] SMILE: Zero-Shot Sparse Mixture of Low-Rank Experts Construction From Pre-Trained Foundation Models
-https://arxiv.org/abs/2408.10147 | [2408.10147] In-Context Learning with Representations: Contextual Generalization of Trained Transformers
-https://arxiv.org/abs/2408.10125 | [2408.10125] Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track
-https://arxiv.org/abs/2408.10046 | [2408.10046] Exploiting Fine-Grained Prototype Distribution for Boosting Unsupervised Class Incremental Learning
-https://arxiv.org/abs/2408.10012 | [2408.10012] CLIPCleaner: Cleaning Noisy Labels with CLIP
-https://arxiv.org/abs/2408.09939 | [2408.09939] "Image, Tell me your story!" Predicting the original meta-context of visual misinformation
-https://arxiv.org/abs/2408.09886 | [2408.09886] SAM-UNet:Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images
-https://arxiv.org/abs/2408.09743 | [2408.09743] R2GenCSR: Retrieving Context Samples for Large Language Model based X-ray Medical Report Generation
-https://arxiv.org/abs/2408.09706 | [2408.09706] MePT: Multi-Representation Guided Prompt Tuning for Vision-Language Model
-https://arxiv.org/abs/2408.09530 | [2408.09530] PA-LLaVA: A Large Language-Vision Assistant for Human Pathology Image Understanding
-https://arxiv.org/abs/2408.09465 | [2408.09465] MedMAP: Promoting Incomplete Multi-modal Brain Tumor Segmentation with Alignment
-https://arxiv.org/abs/2408.09461 | [2408.09461] Advancements in Molecular Property Prediction: A Survey of Single and Multimodal Approaches
-https://arxiv.org/abs/2408.09441 | [2408.09441] CLIP-CID: Efficient CLIP Distillation via Cluster-Instance Discrimination
-https://arxiv.org/abs/2408.09115 | [2408.09115] GoodSAM++: Bridging Domain and Capacity Gaps via Segment Anything Model for Panoramic Semantic Segmentation
-https://arxiv.org/abs/2408.09097 | [2408.09097] Depth-guided Texture Diffusion for Image Semantic Segmentation
-https://arxiv.org/abs/2408.09053 | [2408.09053] Learning to Route for Dynamic Adapter Composition in Continual Learning with Language Models
-https://arxiv.org/abs/2408.08900 | [2408.08900] Towards Effective Authorship Attribution: Integrating Class-Incremental Learning
-https://arxiv.org/abs/2408.09278 | [2408.09278] Cross-Species Data Integration for Enhanced Layer Segmentation in Kidney Pathology
-https://arxiv.org/abs/2408.08881 | [2408.08881] U-MedSAM: Uncertainty-aware MedSAM for Medical Image Segmentation
-https://arxiv.org/abs/2408.10210 | [2408.10210] A Survey on Symbolic Knowledge Distillation of Large Language Models
-https://arxiv.org/abs/2408.11029 | [2408.11029] Scaling Law with Learning Rate Annealing
-https://arxiv.org/abs/2408.10894 | [2408.10894] ViLReF: A Chinese Vision-Language Retinal Foundation Model
-https://arxiv.org/abs/2408.10852 | [2408.10852] EELE: Exploring Efficient and Extensible LoRA Integration in Emotional Text-to-Speech
-https://arxiv.org/abs/2408.10676 | [2408.10676] Representation Norm Amplification for Out-of-Distribution Detection in Long-Tail Learning
-https://arxiv.org/abs/2408.10537 | [2408.10537] Subspace Prototype Guidance for Mitigating Class Imbalance in Point Cloud Semantic Segmentation
-https://arxiv.org/abs/2408.10349 | [2408.10349] AIR: Analytic Imbalance Rectifier for Continual Learning
+https://arxiv.org/abs/2408.11813 | [2408.11813] SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs
+https://arxiv.org/abs/2408.11811 | [2408.11811] EmbodiedSAM: Online Segment Any 3D Thing in Real Time
+https://arxiv.org/abs/2408.11748 | [2408.11748] DH-Bench: Probing Depth and Height Perception of Large Visual-Language Models
+https://arxiv.org/abs/2408.11747 | [2408.11747] Open-Ended 3D Point Cloud Instance Segmentation
+https://arxiv.org/abs/2408.11535 | [2408.11535] SAM-REF: Rethinking Image-Prompt Synergy for Refinement in Segment Anything
+https://arxiv.org/abs/2408.11505 | [2408.11505] MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning
+https://arxiv.org/abs/2408.11344 | [2408.11344] Clinical Context-aware Radiology Report Generation from Medical Images using Transformers
+https://arxiv.org/abs/2408.11334 | [2408.11334] BURExtract-Llama: An LLM for Clinical Concept Extraction in Breast Ultrasound Reports
+https://arxiv.org/abs/2408.11297 | [2408.11297] Making Large Vision Language Models to be Good Few-shot Learners
+https://arxiv.org/abs/2408.11210 | [2408.11210] A Short Review and Evaluation of SAM2's Performance in 3D CT Image Segmentation
+https://arxiv.org/abs/2408.11289 | [2408.11289] HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation
