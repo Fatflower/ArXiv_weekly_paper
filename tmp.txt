@@ -1,11 +1,6 @@
-https://arxiv.org/abs/2408.11813 | [2408.11813] SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs
-https://arxiv.org/abs/2408.11811 | [2408.11811] EmbodiedSAM: Online Segment Any 3D Thing in Real Time
-https://arxiv.org/abs/2408.11748 | [2408.11748] DH-Bench: Probing Depth and Height Perception of Large Visual-Language Models
-https://arxiv.org/abs/2408.11747 | [2408.11747] Open-Ended 3D Point Cloud Instance Segmentation
-https://arxiv.org/abs/2408.11535 | [2408.11535] SAM-REF: Rethinking Image-Prompt Synergy for Refinement in Segment Anything
-https://arxiv.org/abs/2408.11505 | [2408.11505] MSCPT: Few-shot Whole Slide Image Classification with Multi-scale and Context-focused Prompt Tuning
-https://arxiv.org/abs/2408.11344 | [2408.11344] Clinical Context-aware Radiology Report Generation from Medical Images using Transformers
-https://arxiv.org/abs/2408.11334 | [2408.11334] BURExtract-Llama: An LLM for Clinical Concept Extraction in Breast Ultrasound Reports
-https://arxiv.org/abs/2408.11297 | [2408.11297] Making Large Vision Language Models to be Good Few-shot Learners
-https://arxiv.org/abs/2408.11210 | [2408.11210] A Short Review and Evaluation of SAM2's Performance in 3D CT Image Segmentation
-https://arxiv.org/abs/2408.11289 | [2408.11289] HMT-UNet: A hybird Mamba-Transformer Vision UNet for Medical Image Segmentation
+https://arxiv.org/abs/2408.12599 | [2408.12599] Controllable Text Generation for Large Language Models: A Survey
+https://arxiv.org/abs/2408.12569 | [2408.12569] Sapiens: Foundation for Human Vision Models
+https://arxiv.org/abs/2408.12406 | [2408.12406] Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes
+https://arxiv.org/abs/2408.12364 | [2408.12364] SAM-SP: Self-Prompting Makes SAM Great Again
+https://arxiv.org/abs/2408.12161 | [2408.12161] Rebalancing Multi-Label Class-Incremental Learning
+https://arxiv.org/abs/2408.11852 | [2408.11852] Fast Training Dataset Attribution via In-Context Learning
