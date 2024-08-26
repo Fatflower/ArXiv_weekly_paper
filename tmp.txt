@@ -1,6 +1,10 @@
-https://arxiv.org/abs/2408.12599 | [2408.12599] Controllable Text Generation for Large Language Models: A Survey
-https://arxiv.org/abs/2408.12569 | [2408.12569] Sapiens: Foundation for Human Vision Models
-https://arxiv.org/abs/2408.12406 | [2408.12406] Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes
-https://arxiv.org/abs/2408.12364 | [2408.12364] SAM-SP: Self-Prompting Makes SAM Great Again
-https://arxiv.org/abs/2408.12161 | [2408.12161] Rebalancing Multi-Label Class-Incremental Learning
-https://arxiv.org/abs/2408.11852 | [2408.11852] Fast Training Dataset Attribution via In-Context Learning
+https://arxiv.org/abs/2408.13227 | [2408.13227] Enhancing Few-Shot Transfer Learning with Optimized Multi-Task Prompt Tuning through Modular Prompt Composition
+https://arxiv.org/abs/2408.13201 | [2408.13201] EAViT: External Attention Vision Transformer for Audio Classification
+https://arxiv.org/abs/2408.12959 | [2408.12959] Multimodal Contrastive In-Context Learning
+https://arxiv.org/abs/2408.12957 | [2408.12957] Image Segmentation in Foundation Model Era: A Survey
+https://arxiv.org/abs/2408.12889 | [2408.12889] Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey
+https://arxiv.org/abs/2408.12825 | [2408.12825] MergeUp-augmented Semi-Weakly Supervised Learning for WSI Classification
+https://arxiv.org/abs/2408.12682 | [2408.12682] MultiMed: Massively Multimodal and Multitask Medical Understanding
+https://arxiv.org/abs/2408.12672 | [2408.12672] Research on Improved U-net Based Remote Sensing Image Segmentation Algorithm
+https://arxiv.org/abs/2408.12614 | [2408.12614] Image-Feature Weak-to-Strong Consistency: An Enhanced Paradigm for Semi-Supervised Learning
+https://arxiv.org/abs/2408.12606 | [2408.12606] Towards Non-invasive and Personalized Management of Breast Cancer Patients from Multiparametric MRI via A Large Mixture-of-Modality-Experts Model
