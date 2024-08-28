@@ -1,10 +1,18 @@
-https://arxiv.org/abs/2408.13227 | [2408.13227] Enhancing Few-Shot Transfer Learning with Optimized Multi-Task Prompt Tuning through Modular Prompt Composition
-https://arxiv.org/abs/2408.13201 | [2408.13201] EAViT: External Attention Vision Transformer for Audio Classification
-https://arxiv.org/abs/2408.12959 | [2408.12959] Multimodal Contrastive In-Context Learning
-https://arxiv.org/abs/2408.12957 | [2408.12957] Image Segmentation in Foundation Model Era: A Survey
-https://arxiv.org/abs/2408.12889 | [2408.12889] Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey
-https://arxiv.org/abs/2408.12825 | [2408.12825] MergeUp-augmented Semi-Weakly Supervised Learning for WSI Classification
-https://arxiv.org/abs/2408.12682 | [2408.12682] MultiMed: Massively Multimodal and Multitask Medical Understanding
-https://arxiv.org/abs/2408.12672 | [2408.12672] Research on Improved U-net Based Remote Sensing Image Segmentation Algorithm
-https://arxiv.org/abs/2408.12614 | [2408.12614] Image-Feature Weak-to-Strong Consistency: An Enhanced Paradigm for Semi-Supervised Learning
-https://arxiv.org/abs/2408.12606 | [2408.12606] Towards Non-invasive and Personalized Management of Breast Cancer Patients from Multiparametric MRI via A Large Mixture-of-Modality-Experts Model
+https://arxiv.org/abs/2408.15237 | [2408.15237] The Mamba in the Llama: Distilling and Accelerating Hybrid Models
+https://arxiv.org/abs/2408.15235 | [2408.15235] Learning-based Multi-View Stereo: A Survey
+https://arxiv.org/abs/2408.15098 | [2408.15098] CLIP-AGIQA: Boosting the Performance of AI-Generated Image Quality Assessment with CLIP
+https://arxiv.org/abs/2408.15011 | [2408.15011] Pre-training Everywhere: Parameter-Efficient Fine-Tuning for Medical Image Analysis via Target Parameter Pre-training
+https://arxiv.org/abs/2408.14976 | [2408.14976] Prior-free Balanced Replay: Uncertainty-guided Reservoir Sampling for Long-Tailed Continual Learning
+https://arxiv.org/abs/2408.14961 | [2408.14961] CVPT: Cross-Attention help Visual Prompt Tuning adapt visual task
+https://arxiv.org/abs/2408.14957 | [2408.14957] Applying ViT in Generalized Few-shot Semantic Segmentation
+https://arxiv.org/abs/2408.14868 | [2408.14868] ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning
+https://arxiv.org/abs/2408.14841 | [2408.14841] Diffusion based Semantic Outlier Generation via Nuisance Awareness for Out-of-Distribution Detection
+https://arxiv.org/abs/2408.14776 | [2408.14776] MROVSeg: Breaking the Resolution Curse of Vision-Language Models in Open-Vocabulary Semantic Segmentation
+https://arxiv.org/abs/2408.14770 | [2408.14770] Text-guided Foundation Model Adaptation for Long-Tailed Medical Image Classification
+https://arxiv.org/abs/2408.14724 | [2408.14724] GeoTransfer : Generalizable Few-Shot Multi-View Reconstruction via Transfer Learning
+https://arxiv.org/abs/2408.14572 | [2408.14572] CURLoRA: Stable LLM Continual Fine-Tuning and Catastrophic Forgetting Mitigation
+https://arxiv.org/abs/2408.14496 | [2408.14496] A New Era in Computational Pathology: A Survey on Foundation and Vision-Language Models
+https://arxiv.org/abs/2408.15224 | [2408.15224] SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images
+https://arxiv.org/abs/2408.15217 | [2408.15217] Fundus2Video: Cross-Modal Angiography Video Generation from Static Fundus Photography with Clinical Knowledge Guidance
+https://arxiv.org/abs/2408.14847 | [2408.14847] Intraoperative Glioma Segmentation with YOLO + SAM for Improved Accuracy in Tumor Resection
+https://arxiv.org/abs/2408.14606 | [2408.14606] BreakNet: Discontinuity-Resilient Multi-Scale Transformer Segmentation of Retinal Layers
