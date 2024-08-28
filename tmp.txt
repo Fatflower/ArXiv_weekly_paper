@@ -1,18 +1,19 @@
-https://arxiv.org/abs/2408.15237 | [2408.15237] The Mamba in the Llama: Distilling and Accelerating Hybrid Models
-https://arxiv.org/abs/2408.15235 | [2408.15235] Learning-based Multi-View Stereo: A Survey
-https://arxiv.org/abs/2408.15098 | [2408.15098] CLIP-AGIQA: Boosting the Performance of AI-Generated Image Quality Assessment with CLIP
-https://arxiv.org/abs/2408.15011 | [2408.15011] Pre-training Everywhere: Parameter-Efficient Fine-Tuning for Medical Image Analysis via Target Parameter Pre-training
-https://arxiv.org/abs/2408.14976 | [2408.14976] Prior-free Balanced Replay: Uncertainty-guided Reservoir Sampling for Long-Tailed Continual Learning
-https://arxiv.org/abs/2408.14961 | [2408.14961] CVPT: Cross-Attention help Visual Prompt Tuning adapt visual task
-https://arxiv.org/abs/2408.14957 | [2408.14957] Applying ViT in Generalized Few-shot Semantic Segmentation
-https://arxiv.org/abs/2408.14868 | [2408.14868] ZeroMamba: Exploring Visual State Space Model for Zero-Shot Learning
-https://arxiv.org/abs/2408.14841 | [2408.14841] Diffusion based Semantic Outlier Generation via Nuisance Awareness for Out-of-Distribution Detection
-https://arxiv.org/abs/2408.14776 | [2408.14776] MROVSeg: Breaking the Resolution Curse of Vision-Language Models in Open-Vocabulary Semantic Segmentation
-https://arxiv.org/abs/2408.14770 | [2408.14770] Text-guided Foundation Model Adaptation for Long-Tailed Medical Image Classification
-https://arxiv.org/abs/2408.14724 | [2408.14724] GeoTransfer : Generalizable Few-Shot Multi-View Reconstruction via Transfer Learning
-https://arxiv.org/abs/2408.14572 | [2408.14572] CURLoRA: Stable LLM Continual Fine-Tuning and Catastrophic Forgetting Mitigation
-https://arxiv.org/abs/2408.14496 | [2408.14496] A New Era in Computational Pathology: A Survey on Foundation and Vision-Language Models
-https://arxiv.org/abs/2408.15224 | [2408.15224] SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images
-https://arxiv.org/abs/2408.15217 | [2408.15217] Fundus2Video: Cross-Modal Angiography Video Generation from Static Fundus Photography with Clinical Knowledge Guidance
-https://arxiv.org/abs/2408.14847 | [2408.14847] Intraoperative Glioma Segmentation with YOLO + SAM for Improved Accuracy in Tumor Resection
-https://arxiv.org/abs/2408.14606 | [2408.14606] BreakNet: Discontinuity-Resilient Multi-Scale Transformer Segmentation of Retinal Layers
+https://arxiv.org/abs/2408.14340 | [2408.14340] Foundation Models for Music: A Survey
+https://arxiv.org/abs/2408.14087 | [2408.14087] LSM-YOLO: A Compact and Effective ROI Detector for Medical Detection
+https://arxiv.org/abs/2408.14051 | [2408.14051] Let Video Teaches You More: Video-to-Image Knowledge Distillation using DEtection TRansformer for Medical Video Lesion Detection
+https://arxiv.org/abs/2408.13995 | [2408.13995] Avatar Concept Slider: Manipulate Concepts In Your Human Avatar With Fine-grained Control
+https://arxiv.org/abs/2408.13991 | [2408.13991] Dual-CBA: Improving Online Continual Learning via Dual Continual Bias Adaptors from a Bi-level Optimization Perspective
+https://arxiv.org/abs/2408.13980 | [2408.13980] FusionSAM: Latent Space driven Segment Anything Model for Multimodal Fusion and Segmentation
+https://arxiv.org/abs/2408.13909 | [2408.13909] LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task
+https://arxiv.org/abs/2408.13898 | [2408.13898] Evaluating Attribute Comprehension in Large Vision-Language Models
+https://arxiv.org/abs/2408.13836 | [2408.13836] PropSAM: A Propagation-Based Model for Segmenting Any 3D Objects in Multi-Modal Medical Images
+https://arxiv.org/abs/2408.13833 | [2408.13833] Biomedical Large Languages Models Seem not to be Superior to Generalist Models on Unseen Medical Data
+https://arxiv.org/abs/2408.13752 | [2408.13752] Localization and Expansion: A Decoupled Framework for Point Cloud Few-shot Semantic Segmentation
+https://arxiv.org/abs/2408.13735 | [2408.13735] MSVM-UNet: Multi-Scale Vision Mamba UNet for Medical Image Segmentation
+https://arxiv.org/abs/2408.13698 | [2408.13698] CNN-Transformer Rectified Collaborative Learning for Medical Image Segmentation
+https://arxiv.org/abs/2408.13644 | [2408.13644] Studying the Effect of Audio Filters in Pre-Trained Models for Environmental Sound Classification
+https://arxiv.org/abs/2408.13639 | [2408.13639] Size Aware Cross-shape Scribble Supervision for Medical Image Segmentation
+https://arxiv.org/abs/2408.13608 | [2408.13608] SpeechCraft: A Fine-grained Expressive Speech Dataset with Natural Language Description
+https://arxiv.org/abs/2408.14471 | [2408.14471] A Practitioner's Guide to Continual Multimodal Pretraining
+https://arxiv.org/abs/2408.14441 | [2408.14441] Attend-Fusion: Efficient Audio-Visual Fusion for Video Classification
+https://arxiv.org/abs/2408.13438 | [2408.13438] Explainable Concept Generation through Vision-Language Preference Learning
