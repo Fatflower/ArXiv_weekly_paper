@@ -1,19 +1,31 @@
-https://arxiv.org/abs/2408.14340 | [2408.14340] Foundation Models for Music: A Survey
-https://arxiv.org/abs/2408.14087 | [2408.14087] LSM-YOLO: A Compact and Effective ROI Detector for Medical Detection
-https://arxiv.org/abs/2408.14051 | [2408.14051] Let Video Teaches You More: Video-to-Image Knowledge Distillation using DEtection TRansformer for Medical Video Lesion Detection
-https://arxiv.org/abs/2408.13995 | [2408.13995] Avatar Concept Slider: Manipulate Concepts In Your Human Avatar With Fine-grained Control
-https://arxiv.org/abs/2408.13991 | [2408.13991] Dual-CBA: Improving Online Continual Learning via Dual Continual Bias Adaptors from a Bi-level Optimization Perspective
-https://arxiv.org/abs/2408.13980 | [2408.13980] FusionSAM: Latent Space driven Segment Anything Model for Multimodal Fusion and Segmentation
-https://arxiv.org/abs/2408.13909 | [2408.13909] LowCLIP: Adapting the CLIP Model Architecture for Low-Resource Languages in Multimodal Image Retrieval Task
-https://arxiv.org/abs/2408.13898 | [2408.13898] Evaluating Attribute Comprehension in Large Vision-Language Models
-https://arxiv.org/abs/2408.13836 | [2408.13836] PropSAM: A Propagation-Based Model for Segmenting Any 3D Objects in Multi-Modal Medical Images
-https://arxiv.org/abs/2408.13833 | [2408.13833] Biomedical Large Languages Models Seem not to be Superior to Generalist Models on Unseen Medical Data
-https://arxiv.org/abs/2408.13752 | [2408.13752] Localization and Expansion: A Decoupled Framework for Point Cloud Few-shot Semantic Segmentation
-https://arxiv.org/abs/2408.13735 | [2408.13735] MSVM-UNet: Multi-Scale Vision Mamba UNet for Medical Image Segmentation
-https://arxiv.org/abs/2408.13698 | [2408.13698] CNN-Transformer Rectified Collaborative Learning for Medical Image Segmentation
-https://arxiv.org/abs/2408.13644 | [2408.13644] Studying the Effect of Audio Filters in Pre-Trained Models for Environmental Sound Classification
-https://arxiv.org/abs/2408.13639 | [2408.13639] Size Aware Cross-shape Scribble Supervision for Medical Image Segmentation
-https://arxiv.org/abs/2408.13608 | [2408.13608] SpeechCraft: A Fine-grained Expressive Speech Dataset with Natural Language Description
-https://arxiv.org/abs/2408.14471 | [2408.14471] A Practitioner's Guide to Continual Multimodal Pretraining
-https://arxiv.org/abs/2408.14441 | [2408.14441] Attend-Fusion: Efficient Audio-Visual Fusion for Video Classification
-https://arxiv.org/abs/2408.13438 | [2408.13438] Explainable Concept Generation through Vision-Language Preference Learning
+https://arxiv.org/abs/2408.15997 | [2408.15997] Mamba or Transformer for Time Series Forecasting? Mixture of Universals (MoU) Is All You Need
+https://arxiv.org/abs/2408.15998 | [2408.15998] Eagle: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders
+https://arxiv.org/abs/2408.15980 | [2408.15980] In-Context Imitation Learning via Next-Token Prediction
+https://arxiv.org/abs/2408.15924 | [2408.15924] Local Descriptors Weighted Adaptive Threshold Filtering For Few-Shot Learning
+https://arxiv.org/abs/2408.15881 | [2408.15881] LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation
+https://arxiv.org/abs/2408.15868 | [2408.15868] GenDDS: Generating Diverse Driving Video Scenarios with Prompt-to-Video Generative Model
+https://arxiv.org/abs/2408.15796 | [2408.15796] Evaluating Named Entity Recognition Using Few-Shot Prompting with Large Language Models
+https://arxiv.org/abs/2408.15769 | [2408.15769] A Survey on Evaluation of Multimodal Large Language Models
+https://arxiv.org/abs/2408.15740 | [2408.15740] MambaPlace:Text-to-Point-Cloud Cross-Modal Place Recognition with Attention Mamba Mechanisms
+https://arxiv.org/abs/2408.15664 | [2408.15664] Auxiliary-Loss-Free Load Balancing Strategy for Mixture-of-Experts
+https://arxiv.org/abs/2408.15657 | [2408.15657] TeFF: Tracking-enhanced Forgetting-free Few-shot 3D LiDAR Semantic Segmentation
+https://arxiv.org/abs/2408.15641 | [2408.15641] MMDRFuse: Distilled Mini-Model with Dynamic Refresh for Multi-Modality Image Fusion
+https://arxiv.org/abs/2408.15580 | [2408.15580] Hierarchical Visual Categories Modeling: A Joint Representation Learning and Density Estimation Framework for Out-of-Distribution Detection
+https://arxiv.org/abs/2408.15566 | [2408.15566] TagOOD: A Novel Approach to Out-of-Distribution Detection via Vision-Language Representations and Class Center Learning
+https://arxiv.org/abs/2408.15545 | [2408.15545] SciLitLLM: How to Adapt LLMs for Scientific Literature Understanding
+https://arxiv.org/abs/2408.16769 | [2408.16769] PromptSmooth: Certifying Robustness of Medical Vision-Language Models via Prompt Learning
+https://arxiv.org/abs/2408.16768 | [2408.16768] SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners
+https://arxiv.org/abs/2408.16766 | [2408.16766] CSGO: Content-Style Composition in Text-to-Image Generation
+https://arxiv.org/abs/2408.16737 | [2408.16737] Smaller, Weaker, Yet Better: Training LLM Reasoners via Compute-Optimal Sampling
+https://arxiv.org/abs/2408.16729 | [2408.16729] Prediction-Feedback DETR for Temporal Action Detection
+https://arxiv.org/abs/2408.16634 | [2408.16634] RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model
+https://arxiv.org/abs/2408.16577 | [2408.16577] Seeking the Sufficiency and Necessity Causal Features in Multimodal Representation Learning
+https://arxiv.org/abs/2408.16486 | [2408.16486] Adapting Vision-Language Models to Open Classes via Test-Time Prompt Tuning
+https://arxiv.org/abs/2408.16425 | [2408.16425] A Comparative Study of Hyperparameter Tuning Methods
+https://arxiv.org/abs/2408.16236 | [2408.16236] Neural Spectral Decomposition for Dataset Distillation
+https://arxiv.org/abs/2408.16224 | [2408.16224] LLaVA-SG: Leveraging Scene Graphs as Visual Semantic Expression in Vision-Language Models
+https://arxiv.org/abs/2408.16219 | [2408.16219] Training-free Video Temporal Grounding using Large-scale Pre-trained Models
+https://arxiv.org/abs/2408.16195 | [2408.16195] DLM-VMTL:A Double Layer Mapper for heterogeneous data video Multi-task prompt learning
+https://arxiv.org/abs/2408.16176 | [2408.16176] VLM4Bio: A Benchmark Dataset to Evaluate Pretrained Vision-Language Models for Trait Discovery from Biological Images
+https://arxiv.org/abs/2408.16130 | [2408.16130] Using Backbone Foundation Model for Evaluating Fairness in Chest Radiography Without Demographic Data
+https://arxiv.org/abs/2408.16189 | [2408.16189] A More Unified Theory of Transfer Learning
