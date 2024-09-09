@@ -1,12 +1,16 @@
-https://arxiv.org/abs/2409.03754 | [2409.03754] Foundation Model or Finetune? Evaluation of few-shot semantic segmentation for river pollution
-https://arxiv.org/abs/2409.03752 | [2409.03752] Attention Heads of Large Language Models: A Survey
-https://arxiv.org/abs/2409.03662 | [2409.03662] The representation landscape of few-shot learning and fine-tuning in large language models
-https://arxiv.org/abs/2409.03583 | [2409.03583] Text-Guided Mixup Towards Long-Tailed Image Categorization
-https://arxiv.org/abs/2409.03412 | [2409.03412] TG-LMM: Enhancing Medical Image Segmentation Accuracy through Text-Guided Large Multi-Modal Model
-https://arxiv.org/abs/2409.03228 | [2409.03228] Labeled-to-Unlabeled Distribution Alignment for Partially-Supervised Multi-Organ Medical Image Segmentation
-https://arxiv.org/abs/2409.03192 | [2409.03192] PEPL: Precision-Enhanced Pseudo-Labeling for Fine-Grained Image Classification in Semi-Supervised Learning
-https://arxiv.org/abs/2409.03060 | [2409.03060] Better Verified Explanations with Applications to Incorrectness and Out-of-Distribution Detection
-https://arxiv.org/abs/2409.03043 | [2409.03043] Can Your Generative Model Detect Out-of-Distribution Covariate Shift?
-https://arxiv.org/abs/2409.03025 | [2409.03025] No Detail Left Behind: Revisiting Self-Retrieval for Fine-Grained Image Captioning
-https://arxiv.org/abs/2409.02958 | [2409.02958] Multi-Modal Adapter for Vision-Language Models
-https://arxiv.org/abs/2409.03110 | [2409.03110] MSTT-199: MRI Dataset for Musculoskeletal Soft Tissue Tumor Segmentation
+https://arxiv.org/abs/2409.03801 | [2409.03801] Resultant: Incremental Effectiveness on Likelihood for Unsupervised Out-of-Distribution Detection
+https://arxiv.org/abs/2409.03794 | [2409.03794] Evaluating Machine Learning-based Skin Cancer Diagnosis
+https://arxiv.org/abs/2409.04318 | [2409.04318] Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs
+https://arxiv.org/abs/2409.04298 | [2409.04298] FS-MedSAM2: Exploring the Potential of SAM2 for Few-Shot Medical Image Segmentation without Fine-tuning
+https://arxiv.org/abs/2409.04206 | [2409.04206] Fast Forwarding Low-Rank Training
+https://arxiv.org/abs/2409.04164 | [2409.04164] Can OpenSource beat ChatGPT? -- A Comparative Study of Large Language Models for Text-to-Code Generation
+https://arxiv.org/abs/2409.04150 | [2409.04150] A Coin Has Two Sides: A Novel Detector-Corrector Framework for Chinese Spelling Correction
+https://arxiv.org/abs/2409.04009 | [2409.04009] Large Margin Prototypical Network for Few-shot Relation Classification with Fine-grained Features
+https://arxiv.org/abs/2409.04005 | [2409.04005] Qihoo-T2X: An Efficiency-Focused Diffusion Transformer via Proxy Tokens for Text-to-Any-Task
+https://arxiv.org/abs/2409.03938 | [2409.03938] Deep Clustering of Remote Sensing Scenes through Heterogeneous Transfer Learning
+https://arxiv.org/abs/2409.03929 | [2409.03929] Data-Efficient Generation for Dataset Distillation
+https://arxiv.org/abs/2409.03868 | [2409.03868] Few-shot Adaptation of Medical Vision-Language Models
+https://arxiv.org/abs/2409.04424 | [2409.04424] Exploring Foundation Models for Synthetic Medical Imaging: A Study on Chest X-Rays and Fine-Tuning Techniques
+https://arxiv.org/abs/2409.04137 | [2409.04137] Optical Coherence Tomography Angiography-OCTA dataset for the study of Diabetic Retinopathy
+https://arxiv.org/abs/2409.04429 | [2409.04429] VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation
+https://arxiv.org/abs/2409.04431 | [2409.04431] Theory, Analysis, and Best Practices for Sigmoid Self-Attention
