@@ -1,32 +1,11 @@
-https://arxiv.org/abs/2409.05847 | [2409.05847] LSVOS Challenge Report: Large-scale Complex and Long Video Object Segmentation
-https://arxiv.org/abs/2409.05772 | [2409.05772] A CLIP-based siamese approach for meme classification
-https://arxiv.org/abs/2409.05672 | [2409.05672] Zero-shot Outlier Detection via Prior-data Fitted Networks: Model Selection Bygone!
-https://arxiv.org/abs/2409.05620 | [2409.05620] Joint Input and Output Coordination for Class-Incremental Learning
-https://arxiv.org/abs/2409.05606 | [2409.05606] CustomContrast: A Multilevel Contrastive Perspective For Subject-Driven Text-to-Image Customization
-https://arxiv.org/abs/2409.05593 | [2409.05593] StratXplore: Strategic Novelty-seeking and Instruction-aligned Exploration for Vision and Language Navigation
-https://arxiv.org/abs/2409.05552 | [2409.05552] Seeing is Believing? Enhancing Vision-Language Navigation using Visual Perturbations
-https://arxiv.org/abs/2409.05486 | [2409.05486] Elsevier Arena: Human Evaluation of Chemistry/Biology/Health Foundational Large Language Models
-https://arxiv.org/abs/2409.05466 | [2409.05466] Proto-OOD: Enhancing OOD Object Detection with Prototype Feature Similarity
-https://arxiv.org/abs/2409.05427 | [2409.05427] TextToucher: Fine-Grained Text-to-Touch Generation
-https://arxiv.org/abs/2409.05393 | [2409.05393] TAVP: Task-Adaptive Visual Prompt for Cross-domain Few-shot Segmentation
-https://arxiv.org/abs/2409.05395 | [2409.05395] Shaking Up VLMs: Comparing Transformers and Structured State Space Models for Vision & Language Modeling
-https://arxiv.org/abs/2409.05381 | [2409.05381] Boosting CLIP Adaptation for Image Quality Assessment via Meta-Prompt Learning and Gradient Regularization
-https://arxiv.org/abs/2409.05324 | [2409.05324] FIF-UNet: An Efficient UNet Using Feature Interaction and Fusion for Medical Image Segmentation
-https://arxiv.org/abs/2409.05312 | [2409.05312] Open-World Dynamic Prompt and Continual Visual Representation Learning
-https://arxiv.org/abs/2409.05202 | [2409.05202] A Survey on Mixup Augmentations and Beyond
-https://arxiv.org/abs/2409.05162 | [2409.05162] Can OOD Object Detectors Learn from Foundation Models?
-https://arxiv.org/abs/2409.05024 | [2409.05024] Deep Self-cleansing for Medical Image Segmentation with Noisy Labels
-https://arxiv.org/abs/2409.04999 | [2409.04999] Visual Grounding with Multi-modal Conditional Adaptation
-https://arxiv.org/abs/2409.04975 | [2409.04975] PatchAlign:Fair and Accurate Skin Disease Image Classification by Alignment with Clinical Labels
-https://arxiv.org/abs/2409.04758 | [2409.04758] SGSeg: Enabling Text-free Inference in Language-guided Segmentation of Chest X-rays via Self-guidance
-https://arxiv.org/abs/2409.04718 | [2409.04718] Cross-Organ Domain Adaptive Neural Network for Pancreatic Endoscopic Ultrasound Image Segmentation
-https://arxiv.org/abs/2409.04693 | [2409.04693] MuAP: Multi-step Adaptive Prompt Learning for Vision-Language Model with Missing Modality
-https://arxiv.org/abs/2409.04670 | [2409.04670] Multi-Conditioned Denoising Diffusion Probabilistic Model (mDDPM) for Medical Image Synthesis
-https://arxiv.org/abs/2409.04631 | [2409.04631] Zero-Shot Whole Slide Image Retrieval in Histopathology Using Embeddings of Foundation Models
-https://arxiv.org/abs/2409.06305 | [2409.06305] High-Performance Few-Shot Segmentation with Foundation Models: An Empirical Study
-https://arxiv.org/abs/2409.06166 | [2409.06166] Revisiting Prompt Pretraining of Vision-Language Models
-https://arxiv.org/abs/2409.05926 | [2409.05926] SVFit: Parameter-Efficient Fine-Tuning of Large Pre-Trained Models Using Singular Values
-https://arxiv.org/abs/2409.06669 | [2409.06669] DA-MoE: Towards Dynamic Expert Allocation for Mixture-of-Experts Models
-https://arxiv.org/abs/2409.06633 | [2409.06633] SaRA: High-Efficient Diffusion Model Fine-tuning with Progressive Sparse Low-Rank Adaptation
-https://arxiv.org/abs/2409.06493 | [2409.06493] Elucidating Optimal Reward-Diversity Tradeoffs in Text-to-Image Diffusion Models
-https://arxiv.org/abs/2409.06443 | [2409.06443] Knowledge Distillation via Query Selection for Detection Transformer
+https://arxiv.org/abs/2409.07388 | [2409.07388] Recent Trends of Multimodal Affective Computing: A Survey from NLP Perspective
+https://arxiv.org/abs/2409.07387 | [2409.07387] A Contrastive Symmetric Forward-Forward Algorithm (SFFA) for Continual Learning Tasks
+https://arxiv.org/abs/2409.07253 | [2409.07253] Alignment of Diffusion Models: Fundamentals, Challenges, and Future
+https://arxiv.org/abs/2409.07239 | [2409.07239] PiTe: Pixel-Temporal Alignment for Large Video-Language Model
+https://arxiv.org/abs/2409.07172 | [2409.07172] Swin-LiteMedSAM: A Lightweight Box-Based Segment Anything Model for Large-Scale Medical Image Datasets
+https://arxiv.org/abs/2409.07054 | [2409.07054] Native vs Non-Native Language Prompting: A Comparative Analysis
+https://arxiv.org/abs/2409.06821 | [2409.06821] Sam2Rad: A Segmentation Model for Medical Images with Learnable Prompts
+https://arxiv.org/abs/2409.06809 | [2409.06809] DetailCLIP: Detail-Oriented CLIP for Fine-Grained Tasks
+https://arxiv.org/abs/2409.06706 | [2409.06706] Discovering Long-Term Effects on Parameter Efficient Fine-tuning
+https://arxiv.org/abs/2409.07454 | [2409.07454] DreamMesh: Jointly Manipulating and Texturing Triangle Meshes for Text-to-3D Generation
+https://arxiv.org/abs/2409.07446 | [2409.07446] Adaptive Adapter Routing for Long-Tailed Class-Incremental Learning
