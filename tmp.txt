@@ -1,13 +1,17 @@
-https://arxiv.org/abs/2409.13684 | [2409.13684] The FIX Benchmark: Extracting Features Interpretable to eXperts
-https://arxiv.org/abs/2409.13652 | [2409.13652] OATS: Outlier-Aware Pruning Through Sparse and Low Rank Decomposition
-https://arxiv.org/abs/2409.13641 | [2409.13641] Beyond Accuracy Optimization: Computer Vision Losses for Large Language Model Fine-Tuning
-https://arxiv.org/abs/2409.13637 | [2409.13637] Exploring Fine-Grained Image-Text Alignment for Referring Remote Sensing Image Segmentation
-https://arxiv.org/abs/2409.13592 | [2409.13592] YesBut: A High-Quality Annotated Multimodal Dataset for evaluating Satire Comprehension capability of Vision-Language Models
-https://arxiv.org/abs/2409.13544 | [2409.13544] Graph Similarity Regularized Softmax for Semi-Supervised Node Classification
-https://arxiv.org/abs/2409.13535 | [2409.13535] Formula-Supervised Visual-Geometric Pre-training
-https://arxiv.org/abs/2409.13521 | [2409.13521] A Survey on Moral Foundation Theory and Pre-Trained Language Models: Current Advances and Challenges
-https://arxiv.org/abs/2409.13401 | [2409.13401] PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images
-https://arxiv.org/abs/2409.13275 | [2409.13275] Adaptive Margin Global Classifier for Exemplar-Free Class-Incremental Learning
-https://arxiv.org/abs/2409.13199 | [2409.13199] CFSP: An Efficient Structured Pruning Framework for LLMs with Coarse-to-Fine Activation Information
-https://arxiv.org/abs/2409.13229 | [2409.13229] Multiscale Encoder and Omni-Dimensional Dynamic Convolution Enrichment in nnU-Net for Brain Tumor Segmentation
-https://arxiv.org/abs/2409.13146 | [2409.13146] GASA-UNet: Global Axial Self-Attention U-Net for 3D Medical Image Segmentation
+https://arxiv.org/abs/2409.14021 | [2409.14021] BrainDreamer: Reasoning-Coherent and Controllable Image Generation from EEG Brain Signals via Language Guidance
+https://arxiv.org/abs/2409.13999 | [2409.13999] Multiple-Exit Tuning: Towards Inference-Efficient Adaptation for Vision Transformer
+https://arxiv.org/abs/2409.13983 | [2409.13983] Enhanced Semantic Segmentation for Large-Scale and Imbalanced Point Clouds
+https://arxiv.org/abs/2409.13984 | [2409.13984] Cycle-Consistency Uncertainty Estimation for Visual Prompting based One-Shot Defect Segmentation
+https://arxiv.org/abs/2409.13728 | [2409.13728] Rule Extrapolation in Language Models: A Study of Compositional Generalization on OOD Prompts
+https://arxiv.org/abs/2409.14874 | [2409.14874] Towards Ground-truth-free Evaluation of Any Segmentation in Medical Images
+https://arxiv.org/abs/2409.15028 | [2409.15028] Region Mixup
+https://arxiv.org/abs/2409.14993 | [2409.14993] Multi-Modal Generative AI: Multi-modal LLM, Diffusion and Beyond
+https://arxiv.org/abs/2409.14983 | [2409.14983] Dynamic Integration of Task-Specific Adapters for Class Incremental Learning
+https://arxiv.org/abs/2409.14846 | [2409.14846] A-VL: Adaptive Attention for Large Vision-Language Models
+https://arxiv.org/abs/2409.14759 | [2409.14759] VLM's Eye Examination: Instruct and Inspect Visual Competency of Vision Language Models
+https://arxiv.org/abs/2409.14703 | [2409.14703] MemeCLIP: Leveraging CLIP Representations for Multimodal Meme Classification
+https://arxiv.org/abs/2409.14607 | [2409.14607] Patch Ranking: Efficient CLIP by Learning to Rank Local Patches
+https://arxiv.org/abs/2409.14195 | [2409.14195] The Imperative of Conversation Analysis in the Era of LLMs: A Survey of Tasks, Techniques, and Trends
+https://arxiv.org/abs/2409.15278 | [2409.15278] PixWizard: Versatile Image-to-Image Visual Assistant with Open-Language Instructions
+https://arxiv.org/abs/2409.15277 | [2409.15277] A Preliminary Study of o1 in Medicine: Are We Closer to an AI Doctor?
+https://arxiv.org/abs/2409.15250 | [2409.15250] ReVLA: Reverting Visual Domain Limitation of Robotic Foundation Models
