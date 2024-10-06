@@ -1,19 +1,22 @@
-https://arxiv.org/abs/2409.15812 | [2409.15812] Aided design of bridge aesthetics based on Stable Diffusion fine-tuning
-https://arxiv.org/abs/2409.15801 | [2409.15801] DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation
-https://arxiv.org/abs/2409.15761 | [2409.15761] TFG: Unified Training-Free Guidance for Diffusion Models
-https://arxiv.org/abs/2409.15700 | [2409.15700] Making Text Embedders Few-Shot Learners
-https://arxiv.org/abs/2409.15574 | [2409.15574] Clinical-grade Multi-Organ Pathology Report Generation for Multi-scale Whole Slide Images via a Semantically Guided Medical Text Foundation Model
-https://arxiv.org/abs/2409.15565 | [2409.15565] Critic Loss for Image Classification
-https://arxiv.org/abs/2409.15486 | [2409.15486] VLMine: Long-Tail Data Mining with Vision Language Models
-https://arxiv.org/abs/2409.15310 | [2409.15310] Visual Prompting in Multimodal Large Language Models: A Survey
-https://arxiv.org/abs/2409.15889 | [2409.15889] CAD: Memory Efficient Convolutional Adapter for Segment Anything
-https://arxiv.org/abs/2409.15875 | [2409.15875] Zero-Shot Detection of AI-Generated Images
-https://arxiv.org/abs/2409.16024 | [2409.16024] Bridging Environments and Language with Rendering Functions and Vision-Language Models
-https://arxiv.org/abs/2409.16002 | [2409.16002] Unleashing the Potential of Synthetic Images: A Study on Histopathology Image Classification
-https://arxiv.org/abs/2409.15986 | [2409.15986] Exploring the Impact of Outlier Variability on Anomaly Detection Evaluation Metrics
-https://arxiv.org/abs/2409.16287 | [2409.16287] Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking
-https://arxiv.org/abs/2409.16239 | [2409.16239] Label-Augmented Dataset Distillation
-https://arxiv.org/abs/2409.16223 | [2409.16223] Fine-Tuning is Fine, if Calibrated
-https://arxiv.org/abs/2409.16205 | [2409.16205] Segmentation Strategies in Deep Learning for Prostate Cancer Diagnosis: A Comparative Study of Mamba, SAM, and YOLO
-https://arxiv.org/abs/2409.16136 | [2409.16136] HA-FGOVD: Highlighting Fine-grained Attributes via Explicit Linear Composition for Open-Vocabulary Object Detection
-https://arxiv.org/abs/2409.16126 | [2409.16126] VisioPhysioENet: Multimodal Engagement Detection using Visual and Physiological Signals
+https://arxiv.org/abs/2409.18119 | [2409.18119] Multi-View and Multi-Scale Alignment for Contrastive Language-Image Pre-training in Mammography
+https://arxiv.org/abs/2409.17805 | [2409.17805] Cascade Prompt Learning for Vision-Language Model Adaptation
+https://arxiv.org/abs/2409.17675 | [2409.17675] EM-Net: Efficient Channel and Frequency Learning with Mamba for 3D Medical Image Segmentation
+https://arxiv.org/abs/2409.17485 | [2409.17485] Revisiting Deep Ensemble Uncertainty for Enhanced Medical Anomaly Detection
+https://arxiv.org/abs/2409.17453 | [2409.17453] AgMTR: Agent Mining Transformer for Few-shot Segmentation in Remote Sensing
+https://arxiv.org/abs/2409.17439 | [2409.17439] Rejection Sampling IMLE: Designing Priors for Better Few-Shot Image Synthesis
+https://arxiv.org/abs/2409.17332 | [2409.17332] Block Expanded DINORET: Adapting Natural Domain Foundation Models for Retinal Imaging Without Catastrophic Forgetting
+https://arxiv.org/abs/2409.17330 | [2409.17330] VL4AD: Vision-Language Models Improve Pixel-wise Anomaly Detection
+https://arxiv.org/abs/2409.17486 | [2409.17486] Global-Local Medical SAM Adaptor Based on Full Adaption
+https://arxiv.org/abs/2409.17143 | [2409.17143] Attention Prompting on Image for Large Vision-Language Models
+https://arxiv.org/abs/2409.17106 | [2409.17106] Text2CAD: Generating Sequential CAD Models from Beginner-to-Expert Level Text Prompts
+https://arxiv.org/abs/2409.16949 | [2409.16949] DALDA: Data Augmentation Leveraging Diffusion Model and LLM with Adaptive Guidance Scaling
+https://www.arxiv.org/abs/2409.16860 | [2409.16860] The Role of Language Models in Modern Healthcare: A Comprehensive Review
+https://arxiv.org/abs/2409.16723 | [2409.16723] EAGLE: Towards Efficient Arbitrary Referring Visual Prompts Comprehension for Multimodal Large Language Models
+https://arxiv.org/abs/2409.16718 | [2409.16718] Vision-Language Model Fine-Tuning via Simple Parameter-Efficient Modification
+https://arxiv.org/abs/2409.16535 | [2409.16535] Prompt Sliders for Fine-Grained Control, Editing and Erasing of Concepts in Diffusion Models
+https://www.arxiv.org/abs/2409.16494 | [2409.16494] A Unified Hallucination Mitigation Framework for Large Vision-Language Models
+https://arxiv.org/abs/2409.17122 | [2409.17122] Classification of Gleason Grading in Prostate Cancer Histopathology Images Using Deep Learning Techniques: YOLO, Vision Transformers, and Vision Mamba
+https://arxiv.org/abs/2409.16797 | [2409.16797] Scalable Ensemble Diversification for OOD Generalization and Detection
+https://arxiv.org/abs/2409.16728 | [2409.16728] SDCL: Students Discrepancy-Informed Correction Learning for Semi-supervised Medical Image Segmentation
+https://arxiv.org/abs/2409.16434 | [2409.16434] Lessons Learned from a Unifying Empirical Study of Parameter-Efficient Transfer Learning (PETL) in Visual Recognition
+https://arxiv.org/abs/2409.16391 | [2409.16391] Patch-Based Contrastive Learning and Memory Consolidation for Online Unsupervised Continual Learning
