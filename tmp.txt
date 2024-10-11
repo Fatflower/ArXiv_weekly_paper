@@ -1,0 +1,82 @@
+https://arxiv.org/abs/2410.08211 | [2410.08211] LatteCLIP: Unsupervised CLIP Fine-Tuning via LMM-Synthetic Texts
+https://arxiv.org/abs/2410.08202 | [2410.08202] Mono-InternVL: Pushing the Boundaries of Monolithic Multimodal Large Language Models with Endogenous Visual Pre-training
+https://arxiv.org/abs/2410.08192 | [2410.08192] HybridBooth: Hybrid Prompt Inversion for Efficient Subject-Driven Generation
+https://arxiv.org/abs/2410.08184 | [2410.08184] Scaling Laws For Diffusion Transformers
+https://arxiv.org/abs/2410.08159 | [2410.08159] DART: Denoising Autoregressive Transformer for Scalable Text-to-Image Generation
+https://arxiv.org/abs/2410.08119 | [2410.08119] Q-VLM: Post-training Quantization for Large Vision-Language Models
+https://arxiv.org/abs/2410.08114 | [2410.08114] Parameter-Efficient Fine-Tuning in Spectral Domain for Point Cloud Learning
+https://arxiv.org/abs/2410.08091 | [2410.08091] Distribution Guidance Network for Weakly Supervised Point Cloud Semantic Segmentation
+https://arxiv.org/abs/2410.08020 | [2410.08020] Efficiently Learning at Test-Time: Active Fine-Tuning of LLMs
+https://arxiv.org/abs/2410.08000 | [2410.08000] AHA: Human-Assisted Out-of-Distribution Generalization and Detection
+https://arxiv.org/abs/2410.07896 | [2410.07896] Executing Arithmetic: Fine-Tuning Large Language Models as Turing Machines
+https://arxiv.org/abs/2410.07884 | [2410.07884] Generated Bias: Auditing Internal Bias Dynamics of Text-To-Image Generative Models
+https://arxiv.org/abs/2410.07854 | [2410.07854] HeGraphAdapter: Tuning Multi-Modal Vision-Language Models with Heterogeneous Graph Adapter
+https://arxiv.org/abs/2410.07838 | [2410.07838] MinorityPrompt: Text to Minority Image Generation via Prompt Optimization
+https://arxiv.org/abs/2410.07824 | [2410.07824] Exploring Foundation Models in Remote Sensing Image Change Detection: A Comprehensive Survey
+https://arxiv.org/abs/2410.07812 | [2410.07812] Temporal-Difference Variational Continual Learning
+https://arxiv.org/abs/2410.07617 | [2410.07617] Prototype-based Optimal Transport for Out-of-Distribution Detection
+https://arxiv.org/abs/2410.07593 | [2410.07593] A Unified Debiasing Approach for Vision-Language Models across Modalities and Tasks
+https://arxiv.org/abs/2410.07336 | [2410.07336] Positive-Augmented Contrastive Learning for Vision-and-Language Evaluation and Training
+https://arxiv.org/abs/2410.07185 | [2410.07185] Margin-bounded Confidence Scores for Out-of-Distribution Detection
+https://arxiv.org/abs/2410.07149 | [2410.07149] Towards Interpreting Visual Information Processing in Vision-Language Models
+https://arxiv.org/abs/2410.07133 | [2410.07133] EvolveDirector: Approaching Advanced Text-to-Image Generation with Large Vision-Language Models
+https://arxiv.org/abs/2410.07112 | [2410.07112] VHELM: A Holistic Evaluation of Vision Language Models
+https://arxiv.org/abs/2410.07110 | [2410.07110] Continual Learning: Less Forgetting, More OOD Generalization via Adaptive Contrastive Replay
+https://arxiv.org/abs/2410.07030 | [2410.07030] Clean Evaluations on Contaminated Visual Language Models
+https://arxiv.org/abs/2410.07025 | [2410.07025] Preference Fine-Tuning for Factuality in Chest X-Ray Interpretation Models Without Human Feedback
+https://arxiv.org/abs/2410.07018 | [2410.07018] Tri-Level Navigator: LLM-Empowered Tri-Level Learning for Time Series OOD Generalization
+https://arxiv.org/abs/2410.06795 | [2410.06795] From Pixels to Tokens: Revisiting Object Hallucinations in Large Vision-Language Models
+https://arxiv.org/abs/2410.06741 | [2410.06741] CoBa: Convergence Balancer for Multitask Finetuning of Large Language Models
+https://arxiv.org/abs/2410.06625 | [2410.06625] ETA: Evaluating Then Aligning Safety of Vision Language Models at Inference Time
+https://arxiv.org/abs/2410.06475 | [2410.06475] 3D Representation Methods: A Survey
+https://arxiv.org/abs/2410.06456 | [2410.06456] From Generalist to Specialist: Adapting Vision Language Models via Task-Specific Visual Instruction Tuning
+https://arxiv.org/abs/2410.06304 | [2410.06304] Fine-grained Hallucination Detection and Mitigation in Language Model Mathematical Reasoning
+https://arxiv.org/abs/2410.06134 | [2410.06134] Adaptive Label Smoothing for Out-of-Distribution Detection
+https://arxiv.org/abs/2410.05993 | [2410.05993] Aria: An Open Multimodal Native Mixture-of-Experts Model
+https://arxiv.org/abs/2410.05963 | [2410.05963] Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts
+https://arxiv.org/abs/2410.05905 | [2410.05905] MedUniSeg: 2D and 3D Medical Image Segmentation via a Prompt-driven Universal Model
+https://arxiv.org/abs/2410.05627 | [2410.05627] CLOSER: Towards Better Representation Learning for Few-Shot Class-Incremental Learning
+https://arxiv.org/abs/2410.05495 | [2410.05495] Self-rationalization improves LLM as a fine-grained judge
+https://arxiv.org/abs/2410.05352 | [2410.05352] Recent Advances of Multimodal Continual Learning: A Comprehensive Survey
+https://arxiv.org/abs/2410.06542 | [2410.06542] MedImageInsight: An Open-Source Embedding Model for General Domain Medical Imaging
+https://arxiv.org/abs/2410.05270 | [2410.05270] Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia
+https://arxiv.org/abs/2410.05261 | [2410.05261] TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens
+https://arxiv.org/abs/2410.05249 | [2410.05249] LoTLIP: Improving Language-Image Pre-training for Long Text Understanding
+https://arxiv.org/abs/2410.05248 | [2410.05248] SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe
+https://arxiv.org/abs/2410.05239 | [2410.05239] TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models
+https://arxiv.org/abs/2410.05233 | [2410.05233] SimO Loss: Anchor-Free Contrastive Loss for Fine-Grained Supervised Contrastive Learning
+https://arxiv.org/abs/2410.05234 | [2410.05234] DiffuseReg: Denoising Diffusion Model for Obtaining Deformation Fields in Unsupervised Deformable Image Registration
+https://arxiv.org/abs/2410.05210 | [2410.05210] Preserving Multi-Modal Capabilities of Pre-trained VLMs for Improving Vision-Linguistic Compositionality
+https://arxiv.org/abs/2410.05180 | [2410.05180] Enhancing Equity in Large Language Models for Medical Applications
+https://arxiv.org/abs/2410.05160 | [2410.05160] VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks
+https://arxiv.org/abs/2410.05100 | [2410.05100] IGroupSS-Mamba: Interval Group Spatial-Spectral Mamba for Hyperspectral Image Classification
+https://arxiv.org/abs/2410.05078 | [2410.05078] Compression via Pre-trained Transformers: A Study on Byte-Level Multimodal Data
+https://arxiv.org/abs/2410.05057 | [2410.05057] SELECT: A Large-Scale Benchmark of Data Curation Strategies for Image Classification
+https://arxiv.org/abs/2410.05051 | [2410.05051] HE-Drive: Human-Like End-to-End Driving with Vision Language Models
+https://arxiv.org/abs/2410.04960 | [2410.04960] On Efficient Variants of Segment Anything Model: A Survey
+https://arxiv.org/abs/2410.04932 | [2410.04932] OmniBooth: Learning Latent Control for Image Synthesis with Multi-modal Instruction
+https://arxiv.org/abs/2410.04925 | [2410.04925] Intent Classification for Bank Chatbots through LLM Fine-Tuning
+https://arxiv.org/abs/2410.04906 | [2410.04906] Art2Mus: Bridging Visual Arts and Music through Cross-Modal Generation
+https://arxiv.org/abs/2410.04891 | [2410.04891] Low-Rank Continual Personalization of Diffusion Models
+https://arxiv.org/abs/2410.04842 | [2410.04842] A Simple Image Segmentation Framework via In-Context Examples
+https://arxiv.org/abs/2410.04738 | [2410.04738] Diffusion Models in 3D Vision: A Survey
+https://arxiv.org/abs/2410.04734 | [2410.04734] TLDR: Token-Level Detective Reward Model for Large Vision Language Models
+https://arxiv.org/abs/2410.04689 | [2410.04689] Low-Rank Continual Pyramid Vision Transformer: Incrementally Segment Whole-Body Organs in CT with Light-Weighted Adaptation
+https://arxiv.org/abs/2410.04659 | [2410.04659] ActiView: Evaluating Active Perception Ability for Multimodal Large Language Models
+https://arxiv.org/abs/2410.04648 | [2410.04648] AdaptDiff: Cross-Modality Domain Adaptation via Weak Conditional Semantic Diffusion for Retinal Vessel Segmentation
+https://arxiv.org/abs/2410.04634 | [2410.04634] Is What You Ask For What You Get? Investigating Concept Associations in Text-to-Image Models
+https://arxiv.org/abs/2410.04609 | [2410.04609] VISTA: A Visual and Textual Attention Dataset for Interpreting Multimodal Models
+https://arxiv.org/abs/2410.04525 | [2410.04525] Look Around and Find Out: OOD Detection with Relative Angles
+https://arxiv.org/abs/2410.04524 | [2410.04524] Towards Secure Tuning: Mitigating Security Risks Arising from Benign Instruction Fine-Tuning
+https://arxiv.org/abs/2410.04507 | [2410.04507] MECFormer: Multi-task Whole Slide Image Classification with Expert Consultation Network
+https://arxiv.org/abs/2410.04492 | [2410.04492] Interpret Your Decision: Logical Reasoning Regularization for Generalization in Visual Classification
+https://arxiv.org/abs/2410.04434 | [2410.04434] A Mathematical Explanation of UNet
+https://arxiv.org/abs/2410.04417 | [2410.04417] SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference
+https://arxiv.org/abs/2410.04345 | [2410.04345] MVP-Bench: Can Large Vision--Language Models Conduct Multi-level Visual Perception Like Humans?
+https://arxiv.org/abs/2410.04327 | [2410.04327] Leveraging Hierarchical Taxonomies in Prompt-based Continual Learning
+https://arxiv.org/abs/2410.04199 | [2410.04199] LongGenBench: Long-context Generation Benchmark
+https://arxiv.org/abs/2410.04055 | [2410.04055] Self-Correction is More than Refinement: A Learning Framework for Visual and Language Reasoning Tasks
+https://arxiv.org/abs/2409.20398 | [2409.20398] AUCSeg: AUC-oriented Pixel-level Long-tail Semantic Segmentation
+https://arxiv.org/abs/2410.04172 | [2410.04172] DB-SAM: Delving into High Quality Universal Medical Image Segmentation
+https://arxiv.org/abs/2410.04123 | [2410.04123] WAVE-UNET: Wavelength based Image Reconstruction method using attention UNET for OCT images
+https://arxiv.org/abs/2410.04000 | [2410.04000] Multiscale Latent Diffusion Model for Enhanced Feature Extraction from Medical Images
