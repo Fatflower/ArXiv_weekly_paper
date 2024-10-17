@@ -1,54 +1,12 @@
-https://arxiv.org/abs/2410.09016 | [2410.09016] Parameter-Efficient Fine-Tuning of State Space Models
-https://arxiv.org/abs/2410.09009 | [2410.09009] Semantic Score Distillation Sampling for Compositional Text-to-3D Generation
-https://arxiv.org/abs/2410.08974 | [2410.08974] UniGlyph: A Seven-Segment Script for Universal Language Representation
-https://arxiv.org/abs/2410.08895 | [2410.08895] Calibrated Cache Model for Few-Shot Vision-Language Model Adaptation
-https://arxiv.org/abs/2410.08860 | [2410.08860] Audio Description Generation in the Era of LLMs and VLMs: A Review of Transferable Generative AI Technologies
-https://arxiv.org/abs/2410.08781 | [2410.08781] VideoSAM: Open-World Video Segmentation
-https://arxiv.org/abs/2410.08611 | [2410.08611] Conjugated Semantic Pool Improves OOD Detection with Pre-trained Vision-Language Models
-https://arxiv.org/abs/2410.08469 | [2410.08469] Semantic Token Reweighting for Interpretable and Controllable Text Embeddings in CLIP
-https://arxiv.org/abs/2410.08435 | [2410.08435] Symbolic Music Generation with Fine-grained Interactive Textural Guidance
-https://arxiv.org/abs/2410.08261 | [2410.08261] Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis
-https://arxiv.org/abs/2410.10817 | [2410.10817] When Does Perceptual Alignment Benefit Vision Representations?
-https://arxiv.org/abs/2410.10814 | [2410.10814] Your Mixture-of-Experts LLM Is Secretly an Embedding Model For Free
-https://arxiv.org/abs/2410.10801 | [2410.10801] Mix Data or Merge Models? Optimizing for Diverse Multi-Task Learning
-https://arxiv.org/abs/2410.10777 | [2410.10777] UniMatch V2: Pushing the Limit of Semi-Supervised Semantic Segmentation
-https://arxiv.org/abs/2410.10745 | [2410.10745] FlexGen: Flexible Multi-View Generation from Text and Image Inputs
-https://arxiv.org/abs/2410.10739 | [2410.10739] Balancing Continuous Pre-Training and Instruction Fine-Tuning: Optimizing Instruction-Following in LLMs
-https://arxiv.org/abs/2410.10573 | [2410.10573] Queryable Prototype Multiple Instance Learning with Vision-Language Models for Incremental Whole Slide Image Classification
-https://arxiv.org/abs/2410.10548 | [2410.10548] RICASSO: Reinforced Imbalance Learning with Class-Aware Self-Supervised Outliers Exposure
-https://arxiv.org/abs/2410.10496 | [2410.10496] Vision-guided and Mask-enhanced Adaptive Denoising for Prompt-based Image Editing
-https://arxiv.org/abs/2410.10491 | [2410.10491] Learning to Ground VLMs without Forgetting
-https://arxiv.org/abs/2410.10397 | [2410.10397] Tighter Risk Bounds for Mixtures of Experts
-https://arxiv.org/abs/2410.10382 | [2410.10382] V2M: Visual 2-Dimensional Mamba for Image Representation Learning
-https://arxiv.org/abs/2410.10329 | [2410.10329] GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs
-https://arxiv.org/abs/2410.10316 | [2410.10316] GlobalMamba: Global Image Serialization for Vision Mamba
-https://arxiv.org/abs/2410.10289 | [2410.10289] Fine-grained Abnormality Prompt Learning for Zero-shot Anomaly Detection
-https://arxiv.org/abs/2410.10247 | [2410.10247] LOBG:Less Overfitting for Better Generalization in Vision-Language Model
-https://arxiv.org/abs/2410.10227 | [2410.10227] KNN Transformer with Pyramid Prompts for Few-Shot Learning
-https://arxiv.org/abs/2410.10179 | [2410.10179] Is Parameter Collision Hindering Continual Learning in LLMs?
-https://arxiv.org/abs/2410.10139 | [2410.10139] MMIE: Massive Multimodal Interleaved Comprehension Benchmark for Large Vision-Language Models
-https://arxiv.org/abs/2410.10112 | [2410.10112] Can We Predict Performance of Large Models across Vision-Language Tasks?
-https://arxiv.org/abs/2410.10034 | [2410.10034] TULIP: Token-length Upgraded CLIP
-https://arxiv.org/abs/2410.09855 | [2410.09855] Text4Seg: Reimagining Image Segmentation as Text Generation
-https://arxiv.org/abs/2410.09845 | [2410.09845] Understanding Robustness of Parameter-Efficient Tuning for Image Classification
-https://arxiv.org/abs/2410.09797 | [2410.09797] Task Adaptive Feature Distribution Based Network for Few-shot Fine-grained Target Classification
-https://arxiv.org/abs/2410.09714 | [2410.09714] AM-SAM: Automated Prompting and Mask Calibration for Segment Anything Model
-https://arxiv.org/abs/2410.09733 | [2410.09733] MMCOMPOSITION: Revisiting the Compositionality of Pre-trained Vision-Language Models
-https://arxiv.org/abs/2410.09649 | [2410.09649] Learning the Bitter Lesson: Empirical Evidence from 20 Years of CVPR Proceedings
-https://arxiv.org/abs/2410.09645 | [2410.09645] AI Model Registries: A Foundational Tool for AI Governance
-https://arxiv.org/abs/2410.09437 | [2410.09437] MTL-LoRA: Low-Rank Adaptation for Multi-Task Learning
-https://arxiv.org/abs/2410.09365 | [2410.09365] Debiasing Vison-Language Models with Text-Only Training
-https://arxiv.org/abs/2410.09400 | [2410.09400] CtrLoRA: An Extensible and Efficient Framework for Controllable Image Generation
-https://arxiv.org/abs/2410.09237 | [2410.09237] Foundation Model-Powered 3D Few-Shot Class Incremental Learning via Training-free Adaptor
-https://arxiv.org/abs/2410.09218 | [2410.09218] Continual Learning with Neuromorphic Computing: Theories, Methods, and Applications
-https://arxiv.org/abs/2410.09176 | [2410.09176] Cross-Domain Evaluation of Few-Shot Classification Models: Natural Images vs. Histopathological Images
-https://arxiv.org/abs/2410.11829 | [2410.11829] MMFuser: Multimodal Multi-Layer Feature Fuser for Fine-Grained Vision-Language Understanding
-https://arxiv.org/abs/2410.11817 | [2410.11817] Improving Long-Text Alignment for Text-to-Image Diffusion Models
-https://arxiv.org/abs/2410.11576 | [2410.11576] The Best of Both Worlds: On the Dilemma of Out-of-distribution Detection
-https://arxiv.org/abs/2410.11536 | [2410.11536] Overcoming Domain Limitations in Open-vocabulary Segmentation
-https://arxiv.org/abs/2410.11374 | [2410.11374] Augmentation-Driven Metric for Balancing Preservation and Modification in Text-Guided Image Editing
-https://arxiv.org/abs/2410.11307 | [2410.11307] CONSULT: Contrastive Self-Supervised Learning for Few-shot Tumor Detection
-https://arxiv.org/abs/2410.11201 | [2410.11201] Tree of Attributes Prompt Learning for Vision-Language Models
-https://arxiv.org/abs/2410.11160 | [2410.11160] MANet: Fine-Tuning Segment Anything Model for Multimodal Remote Sensing Semantic Segmentation
-https://arxiv.org/abs/2410.10868 | [2410.10868] LLaCA: Multimodal Large Language Continual Assistant
-https://arxiv.org/abs/2410.11578 | [2410.11578] STA-Unet: Rethink the semantic redundant for Medical Imaging Segmentation
+https://arxiv.org/abs/2410.12790 | [2410.12790] Dual Prototype Evolving for Test-Time Generalization of Vision-Language Models
+https://arxiv.org/abs/2410.12694 | [2410.12694] VividMed: Vision Language Model with Versatile Visual Grounding for Medicine
+https://arxiv.org/abs/2410.12669 | [2410.12669] 3DIS: Depth-Driven Decoupled Instance Synthesis for Text-to-Image Generation
+https://arxiv.org/abs/2410.12662 | [2410.12662] Cross-Modal Safety Mechanism Transfer in Large Vision-Language Models
+https://arxiv.org/abs/2410.12595 | [2410.12595] CMAL: A Novel Cross-Modal Associative Learning Framework for Vision-Language Pre-Training
+https://arxiv.org/abs/2410.12388 | [2410.12388] Prompt Compression for Large Language Models: A Survey
+https://arxiv.org/abs/2410.12268 | [2410.12268] VisAnatomy: An SVG Chart Corpus with Fine-Grained Semantic Labels
+https://arxiv.org/abs/2410.12178 | [2410.12178] Model Balancing Helps Low-data Training and Fine-tuning
+https://arxiv.org/abs/2410.11963 | [2410.11963] CtrlSynth: Controllable Image Text Synthesis for Data-Efficient Multimodal Learning
+https://arxiv.org/abs/2410.12567 | [2410.12567] SeQuiFi: Mitigating Catastrophic Forgetting in Speech Emotion Recognition with Sequential Class-Finetuning
+https://arxiv.org/abs/2410.11910 | [2410.11910] Explainable AI Methods for Multi-Omics Analysis: A Survey
+https://arxiv.org/abs/2410.11842 | [2410.11842] MoH: Multi-Head Attention as Mixture-of-Head Attention
